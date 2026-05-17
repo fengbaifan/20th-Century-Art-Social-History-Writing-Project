@@ -1,0 +1,60 @@
+﻿Drupal Field Name,Field Definition,Format Guidelines,WordPress Field Name,WordPress Field Type,Dublin Core Equivalent,Controlled Vocabulary / Standard,Notes
+Title,Established name of the art historian.,"• Form that appears in English. 
+• As listed in Oxford Dictionary of National Biography or other reference(s) or version most published.
+• [Last, First Middle], e.g. ""Miller, Dorothy Canning"". • If only first initial(s) is/are given: [Last, F.], e.g. ""Miller, D."" or ""Miller, D. C."".
+• If no middle name is given: [Last, First], e.g. ""Miller, Dorothy"". 
+• If only a middle initial is given: [Last, First M.], e.g. ""Miller, Dorothy C.""
+• If only one name is given: [Name], e.g. ""Aristotle"".",title,Plain Text,title,n/a,
+Full Name,Established name of the art historian.,"• Form that appears in English. 
+• As listed in Oxford Dictionary of National Biography or other reference(s) or version most published.
+• [Last, First Middle], e.g. ""Miller, Dorothy Canning"". • If only first initial(s) is/are given: [Last, F.], e.g. ""Miller, D."" or ""Miller, D. C."".
+• If no middle name is given: [Last, First], e.g. ""Miller, Dorothy"". 
+• If only a middle initial is given: [Last, First M.], e.g. ""Miller, Dorothy C.""
+• If only one name is given: [Name], e.g. ""Aristotle"".",full_name,Plain Text,title,n/a,
+Other Names,"Art historian's translations, aliases, sobriquets, variations, etc. One name per field.",[First Middle Last],other_names,Plain Text (repeatable),title,n/a,
+Birth Approximation,"For entering modifiers such as c., fl., before, after, etc.","• Use ""c."" for ""circa"" if exact date or year is uncertain, e.g. [c. 1800]. 
+• If an artist is known to have been born or died before or after a specific date, use ""before,"" e.g. [before 1660] or ""after,"" e.g. [after 1660] to indicate this.
+• If a birth date is not available but an active date is, use ""fl."" for ""flourished, e.g. [fl. 1550]. 
+• If a year falls prior to the common era (C.E. or A.D.), format the date as YYYY B.C.E., e.g. [500 B.C.E.].",birth_approximation,Plain Text,date,n/a,
+Birth Day(s),Day the art historian was born.,"[DD], e.g. ""01"" or ""13"". If a range, [DD-DD], e.g. ""01-04"". If unknown, leave blank.",birth_days,Plain Text,date,n/a,
+Birth Month(s),Month the art historian was born.,"[Month], e.g. ""January"". If a range is known: [Month-Month], e.g. ""March-April"". If unknown, leave blank.",birth_months,Plain Text,date,n/a,
+Birth Year(s),Year the art historian was born.,"[YYYY], e.g. ""1901"". Use ""c."" for ""circa"" if exact date or year is uncertain, e.g. ""c. 1800"". If an artist is known to have been born or died before or after a specific date, use ""before,"" e.g. “before 1660” or ""after,"" e.g. “after 1660” to indicate this. If a birth date is not available but an active date is, use ""fl."" for ""flourished, e.g. “fl. 1550”. If a year falls prior to the common era (C.E. or A.D.), format the date as [YYYY B.C.E.], e.g. “500 B.C.E.” If a birth or death date is not known or not found in existing documentation, enter ""unknown"" in the year field. If a date is disputed in sources, include the date range and an explanation of different dates and their sources in the Overview and/or Notes fields.",birth_years,Plain Text,date,n/a,
+Death Approximation,"For entering modifiers such as c., fl., before, after, etc.","• Use ""c."" for ""circa"" if exact date or year is uncertain, e.g. [c. 1800]. 
+• If an artist is known to have been born or died before or after a specific date, use ""before,"" e.g. [before 1660] or ""after,"" e.g. [after 1660] to indicate this.
+• If a birth date is not available but an active date is, use ""fl."" for ""flourished, e.g. [fl. 1550]. 
+• If a year falls prior to the common era (C.E. or A.D.), format the date as YYYY B.C.E., e.g. [500 B.C.E.].",death_approximation,Plain Text,date,n/a,
+Death Day(s),Day the art historian died.,"[DD], e.g. ""01"" or ""13"". If a range, [DD-DD], e.g. ""01-04"". If unknown, leave blank.",death_days,Plain Text,date,n/a,
+Death Month(s),Month the art historian died.,"[Month], e.g. ""January"". If a range is known: [Month-Month], e.g. ""March-April"". If unknown, leave blank.",death_months,Plain Text,date,n/a,
+Death Year(s),Year the art historian died.,"[YYYY], e.g. ""1901"". Use ""c."" for ""circa"" if exact date or year is uncertain, e.g. ""c. 1800"". If an artist is known to have been born or died before or after a specific date, use ""before,"" e.g. “before 1660” or ""after,"" e.g. “after 1660” to indicate this. If a birth date is not available but an active date is, use ""fl."" for ""flourished, e.g. “fl. 1550”. If a year falls prior to the common era (C.E. or A.D.), format the date as [YYYY B.C.E.], e.g. “500 B.C.E.” If a birth or death date is not known or not found in existing documentation, enter ""unknown"" in the year field. If a date is disputed in sources, include the date range and an explanation of different dates and their sources in the Overview and/or Notes fields.",death_years,Plain Text,date,n/a,
+Place Born Notes,"For details about place that do not fit taxonomy, e.g. ""on a ship in the South Pacific Ocean"".","Short description to appear after any selected Place taxonomy. If no Place taxonomy is selected, this short description should include all relevant details in as brief a description as possible.",place_born_notes,Plain Text,coverage,n/a,
+Place Died Notes,"For details about place that do not fit taxonomy, e.g. ""Flanders Fields"".","Short description to appear after any selected Place taxonomy. If no Place taxonomy is selected, this short description should include all relevant details in as brief a description as possible.",place_died_notes,Plain Text,coverage,n/a,
+Place Born,Location the art historian was born.,"[City, County or State, Country], e.g. ""Boston, MA, USA"" or ""Howth, County Dublin, Ireland"". 
+• If only a region is known: [Region, Country], e.g. ""England, UK"".
+• If a neighborhood or borough is known: [Neighborhood, City, State, Country], e.g. ""Brooklyn, New York, NY, United States"".
+• If the place name during the person's life time is different from the present day place name, list the historic place name in the Place Born Notes field.",place_born,Taxonomy,coverage,"Getty Thesaurus of Geographic Names,World-Historical Gazetteer,GeoNames",
+Place Died,Location the art historian died.,"[City, County or State, Country], e.g. ""Boston, MA, USA"" or ""Howth, County Dublin, Ireland"". 
+• If only a region is known: [Region, Country], e.g. ""England, UK"".
+• If a neighborhood or borough is known: [Neighborhood, City, State, Country], e.g. ""Brooklyn, New York, NY, United States"".
+• If the place name during the person's life time is different from the present day place name, list the historic place name in the Place Died Notes field.",place_died,Taxonomy,coverage,"Getty Thesaurus of Geographic Names,World-Historical Gazetteer,GeoNames",
+Gender,Name of gender with which art historian was known to identify based on scholarly documentation or self-reporting.,"Single word/phrase, e.g. ""female"", ""transgender"", ""two-spirit,"" or ""male"".",gender,Taxonomy,description,Homosaurus,
+Home Country,"Name of country/ies in which art historian lived, or was exiled to.","[Country], e.g. ""France"".",home_country,Taxonomy,coverage,"Getty Thesaurus of Geographic Names,World-Historical Gazetteer,GeoNames",
+Institution,"Name of institution(s) art historian was associated with, especially those where they spent the majority of their career.","Authoritative name used by the institution itself in the institution's primary language, e.g. ""Metropolitan Museum of Art"" or ""École Nationale des Chartes"". When in doubt, use the title referred to on Wikipedia.
+
+
+",institution,Taxonomy,coverage,"Wikipedia,Wikidata",
+Career,Name of the career(s) art historian held.,"Single word or phrase, e.g. ""curator"" or ""professor"".",career,Taxonomy,subject,Getty Art & Architecture Thesaurus,
+Subject Area,Disciplinary area(s) in which art historian published and/or held expertise.,"Single word or phrase, e.g. ""eighteenth-century"" or ""painting"".",subject_area,Taxonomy,subject,Getty Art & Architecture Thesaurus,
+Overview,Narrative of the art historian's life and work. ,"First sentence is a fragment stating major (art-historical) importance. The paragraph(s) that follow(s) includes biographical information, links to known art historians in the Dictionary if applicable, relevant work, notable publications, etc.",overview,WYSIWYG (Visual Editor),description,n/a,
+Selected Bibliography,Selected list of art historian's publications and projects.,Unordered list. Chicago Manual of Style.,selected_bibliography,WYSIWYG (Visual Editor),relation,n/a,
+Sources,Source(s) from which information about the art historian is derived.,Unordered list. Chicago Manual of Style.,sources,WYSIWYG (Visual Editor),source,n/a,
+Archives,List of archives containing art historian's materials.,Unordered list. Chicago Manual of Style.,archives,WYSIWYG (Visual Editor),relation,n/a,
+Contributor,Author(s) and editor(s) of the art historian's entry as they wish to be named.,[First Middle Last],contributor,Taxonomy,contributor,n/a,
+Notes,Miscellaneous bucket for uncertainties & internal notes about dates/places.,Phrases or short sentences. Include references here if citing specific conflicting/uncertain information. Please include any information about conflicting or uncertain information here that is not included in the full entry. These notes are only visible to the editor and web content manager.,notes,WYSIWYG (Visual Editor),description,n/a,
+Image,An image of the art historian from a scholarly source.,,image,File / Image / Video,n/a,n/a,
+Image Credit Text,Text name of the image's source.,,image_credit,Plain Text,description,n/a,
+Image Credit URL,URL pointing to the image's location if available.,,image_credit_url,Website,relation,n/a,
+URL,"Slug pointing to the specific entry, e.g. ""/abbottj""","/[lastf] If the slug already exists for another entry, include the year of birth, e.g. /[lastf-YYYY]",url,url,relation,n/a,
+Directory,First initial of the art historian's last name.,[A],directory,Taxonomy,relation,n/a,
+WordPress Unique ID,Unique identifier automatically assigned by WordPress.,n/a,id,id,identifier,n/a,
+Drupal Unique ID,Contains legacy Node ID from Drupal website. Do not use for new entries in Wordpress. This field is not visible in the Art Historians editing template.,,drupal_unique_id,Plain Number,identifier,n/a,
+Date Last Modified,The date and time at which the entry was last modified in the website. Automatically generated by WordPress.,n/a,date,date,date,ISO 8601,
