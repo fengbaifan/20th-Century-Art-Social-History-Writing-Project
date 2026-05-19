@@ -1,6 +1,6 @@
 ---
 full_name: "Anthony Blunt"
-title_zh: "Blunt, Anthony"
+title_zh: "安东尼·布伦特"
 birth: 1907
 death: 1983
 country: United Kingdom

@@ -1,6 +1,6 @@
 ---
 full_name: "Alain LeRoy Locke"
-title_zh: "Locke, Alain LeRoy"
+title_zh: "阿兰·勒罗伊·洛克"
 birth: 1885
 death: 1954
 country: United States

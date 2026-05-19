@@ -1,6 +1,6 @@
 ---
 full_name: "Anita Brookner"
-title_zh: "Brookner, Anita"
+title_zh: "安妮塔·布鲁克纳"
 birth: 1936
 death: 2016
 country: United Kingdom

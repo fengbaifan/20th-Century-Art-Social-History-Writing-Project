@@ -1,6 +1,6 @@
 ---
 full_name: "Alfred Werner"
-title_zh: "Werner, Alfred"
+title_zh: "阿尔弗雷德·维尔纳"
 birth: 1911
 death: 1979
 country: United States

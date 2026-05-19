@@ -1,6 +1,6 @@
 ---
 full_name: "Arnold Hauser"
-title_zh: "Hauser, Arnold"
+title_zh: "阿诺德·豪泽尔"
 birth: 1892
 death: 1978
 country: Hungary

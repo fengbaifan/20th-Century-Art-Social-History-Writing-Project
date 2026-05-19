@@ -38,16 +38,30 @@ REFERENCE_SOURCES = [
 ]
 
 
+import sys
+
 def log_info(msg):
-    print(f"\033[94m[INFO]\033[0m {msg}", flush=True)
+    try:
+        print(f"\033[94m[INFO]\033[0m {msg}", flush=True)
+    except UnicodeEncodeError:
+        safe_msg = msg.encode('utf-8', errors='replace').decode('utf-8', errors='replace')
+        print(f"[INFO] {safe_msg}", flush=True)
 
 
 def log_success(msg):
-    print(f"\033[92m[SUCCESS]\033[0m {msg}", flush=True)
+    try:
+        print(f"\033[92m[SUCCESS]\033[0m {msg}", flush=True)
+    except UnicodeEncodeError:
+        safe_msg = msg.encode('utf-8', errors='replace').decode('utf-8', errors='replace')
+        print(f"[SUCCESS] {safe_msg}", flush=True)
 
 
 def log_warn(msg):
-    print(f"\033[93m[WARN]\033[0m {msg}", flush=True)
+    try:
+        print(f"\033[93m[WARN]\033[0m {msg}", flush=True)
+    except UnicodeEncodeError:
+        safe_msg = msg.encode('utf-8', errors='replace').decode('utf-8', errors='replace')
+        print(f"[WARN] {safe_msg}", flush=True)
 
 
 def has_chinese_chars(text):

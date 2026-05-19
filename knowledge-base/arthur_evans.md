@@ -1,6 +1,6 @@
 ---
 full_name: "Arthur J. Evans"
-title_zh: "Evans, Arthur J., Sir"
+title_zh: "阿瑟·埃文斯"
 birth: 1851
 death: 1941
 country: United Kingdom

@@ -1,6 +1,6 @@
 ---
 full_name: "Albert M. Lythgoe"
-title_zh: "Lythgoe, Albert M."
+title_zh: "阿尔伯特·利思戈"
 birth: 1868
 death: 1934
 country: null

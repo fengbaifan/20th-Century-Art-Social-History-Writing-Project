@@ -1,6 +1,6 @@
 ---
 full_name: "Alice Christiana Gertrude Meynell"
-title_zh: "Meynell, Alice Christiana Gertrude"
+title_zh: "爱丽丝·梅内尔"
 birth: 1847
 death: 1922
 country: United Kingdom

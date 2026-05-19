@@ -1,6 +1,6 @@
 ---
 full_name: "Allard Pierson"
-title_zh: "Pierson, Allard"
+title_zh: "阿拉德·皮尔逊"
 birth: 1831
 death: 1896
 country: Netherlands

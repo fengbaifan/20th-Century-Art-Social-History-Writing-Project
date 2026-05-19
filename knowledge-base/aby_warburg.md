@@ -1,6 +1,6 @@
 ---
 full_name: "Aby M. Warburg"
-title_zh: "Warburg, Aby M."
+title_zh: "阿比瓦堡獎"
 birth: 1866
 death: 1929
 country: Germany
