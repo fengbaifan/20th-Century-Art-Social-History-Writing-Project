@@ -61,12 +61,12 @@ No archive information available. / 暂无档案信息。
 - [[harold_joachim]] — shared institution: Harvard University
 - [[karel_boon]] — shared institution: MIT
 - [[ursula_hoff]] — shared institution: National Gallery
-- [[agnes_mongan]] — shared institution: Harvard University
-- [[alfred_frankfurter]] — shared institution: Harvard University
+- [[agnes_mongan]] — shared institution: National Gallery
+- [[alfred_frankfurter]] — shared institution: National Gallery
 - [[henry_mcilhenny]] — shared institution: Harvard University
-- [[jean_seznec]] — shared institution: Harvard University
+- [[jean_seznec]] — shared institution: National Gallery
 - [[jim_shaw]] — shared institution: National Gallery
 
 ---
 
-*Generated: 2026-05-18T16:32:30.992748+00:00 | Source: elizabeth_mongan.json*
+*Generated: 2026-05-19T08:35:34.247163+00:00 | Source: elizabeth_mongan.json*

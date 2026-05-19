@@ -1,6 +1,6 @@
 ---
 full_name: "Adolf Michaelis"
-title_zh: "帕特农神庙的山形墙浮雕"
+title_zh: "Michaelis, Adolf"
 birth: 1835
 death: 1910
 country: Germany
@@ -63,4 +63,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:17.948436+00:00 | Source: adolf_michaelis.json*
+*Generated: 2026-05-19T08:28:12.562688+00:00 | Source: adolf_michaelis.json*

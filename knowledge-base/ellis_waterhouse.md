@@ -58,8 +58,8 @@ Ellis Kirkham Waterhouse Archive, Paul Mellon Centre. http://calmview.co.uk/Paul
 
 - [[arthur_mccomb]] — shared institution: Oxford
 - [[charles_tolnay]] — shared institution: Princeton University
-- [[craig_smyth]] — shared institution: National Gallery
-- [[denis_mahon]] — shared institution: National Gallery
+- [[craig_smyth]] — shared institution: Princeton University
+- [[denis_mahon]] — shared institution: Oxford
 - [[denys_haynes]] — shared institution: Oxford
 - [[francis_wormald]] — shared institution: Princeton University
 - [[frank_dowley]] — shared institution: Princeton University
@@ -69,4 +69,4 @@ Ellis Kirkham Waterhouse Archive, Paul Mellon Centre. http://calmview.co.uk/Paul
 
 ---
 
-*Generated: 2026-05-18T16:32:34.846711+00:00 | Source: ellis_waterhouse.json*
+*Generated: 2026-05-19T08:35:38.074607+00:00 | Source: ellis_waterhouse.json*

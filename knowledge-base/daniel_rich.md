@@ -45,7 +45,7 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[alfred_barr]] — shared institution: Harvard University
+- [[alfred_barr]] — shared institution: MIT
 - [[frederick_wight]] — shared institution: Harvard University
 - [[gert_osten]] — shared institution: MIT
 - [[herbert_kunze]] — shared institution: MIT
@@ -58,4 +58,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:30:54.774281+00:00 | Source: daniel_rich.json*
+*Generated: 2026-05-19T08:33:55.510654+00:00 | Source: daniel_rich.json*

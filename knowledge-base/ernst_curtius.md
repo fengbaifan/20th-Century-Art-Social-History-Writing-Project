@@ -59,4 +59,4 @@ Ernst Curtius Papers, Yale University. http://hdl.handle.net/10079/fa/beinecke.c
 
 ---
 
-*Generated: 2026-05-18T16:33:15.760830+00:00 | Source: ernst_curtius.json*
+*Generated: 2026-05-19T08:36:18.926692+00:00 | Source: ernst_curtius.json*

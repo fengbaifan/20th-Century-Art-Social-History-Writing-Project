@@ -1,6 +1,6 @@
 ---
 full_name: "Augustus Welby Northmore Pugin"
-title_zh: "奥古斯都·普金"
+title_zh: "Pugin, Augustus Welby Northmore"
 birth: 1812
 death: 1852
 country: United Kingdom
@@ -74,4 +74,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:27:33.900851+00:00 | Source: augustus_pugin.json*
+*Generated: 2026-05-19T08:30:30.834876+00:00 | Source: augustus_pugin.json*

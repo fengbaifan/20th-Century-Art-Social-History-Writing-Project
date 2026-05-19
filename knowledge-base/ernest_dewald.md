@@ -63,4 +63,4 @@ Ernest Theodore DeWald Papers, Princeton University. http://hdl.library.upenn.ed
 
 ---
 
-*Generated: 2026-05-18T16:33:06.971488+00:00 | Source: ernest_dewald.json*
+*Generated: 2026-05-19T08:36:10.213327+00:00 | Source: ernest_dewald.json*

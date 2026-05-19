@@ -49,4 +49,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:34:52.198186+00:00 | Source: franzsepp_wrtenberger.json*
+*Generated: 2026-05-19T08:37:55.769039+00:00 | Source: franzsepp_wrtenberger.json*

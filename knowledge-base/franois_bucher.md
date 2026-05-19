@@ -58,4 +58,4 @@ Francois Bucher Papers, Florida State University, Special Collections. https://a
 
 ---
 
-*Generated: 2026-05-18T16:34:47.766478+00:00 | Source: franois_bucher.json*
+*Generated: 2026-05-19T08:37:51.130829+00:00 | Source: franois_bucher.json*

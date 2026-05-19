@@ -47,14 +47,14 @@ Meeks, Carroll L. V., Archives at Yale. https://archives.yale.edu/agents/people/
 - [[andrew_ritchie]] — shared institution: Yale University
 - [[charles_seymour]] — shared institution: Yale University
 - [[hanns_swarzenski]] — shared institution: Harvard University
-- [[henryrussell_hitchcock]] — shared institution: Harvard University
+- [[henryrussell_hitchcock]] — shared institution: Yale University
 - [[horst_janson]] — shared institution: Harvard University
 - [[james_acland]] — shared institution: Harvard University
 - [[jean_bony]] — shared institution: Yale University
 - [[john_coolidge]] — shared institution: Harvard University
-- [[john_fitchen]] — shared institution: Harvard University
+- [[john_fitchen]] — shared institution: Yale University
 - [[john_mcandrew]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:29:22.033232+00:00 | Source: carroll_meeks.json*
+*Generated: 2026-05-19T08:32:21.684302+00:00 | Source: carroll_meeks.json*

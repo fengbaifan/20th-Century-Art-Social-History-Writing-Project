@@ -1,6 +1,6 @@
 ---
 full_name: "Bernard Berenson"
-title_zh: "伯纳德·贝伦森"
+title_zh: "Berenson, Bernard"
 birth: 1865
 death: 1959
 country: Lithuania
@@ -64,17 +64,17 @@ Berenson, Bernard and Mary. Papers, 1880-2002, I Tatti. https://hollisarchives.l
 
 ## 相关学者 / Related Scholars
 
-- [[mary_berenson]] — shared institution: Harvard University
-- [[roger_fry]] — shared institution: Metropolitan Museum
-- [[r_douglas]] — shared institution: Metropolitan Museum
+- [[mary_berenson]] — shared institution: MIT
+- [[roger_fry]] — shared institution: Oxford
+- [[r_douglas]] — shared institution: National Gallery
 - [[violet_paget]] — shared institution: Oxford
 - [[abraham_bredius]] — shared institution: MIT
 - [[barr_ferree]] — shared institution: MIT
 - [[carl_hartmann]] — shared institution: MIT
 - [[cornelis_hofstede_de_groot]] — shared institution: MIT
-- [[david_lindsay]] — shared institution: National Gallery
-- [[john_ferguson]] — shared institution: Metropolitan Museum
+- [[david_lindsay]] — shared institution: MIT
+- [[john_ferguson]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:28:21.683452+00:00 | Source: bernard_berenson.json*
+*Generated: 2026-05-19T08:31:19.343438+00:00 | Source: bernard_berenson.json*

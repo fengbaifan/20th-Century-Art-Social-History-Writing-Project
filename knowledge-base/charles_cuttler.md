@@ -49,4 +49,4 @@ Charles D. Cuttler Papers, University of Iowa. http://aspace.lib.uiowa.edu/repos
 
 ---
 
-*Generated: 2026-05-18T16:29:38.631391+00:00 | Source: charles_cuttler.json*
+*Generated: 2026-05-19T08:32:37.860282+00:00 | Source: charles_cuttler.json*

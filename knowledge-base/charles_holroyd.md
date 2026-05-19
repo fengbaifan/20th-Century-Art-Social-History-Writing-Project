@@ -47,7 +47,7 @@ No archive information available. / 暂无档案信息。
 
 - [[c_holmes]] — shared institution: National Gallery
 - [[maurice_brockwell]] — shared institution: National Gallery
-- [[robert_dell]] — shared institution: National Gallery
+- [[robert_dell]] — shared institution: MIT
 - [[aart_pit]] — shared institution: MIT
 - [[abraham_bredius]] — shared institution: MIT
 - [[aby_warburg]] — shared institution: MIT
@@ -58,4 +58,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:29:45.458120+00:00 | Source: charles_holroyd.json*
+*Generated: 2026-05-19T08:32:44.604832+00:00 | Source: charles_holroyd.json*

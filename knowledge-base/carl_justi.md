@@ -66,13 +66,13 @@ No archive information available. / 暂无档案信息。
 - [[mary_heaton]] — shared institution: MIT
 - [[samuel_benjamin]] — shared institution: MIT
 - [[sir_crowe]] — shared institution: MIT
-- [[walter_pater]] — shared institution: National Gallery
+- [[walter_pater]] — shared institution: MIT
 - [[august_schmarsow]] — shared institution: MIT
 - [[eugne_mntz]] — shared institution: MIT
 - [[hans_rookmaaker]] — shared institution: MIT
-- [[john_ruskin]] — shared institution: National Gallery
+- [[john_ruskin]] — shared institution: MIT
 - [[leo_steinberg]] — shared institution: National Gallery
 
 ---
 
-*Generated: 2026-05-18T16:29:09.416572+00:00 | Source: carl_justi.json*
+*Generated: 2026-05-19T08:32:08.189894+00:00 | Source: carl_justi.json*

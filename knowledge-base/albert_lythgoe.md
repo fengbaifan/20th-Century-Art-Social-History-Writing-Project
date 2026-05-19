@@ -1,6 +1,6 @@
 ---
 full_name: "Albert M. Lythgoe"
-title_zh: "阿尔伯特·利思戈"
+title_zh: "Lythgoe, Albert M."
 birth: 1868
 death: 1934
 country: null
@@ -43,12 +43,12 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[george_reisner]] — shared institution: Harvard University
+- [[george_reisner]] — shared institution: Metropolitan Museum
 - [[thomas_whittemore]] — shared institution: Harvard University
 - [[charles_wilkinson]] — shared institution: Metropolitan Museum
-- [[herbert_winlock]] — shared institution: Harvard University
+- [[herbert_winlock]] — shared institution: Metropolitan Museum
 - [[bernhard_bothmer]] — shared institution: Metropolitan Museum
-- [[cyril_aldred]] — shared institution: Metropolitan Museum
+- [[cyril_aldred]] — shared institution: Oxford
 - [[gaston_maspero]] — shared institution: Oxford
 - [[william_hayes]] — shared institution: Metropolitan Museum
 - [[w_smith]] — shared institution: Harvard University
@@ -56,4 +56,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:40.930312+00:00 | Source: albert_lythgoe.json*
+*Generated: 2026-05-19T08:28:34.886937+00:00 | Source: albert_lythgoe.json*

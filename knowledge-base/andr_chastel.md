@@ -71,4 +71,4 @@ Fonds André Chastel, Institut national d'histoire de l'art. https://agorha.inha
 
 ---
 
-*Generated: 2026-05-18T16:26:32.249612+00:00 | Source: andr_chastel.json*
+*Generated: 2026-05-19T08:29:26.870293+00:00 | Source: andr_chastel.json*

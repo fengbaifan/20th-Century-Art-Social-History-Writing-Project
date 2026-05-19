@@ -48,4 +48,4 @@ Personal archives of Auguste Bachelin, Bibliotheque Publique et Universitaire de
 
 ---
 
-*Generated: 2026-05-18T16:27:29.956456+00:00 | Source: auguste_bachelin.json*
+*Generated: 2026-05-19T08:30:26.974801+00:00 | Source: auguste_bachelin.json*

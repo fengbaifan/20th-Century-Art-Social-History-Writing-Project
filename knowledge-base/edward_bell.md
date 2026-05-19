@@ -41,17 +41,17 @@ Edward Hamilton Bell designs, 1889-1891., New York Public Library. http://catalo
 
 ## 相关学者 / Related Scholars
 
-- [[bernard_berenson]] — shared institution: National Gallery
+- [[bernard_berenson]] — shared institution: Oxford
 - [[charles_holroyd]] — shared institution: National Gallery
 - [[julia_ady]] — shared institution: Oxford
 - [[matthew_prichard]] — shared institution: Oxford
 - [[reginald_blomfield]] — shared institution: Oxford
 - [[robert_cust]] — shared institution: Oxford
 - [[rodolfo_lanciani]] — shared institution: Oxford
-- [[roger_fry]] — shared institution: National Gallery
-- [[r_douglas]] — shared institution: National Gallery
+- [[roger_fry]] — shared institution: Oxford
+- [[r_douglas]] — shared institution: Oxford
 - [[sydney_cockerell]] — shared institution: National Gallery
 
 ---
 
-*Generated: 2026-05-18T16:32:09.741272+00:00 | Source: edward_bell.json*
+*Generated: 2026-05-19T08:35:13.249360+00:00 | Source: edward_bell.json*

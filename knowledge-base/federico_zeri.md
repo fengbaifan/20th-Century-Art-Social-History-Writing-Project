@@ -62,15 +62,15 @@ Federico Zeri Archives, Fondazione Federico Zeri. http://www.fondazionezeri.unib
 
 - [[angiola_romanini]] — shared institution: MIT
 - [[bob_koch]] — shared institution: Harvard University
-- [[craig_smyth]] — shared institution: Harvard University
-- [[creighton_gilbert]] — shared institution: Harvard University
+- [[craig_smyth]] — shared institution: MIT
+- [[creighton_gilbert]] — shared institution: MIT
 - [[eve_borsook]] — shared institution: Harvard University
-- [[frederick_hartt]] — shared institution: Harvard University
+- [[frederick_hartt]] — shared institution: MIT
 - [[george_hersey]] — shared institution: Harvard University
 - [[gertrude_coor]] — shared institution: MIT
-- [[hank_millon]] — shared institution: Harvard University
-- [[harry_bober]] — shared institution: Harvard University
+- [[hank_millon]] — shared institution: MIT
+- [[harry_bober]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:34:10.790447+00:00 | Source: federico_zeri.json*
+*Generated: 2026-05-19T08:37:14.425858+00:00 | Source: federico_zeri.json*

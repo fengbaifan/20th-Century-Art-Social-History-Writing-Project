@@ -40,4 +40,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:28:27.146166+00:00 | Source: berthold_haendecker.json*
+*Generated: 2026-05-19T08:31:24.855244+00:00 | Source: berthold_haendecker.json*

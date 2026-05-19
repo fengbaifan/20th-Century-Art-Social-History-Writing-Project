@@ -54,10 +54,10 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[james_ackerman]] — shared institution: Museum of Modern Art
-- [[alfred_barr]] — shared institution: Metropolitan Museum
+- [[alfred_barr]] — shared institution: Columbia University
 - [[andrew_ritchie]] — shared institution: Museum of Modern Art
 - [[a_austin]] — shared institution: Museum of Modern Art
-- [[beaumont_newhall]] — shared institution: Metropolitan Museum
+- [[beaumont_newhall]] — shared institution: Museum of Modern Art
 - [[bill_seitz]] — shared institution: Museum of Modern Art
 - [[clement_greenberg]] — shared institution: Columbia University
 - [[donald_egbert]] — shared institution: Museum of Modern Art
@@ -66,4 +66,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:31:44.203435+00:00 | Source: edgard_kaufmann.json*
+*Generated: 2026-05-19T08:34:46.807185+00:00 | Source: edgard_kaufmann.json*

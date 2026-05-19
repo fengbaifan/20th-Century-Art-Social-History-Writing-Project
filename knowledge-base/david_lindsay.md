@@ -56,14 +56,14 @@ No archive information available. / 暂无档案信息。
 - [[arthur_bolton]] — shared institution: Oxford
 - [[arthur_stratton]] — shared institution: MIT
 - [[barr_ferree]] — shared institution: MIT
-- [[bernard_berenson]] — shared institution: National Gallery
+- [[bernard_berenson]] — shared institution: MIT
 - [[eric_maclagan]] — shared institution: MIT
 - [[georgiana_king]] — shared institution: MIT
 - [[guy_dickins]] — shared institution: Oxford
-- [[hans_tietze]] — shared institution: National Gallery
+- [[hans_tietze]] — shared institution: MIT
 - [[henri_focillon]] — shared institution: MIT
 - [[henry_jones]] — shared institution: Oxford
 
 ---
 
-*Generated: 2026-05-18T16:31:04.158920+00:00 | Source: david_lindsay.json*
+*Generated: 2026-05-19T08:34:04.794326+00:00 | Source: david_lindsay.json*

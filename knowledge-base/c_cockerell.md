@@ -71,4 +71,4 @@ C. R. Cockerell architectural drawings and notes, 1816-ca. 1835., Getty Research
 
 ---
 
-*Generated: 2026-05-18T16:30:45.457146+00:00 | Source: c_cockerell.json*
+*Generated: 2026-05-19T08:33:46.052098+00:00 | Source: c_cockerell.json*

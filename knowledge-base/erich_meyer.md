@@ -1,6 +1,6 @@
 ---
 full_name: "Erich Meyer"
-title_zh: "埃里希·邁耶"
+title_zh: "Meyer, Erich"
 birth: 1897
 death: 1967
 country: Germany
@@ -48,4 +48,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:32:57.815175+00:00 | Source: erich_meyer.json*
+*Generated: 2026-05-19T08:36:01.113286+00:00 | Source: erich_meyer.json*

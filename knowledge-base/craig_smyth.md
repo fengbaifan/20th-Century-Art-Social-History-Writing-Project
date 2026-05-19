@@ -62,15 +62,15 @@ No archive information available. / 暂无档案信息。
 
 - [[anthony_blunt]] — shared institution: MIT
 - [[bernhard_degenhart]] — shared institution: MIT
-- [[bob_koch]] — shared institution: Harvard University
+- [[bob_koch]] — shared institution: Princeton University
 - [[cecil_gould]] — shared institution: National Gallery
 - [[cesare_brandi]] — shared institution: MIT
 - [[charles_seymour]] — shared institution: National Gallery
-- [[creighton_gilbert]] — shared institution: Harvard University
-- [[david_coffin]] — shared institution: National Gallery
+- [[creighton_gilbert]] — shared institution: MIT
+- [[david_coffin]] — shared institution: Princeton University
 - [[earl_rosenthal]] — shared institution: Princeton University
-- [[ellis_waterhouse]] — shared institution: National Gallery
+- [[ellis_waterhouse]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:30:39.892061+00:00 | Source: craig_smyth.json*
+*Generated: 2026-05-19T08:33:40.435610+00:00 | Source: craig_smyth.json*

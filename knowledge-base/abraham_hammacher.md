@@ -1,6 +1,6 @@
 ---
 full_name: "Abraham Marie Wilhelmus Jacobus Hammacher"
-title_zh: "搜索结果"
+title_zh: "Hammacher, Abraham Marie Wilhelmus Jacobus"
 birth: 1897
 death: 2002
 country: Netherlands
@@ -58,4 +58,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:00.602418+00:00 | Source: abraham_hammacher.json*
+*Generated: 2026-05-19T08:27:55.575456+00:00 | Source: abraham_hammacher.json*

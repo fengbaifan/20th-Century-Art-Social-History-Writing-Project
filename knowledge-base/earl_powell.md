@@ -43,17 +43,17 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[j_brown]] — shared institution: Harvard University
+- [[j_brown]] — shared institution: National Gallery
 - [[philip_conisbee]] — shared institution: National Gallery
 - [[andrew_ladis]] — shared institution: Harvard University
 - [[anne_dharnoncourt]] — shared institution: National Gallery
 - [[burr_wallen]] — shared institution: National Gallery
-- [[carolyn_kolb]] — shared institution: Harvard University
-- [[donald_preziosi]] — shared institution: Harvard University
+- [[carolyn_kolb]] — shared institution: National Gallery
+- [[donald_preziosi]] — shared institution: National Gallery
 - [[edmund_pillsbury]] — shared institution: National Gallery
 - [[elwood_parry]] — shared institution: Harvard University
 - [[eunice_lipton]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:31:37.346805+00:00 | Source: earl_powell.json*
+*Generated: 2026-05-19T08:34:39.924424+00:00 | Source: earl_powell.json*

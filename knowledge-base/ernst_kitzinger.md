@@ -58,7 +58,7 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[kurt_weitzmann]] — shared institution: Harvard University
+- [[kurt_weitzmann]] — shared institution: MIT
 - [[andrew_keck]] — shared institution: Princeton University
 - [[carl_nordenfalk]] — shared institution: Oxford
 - [[christopher_hohler]] — shared institution: Oxford
@@ -71,4 +71,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:33:24.782848+00:00 | Source: ernst_kitzinger.json*
+*Generated: 2026-05-19T08:36:28.790444+00:00 | Source: ernst_kitzinger.json*

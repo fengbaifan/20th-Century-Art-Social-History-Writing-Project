@@ -49,8 +49,8 @@ Charles Over Cornelius papers, 1921-1932, Columbia University. https://findingai
 
 - [[carl_bluemel]] — shared institution: Metropolitan Museum
 - [[francis_watson]] — shared institution: Metropolitan Museum
-- [[richard_randall]] — shared institution: Metropolitan Museum
-- [[adelyn_breeskin]] — shared institution: Metropolitan Museum
+- [[richard_randall]] — shared institution: Princeton University
+- [[adelyn_breeskin]] — shared institution: MIT
 - [[agnes_claflin]] — shared institution: MIT
 - [[albert_boeckler]] — shared institution: MIT
 - [[albert_friend]] — shared institution: Princeton University
@@ -60,4 +60,4 @@ Charles Over Cornelius papers, 1921-1932, Columbia University. https://findingai
 
 ---
 
-*Generated: 2026-05-18T16:29:37.749796+00:00 | Source: charles_cornelius.json*
+*Generated: 2026-05-19T08:32:37.011939+00:00 | Source: charles_cornelius.json*

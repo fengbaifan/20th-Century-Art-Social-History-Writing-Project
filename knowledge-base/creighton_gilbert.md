@@ -54,15 +54,15 @@ No archive information available. / 暂无档案信息。
 
 - [[angiola_romanini]] — shared institution: MIT
 - [[bob_koch]] — shared institution: Harvard University
-- [[craig_smyth]] — shared institution: Harvard University
+- [[craig_smyth]] — shared institution: MIT
 - [[david_coffin]] — shared institution: Yale University
 - [[eve_borsook]] — shared institution: Harvard University
-- [[federico_zeri]] — shared institution: Harvard University
-- [[frederick_hartt]] — shared institution: Harvard University
-- [[george_hersey]] — shared institution: Harvard University
+- [[federico_zeri]] — shared institution: MIT
+- [[frederick_hartt]] — shared institution: MIT
+- [[george_hersey]] — shared institution: Yale University
 - [[gertrude_coor]] — shared institution: MIT
 - [[giovanni_previtali]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:30:40.406026+00:00 | Source: creighton_gilbert.json*
+*Generated: 2026-05-19T08:33:40.977441+00:00 | Source: creighton_gilbert.json*

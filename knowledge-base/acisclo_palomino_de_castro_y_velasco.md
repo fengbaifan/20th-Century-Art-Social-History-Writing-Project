@@ -1,6 +1,6 @@
 ---
 full_name: "Acisclo Antonio Palomino de Castro y Velasco"
-title_zh: "搜索结果"
+title_zh: "Palomino de Castro y Velasco, Acisclo Antonio"
 birth: 1655
 death: 1726
 country: Spain
@@ -55,4 +55,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:05.562211+00:00 | Source: acisclo_palomino_de_castro_y_velasco.json*
+*Generated: 2026-05-19T08:28:00.216662+00:00 | Source: acisclo_palomino_de_castro_y_velasco.json*

@@ -1,6 +1,6 @@
 ---
 full_name: "Arthur Waley"
-title_zh: "亞瑟·偉利"
+title_zh: "Waley, Arthur"
 birth: unknown
 death: unknown
 country: United Kingdom
@@ -56,4 +56,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:27:26.839633+00:00 | Source: arthur_waley.json*
+*Generated: 2026-05-19T08:30:23.785223+00:00 | Source: arthur_waley.json*

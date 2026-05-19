@@ -50,14 +50,14 @@ Anthony M. Clark Archive, National Gallery of Art. https://library.nga.gov/disco
 - [[donald_posner]] — shared institution: Harvard University
 - [[harry_grier]] — shared institution: Metropolitan Museum
 - [[michael_jaff]] — shared institution: Harvard University
-- [[seymour_slive]] — shared institution: Harvard University
+- [[seymour_slive]] — shared institution: National Gallery
 - [[sherman_lee]] — shared institution: National Gallery
 - [[alfred_barr]] — shared institution: Harvard University
-- [[benedict_nicolson]] — shared institution: Harvard University
+- [[benedict_nicolson]] — shared institution: National Gallery
 - [[bob_koch]] — shared institution: Harvard University
 - [[charles_parkhurst]] — shared institution: National Gallery
 - [[cornelius_vermeule]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:26:52.558657+00:00 | Source: anthony_clark.json*
+*Generated: 2026-05-19T08:29:48.812779+00:00 | Source: anthony_clark.json*

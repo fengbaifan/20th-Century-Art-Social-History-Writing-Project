@@ -70,4 +70,4 @@ Elsen (Albert Edward) Papers, Stanford University. https://oac.cdlib.org/findaid
 
 ---
 
-*Generated: 2026-05-18T16:25:38.946636+00:00 | Source: albert_elsen.json*
+*Generated: 2026-05-19T08:28:32.902197+00:00 | Source: albert_elsen.json*

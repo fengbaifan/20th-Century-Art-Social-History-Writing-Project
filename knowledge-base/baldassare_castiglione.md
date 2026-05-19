@@ -1,6 +1,6 @@
 ---
 full_name: "Baldassare Castiglione"
-title_zh: "巴尔达萨雷·卡斯蒂廖内"
+title_zh: "Castiglione, Baldassare"
 birth: 1478
 death: 1528
 country: Italy
@@ -40,4 +40,4 @@ Castiglioni Archive, Palazzo Castiglione via State Archives of Mantua. https://w
 
 ---
 
-*Generated: 2026-05-18T16:28:02.246978+00:00 | Source: baldassare_castiglione.json*
+*Generated: 2026-05-19T08:31:00.481634+00:00 | Source: baldassare_castiglione.json*

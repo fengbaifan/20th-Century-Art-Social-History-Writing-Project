@@ -47,15 +47,15 @@ No archive information available. / 暂无档案信息。
 
 - [[charles_sterling]] — shared institution: Metropolitan Museum
 - [[james_rorimer]] — shared institution: Metropolitan Museum
-- [[robert_hale]] — shared institution: Metropolitan Museum
-- [[adelyn_breeskin]] — shared institution: Metropolitan Museum
+- [[robert_hale]] — shared institution: Princeton University
+- [[adelyn_breeskin]] — shared institution: Museum of Modern Art
 - [[adolf_katzenellenbogen]] — shared institution: Princeton University
 - [[agnes_claflin]] — shared institution: Museum of Modern Art
 - [[albert_friend]] — shared institution: Princeton University
 - [[alexander_dorner]] — shared institution: Museum of Modern Art
-- [[alfred_barr]] — shared institution: Metropolitan Museum
-- [[alfred_frankfurter]] — shared institution: Museum of Modern Art
+- [[alfred_barr]] — shared institution: Princeton University
+- [[alfred_frankfurter]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:34:41.539726+00:00 | Source: francis_taylor.json*
+*Generated: 2026-05-19T08:37:44.894182+00:00 | Source: francis_taylor.json*

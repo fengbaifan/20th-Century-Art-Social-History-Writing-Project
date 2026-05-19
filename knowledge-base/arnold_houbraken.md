@@ -58,4 +58,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:27:12.338244+00:00 | Source: arnold_houbraken.json*
+*Generated: 2026-05-19T08:30:09.144760+00:00 | Source: arnold_houbraken.json*

@@ -48,4 +48,4 @@ DUMONT, Albert [Collated], Institut national d'histoire de l'art. https://www.in
 
 ---
 
-*Generated: 2026-05-18T16:25:38.399120+00:00 | Source: albert_dumont.json*
+*Generated: 2026-05-19T08:28:32.373943+00:00 | Source: albert_dumont.json*

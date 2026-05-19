@@ -54,8 +54,8 @@ No archive information available. / 暂无档案信息。
 - [[henry_geldzahler]] — shared institution: Harvard University
 - [[jack_flam]] — shared institution: Columbia University
 - [[jean_boggs]] — shared institution: Harvard University
-- [[linda_nochlin]] — shared institution: Harvard University
+- [[linda_nochlin]] — shared institution: Columbia University
 
 ---
 
-*Generated: 2026-05-18T16:31:21.911523+00:00 | Source: donald_gordon.json*
+*Generated: 2026-05-19T08:34:23.482098+00:00 | Source: donald_gordon.json*

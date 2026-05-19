@@ -56,4 +56,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:33:32.525103+00:00 | Source: ernst_steinmann.json*
+*Generated: 2026-05-19T08:36:36.342149+00:00 | Source: ernst_steinmann.json*

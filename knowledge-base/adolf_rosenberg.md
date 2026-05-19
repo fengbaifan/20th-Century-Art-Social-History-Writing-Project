@@ -1,6 +1,6 @@
 ---
 full_name: "Adolf Rosenberg"
-title_zh: "希特勒家族"
+title_zh: "Rosenberg, Adolf"
 birth: 1850
 death: 1906
 country: Germany
@@ -56,4 +56,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:18.385071+00:00 | Source: adolf_rosenberg.json*
+*Generated: 2026-05-19T08:28:13.014203+00:00 | Source: adolf_rosenberg.json*

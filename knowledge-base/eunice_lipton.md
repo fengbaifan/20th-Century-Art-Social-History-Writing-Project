@@ -47,7 +47,7 @@ No archive information available. / 暂无档案信息。
 - [[lucy_lippard]] — shared institution: Museum of Modern Art
 - [[madeline_caviness]] — shared institution: Harvard University
 - [[norman_bryson]] — shared institution: Harvard University
-- [[thomas_crow]] — shared institution: Harvard University
+- [[thomas_crow]] — shared institution: Museum of Modern Art
 - [[t_clark]] — shared institution: Harvard University
 - [[norma_broude]] — temporal proximity (1941s vs 1941s)
 - [[anne_hanson]] — shared institution: Museum of Modern Art
@@ -56,4 +56,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:33:54.733417+00:00 | Source: eunice_lipton.json*
+*Generated: 2026-05-19T08:36:58.216450+00:00 | Source: eunice_lipton.json*

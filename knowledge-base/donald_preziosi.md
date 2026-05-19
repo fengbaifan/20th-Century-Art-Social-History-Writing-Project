@@ -59,16 +59,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[barbara_haskell]] — shared institution: MIT
-- [[carolyn_kolb]] — shared institution: Harvard University
+- [[carolyn_kolb]] — shared institution: National Gallery
 - [[cornelius_adepegba]] — shared institution: MIT
 - [[c_armi]] — shared institution: MIT
 - [[george_henderson]] — shared institution: MIT
-- [[joseph_connors]] — shared institution: Harvard University
+- [[joseph_connors]] — shared institution: MIT
 - [[j_pollitt]] — shared institution: Yale University
 - [[karsten_harries]] — shared institution: Yale University
-- [[kermit_champa]] — shared institution: Harvard University
+- [[kermit_champa]] — shared institution: Yale University
 - [[margaret_floyd]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:31:24.706480+00:00 | Source: donald_preziosi.json*
+*Generated: 2026-05-19T08:34:26.313015+00:00 | Source: donald_preziosi.json*

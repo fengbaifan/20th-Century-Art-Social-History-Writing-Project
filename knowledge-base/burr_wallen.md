@@ -46,15 +46,15 @@ No archive information available. / 暂无档案信息。
 
 - [[carolyn_kolb]] — shared institution: National Gallery
 - [[colin_eisler]] — shared institution: Princeton University
-- [[everett_fahy]] — shared institution: National Gallery
-- [[john_shearman]] — shared institution: National Gallery
+- [[everett_fahy]] — shared institution: Princeton University
+- [[john_shearman]] — shared institution: Princeton University
 - [[julian_gardner]] — shared institution: National Gallery
-- [[kirk_varnedoe]] — shared institution: National Gallery
+- [[kirk_varnedoe]] — shared institution: Princeton University
 - [[konrad_oberhuber]] — shared institution: National Gallery
 - [[marcia_hall]] — shared institution: Princeton University
-- [[rona_goffen]] — shared institution: National Gallery
+- [[rona_goffen]] — shared institution: Princeton University
 - [[thomas_kaufmann]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:28:44.607820+00:00 | Source: burr_wallen.json*
+*Generated: 2026-05-19T08:31:42.749127+00:00 | Source: burr_wallen.json*

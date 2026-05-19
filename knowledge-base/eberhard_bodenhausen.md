@@ -49,4 +49,4 @@ Bodenhausen, Eberhard von (1868-1918), German Literature Archive (Deutsches Lite
 
 ---
 
-*Generated: 2026-05-18T16:31:40.720254+00:00 | Source: eberhard_bodenhausen.json*
+*Generated: 2026-05-19T08:34:43.332678+00:00 | Source: eberhard_bodenhausen.json*

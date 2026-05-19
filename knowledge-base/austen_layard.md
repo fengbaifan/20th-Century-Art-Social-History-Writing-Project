@@ -1,6 +1,6 @@
 ---
 full_name: "Austen Henry Layard"
-title_zh: "奧斯丁·亨利·萊亞德"
+title_zh: "Layard, Austen Henry, Sir"
 birth: 1817
 death: 1894
 country: United Kingdom
@@ -68,4 +68,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:27:44.286350+00:00 | Source: austen_layard.json*
+*Generated: 2026-05-19T08:30:41.362831+00:00 | Source: austen_layard.json*

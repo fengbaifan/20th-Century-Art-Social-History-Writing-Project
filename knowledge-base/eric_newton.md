@@ -63,8 +63,8 @@ No archive information available. / 暂无档案信息。
 - [[alfred_barr]] — shared institution: MIT
 - [[alfred_scharf]] — shared institution: MIT
 - [[alphonsus_vorenkamp]] — shared institution: MIT
-- [[andr_grabar]] — shared institution: National Gallery
+- [[andr_grabar]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:33:00.837642+00:00 | Source: eric_newton.json*
+*Generated: 2026-05-19T08:36:03.994482+00:00 | Source: eric_newton.json*

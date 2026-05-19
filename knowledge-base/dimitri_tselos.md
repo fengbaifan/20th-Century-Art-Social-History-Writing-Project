@@ -54,4 +54,4 @@ published manuscript: Dr. Tselos: Art of the later Middle Ages. Résumé of Em
 
 ---
 
-*Generated: 2026-05-18T16:31:15.938007+00:00 | Source: dimitri_tselos.json*
+*Generated: 2026-05-19T08:34:16.978577+00:00 | Source: dimitri_tselos.json*

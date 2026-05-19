@@ -56,15 +56,15 @@ No archive information available. / 暂无档案信息。
 
 - [[charles_holroyd]] — shared institution: MIT
 - [[cornelis_hofstede_de_groot]] — shared institution: MIT
-- [[paul_durrieu]] — shared institution: MIT
-- [[salomon_reinach]] — shared institution: MIT
-- [[aart_pit]] — shared institution: MIT
+- [[paul_durrieu]] — shared institution: Louvre
+- [[salomon_reinach]] — shared institution: Louvre
+- [[aart_pit]] — shared institution: Louvre
 - [[abraham_bredius]] — shared institution: MIT
-- [[adolph_goldschmidt]] — shared institution: Harvard University
+- [[adolph_goldschmidt]] — shared institution: MIT
 - [[algernon_graves]] — shared institution: MIT
 - [[alice_meynell]] — shared institution: MIT
 - [[allan_marquand]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:26:38.633496+00:00 | Source: andr_michel.json*
+*Generated: 2026-05-19T08:29:33.893146+00:00 | Source: andr_michel.json*

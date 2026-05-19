@@ -1,6 +1,6 @@
 ---
 full_name: "Achille Bertini Calosso"
-title_zh: "搜索结果"
+title_zh: "Bertini Calosso, Achille"
 birth: unknown
 death: unknown
 country: Italy
@@ -53,4 +53,4 @@ Fondo Bertini Calosso, Istituto Nazionale di Archeologia e Storia dell'Arte. htt
 
 ---
 
-*Generated: 2026-05-18T16:25:03.720889+00:00 | Source: achille_bertini_calosso.json*
+*Generated: 2026-05-19T08:27:58.553754+00:00 | Source: achille_bertini_calosso.json*

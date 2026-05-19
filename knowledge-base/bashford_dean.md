@@ -1,6 +1,6 @@
 ---
 full_name: "Bashford Dean"
-title_zh: "巴什福德·迪安"
+title_zh: "Dean, Bashford"
 birth: 1867
 death: 1928
 country: United States
@@ -58,4 +58,4 @@ Dean Bashford collection, 1888-1961 (bulk 1892-1908), American Museum of Natural
 
 ---
 
-*Generated: 2026-05-18T16:28:08.924827+00:00 | Source: bashford_dean.json*
+*Generated: 2026-05-19T08:31:06.672769+00:00 | Source: bashford_dean.json*

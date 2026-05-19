@@ -58,9 +58,9 @@ No archive information available. / 暂无档案信息。
 - [[wilhelm_hausenstein]] — shared institution: MIT
 - [[erna_auerbach]] — shared institution: National Gallery
 - [[alain_locke]] — shared institution: Harvard University
-- [[elizabeth_churcher]] — shared institution: National Gallery
+- [[elizabeth_churcher]] — shared institution: MIT
 - [[ernst_gosebruch]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:25:59.970015+00:00 | Source: alfred_frankfurter.json*
+*Generated: 2026-05-19T08:28:53.827313+00:00 | Source: alfred_frankfurter.json*

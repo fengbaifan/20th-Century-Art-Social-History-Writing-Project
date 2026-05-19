@@ -54,4 +54,4 @@ Blanc, Charles [collated], Institut national d'histoire de l'art. https://www.in
 
 ---
 
-*Generated: 2026-05-18T16:29:35.786730+00:00 | Source: charles_blanc.json*
+*Generated: 2026-05-19T08:32:35.112566+00:00 | Source: charles_blanc.json*

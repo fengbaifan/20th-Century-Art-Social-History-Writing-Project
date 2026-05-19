@@ -1,6 +1,6 @@
 ---
 full_name: "Achille Carlier"
-title_zh: "1995年2月逝世人物列表"
+title_zh: "Carlier, Achille"
 birth: 1903
 death: null
 country: France
@@ -57,4 +57,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:04.361333+00:00 | Source: achille_carlier.json*
+*Generated: 2026-05-19T08:27:59.059196+00:00 | Source: achille_carlier.json*

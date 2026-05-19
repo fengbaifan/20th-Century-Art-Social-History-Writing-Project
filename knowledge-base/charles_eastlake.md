@@ -62,13 +62,13 @@ Eastlake, Sir Charles Lock (1793-1865) Knight, painter [Collated], National Arch
 - [[melchior_boissere]] — shared institution: Louvre
 - [[edmund_head]] — shared institution: MIT
 - [[gb_cavalcaselle]] — shared institution: National Gallery
-- [[john_ruskin]] — shared institution: National Gallery
-- [[otto_mndler]] — shared institution: National Gallery
-- [[anna_jameson]] — shared institution: National Gallery
-- [[gustav_waagen]] — shared institution: National Gallery
+- [[john_ruskin]] — shared institution: MIT
+- [[otto_mndler]] — shared institution: Louvre
+- [[anna_jameson]] — shared institution: MIT
+- [[gustav_waagen]] — shared institution: MIT
 - [[william_boxall]] — shared institution: National Gallery
 - [[adelyn_breeskin]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:29:41.746919+00:00 | Source: charles_eastlake.json*
+*Generated: 2026-05-19T08:32:41.049278+00:00 | Source: charles_eastlake.json*

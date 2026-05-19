@@ -52,17 +52,17 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[jacques_thuillier]] — shared institution: MIT
+- [[jacques_thuillier]] — shared institution: Louvre
 - [[albert_boime]] — shared institution: MIT
 - [[angiola_romanini]] — shared institution: MIT
 - [[anita_brookner]] — shared institution: Louvre
 - [[barbara_haskell]] — shared institution: MIT
 - [[barbara_novak]] — shared institution: MIT
 - [[barbara_rose]] — shared institution: MIT
-- [[bates_lowry]] — shared institution: MIT
+- [[bates_lowry]] — shared institution: Louvre
 - [[bernard_andreae]] — shared institution: MIT
 - [[bob_haak]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:26:54.994719+00:00 | Source: antoine_schnapper.json*
+*Generated: 2026-05-19T08:29:51.404657+00:00 | Source: antoine_schnapper.json*

@@ -67,4 +67,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:34:05.465530+00:00 | Source: e_gombrich.json*
+*Generated: 2026-05-19T08:37:08.980215+00:00 | Source: e_gombrich.json*

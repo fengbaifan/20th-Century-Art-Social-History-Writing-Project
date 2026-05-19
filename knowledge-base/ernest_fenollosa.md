@@ -51,7 +51,7 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[benjamin_rowland]] — shared institution: Harvard University
+- [[benjamin_rowland]] — shared institution: MIT
 - [[john_ferguson]] — shared institution: MIT
 - [[john_pope]] — shared institution: Harvard University
 - [[langdon_warner]] — shared institution: Harvard University
@@ -60,8 +60,8 @@ No archive information available. / 暂无档案信息。
 - [[walter_simon]] — shared institution: MIT
 - [[aart_pit]] — shared institution: MIT
 - [[abraham_bredius]] — shared institution: MIT
-- [[adolph_goldschmidt]] — shared institution: Harvard University
+- [[adolph_goldschmidt]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:33:08.255876+00:00 | Source: ernest_fenollosa.json*
+*Generated: 2026-05-19T08:36:11.462429+00:00 | Source: ernest_fenollosa.json*

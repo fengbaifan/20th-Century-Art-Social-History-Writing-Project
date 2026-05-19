@@ -1,6 +1,6 @@
 ---
 full_name: "Anthony Blunt"
-title_zh: "安东尼·布伦特"
+title_zh: "Blunt, Anthony"
 birth: 1907
 death: 1983
 country: United Kingdom
@@ -49,11 +49,11 @@ BLUNT, Anthony Frederick (1907-1983), Courtauld Institute of Art. https://archiv
 
 ## 相关学者 / Related Scholars
 
-- [[charles_sterling]] — shared institution: MIT
+- [[charles_sterling]] — shared institution: Louvre
 - [[phoebe_pool]] — shared institution: MIT
 - [[adolf_katzenellenbogen]] — shared institution: MIT
 - [[alfred_scharf]] — shared institution: MIT
-- [[andr_malraux]] — shared institution: MIT
+- [[andr_malraux]] — shared institution: Louvre
 - [[a_trendall]] — shared institution: Cambridge
 - [[bernhard_degenhart]] — shared institution: MIT
 - [[cesare_brandi]] — shared institution: MIT
@@ -62,4 +62,4 @@ BLUNT, Anthony Frederick (1907-1983), Courtauld Institute of Art. https://archiv
 
 ---
 
-*Generated: 2026-05-18T16:26:52.004771+00:00 | Source: anthony_blunt.json*
+*Generated: 2026-05-19T08:29:48.262025+00:00 | Source: anthony_blunt.json*

@@ -51,11 +51,11 @@ No archive information available. / 暂无档案信息。
 - [[hank_millon]] — shared institution: Harvard University
 - [[henry_millon]] — shared institution: Harvard University
 - [[howard_saalman]] — shared institution: Harvard University
-- [[irving_lavin]] — shared institution: Harvard University
+- [[irving_lavin]] — shared institution: Columbia University
 - [[james_ackerman]] — shared institution: Harvard University
-- [[james_acland]] — shared institution: Harvard University
+- [[james_acland]] — shared institution: Columbia University
 - [[jean_boggs]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:31:25.944922+00:00 | Source: dora_wiebenson.json*
+*Generated: 2026-05-19T08:34:27.540077+00:00 | Source: dora_wiebenson.json*

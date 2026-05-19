@@ -55,13 +55,13 @@ No archive information available. / 暂无档案信息。
 - [[carroll_greene]] — shared institution: Columbia University
 - [[guy_mcelroy]] — shared institution: Columbia University
 - [[john_wilmerding]] — shared institution: Harvard University
-- [[kermit_champa]] — shared institution: Harvard University
+- [[kermit_champa]] — shared institution: Yale University
 - [[matthew_baigell]] — shared institution: Columbia University
-- [[neil_harris]] — shared institution: Harvard University
+- [[neil_harris]] — shared institution: Columbia University
 - [[robert_thompson]] — shared institution: Yale University
 - [[alain_locke]] — shared institution: Harvard University
 - [[a_austin]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:32:36.600316+00:00 | Source: elwood_parry.json*
+*Generated: 2026-05-19T08:35:39.807036+00:00 | Source: elwood_parry.json*

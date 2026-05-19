@@ -51,4 +51,4 @@ Dame Frances Amelia Yates papers, Warburg Institute. https://archives.libraries.
 
 ---
 
-*Generated: 2026-05-18T16:34:33.191321+00:00 | Source: frances_yates.json*
+*Generated: 2026-05-19T08:37:36.154357+00:00 | Source: frances_yates.json*

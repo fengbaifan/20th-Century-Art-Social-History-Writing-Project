@@ -1,6 +1,6 @@
 ---
 full_name: "Christopher Lloyd"
-title_zh: "克里斯托弗·劳埃德"
+title_zh: "Lloyd, Christopher"
 birth: unknown
 death: unknown
 country: United Kingdom
@@ -54,4 +54,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:30:14.051593+00:00 | Source: christopher_lloyd.json*
+*Generated: 2026-05-19T08:33:14.481142+00:00 | Source: christopher_lloyd.json*

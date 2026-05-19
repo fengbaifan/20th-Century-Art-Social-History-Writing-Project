@@ -53,11 +53,11 @@ Brinsley Ford Archive, Paul Mellon Centre. http://calmview.co.uk/PaulMellonCentr
 - [[arnold_lawrence]] — shared institution: Oxford
 - [[a_mayor]] — shared institution: Oxford
 - [[basil_gray]] — shared institution: Oxford
-- [[benedict_nicolson]] — shared institution: National Gallery
-- [[carl_nordenfalk]] — shared institution: National Gallery
+- [[benedict_nicolson]] — shared institution: Oxford
+- [[carl_nordenfalk]] — shared institution: Oxford
 - [[carl_winter]] — shared institution: MIT
 - [[christopher_hohler]] — shared institution: Oxford
 
 ---
 
-*Generated: 2026-05-18T16:28:38.062237+00:00 | Source: brinsley_ford.json*
+*Generated: 2026-05-19T08:31:35.842099+00:00 | Source: brinsley_ford.json*

@@ -76,4 +76,4 @@ David C. Driskell Papers, Professor David C. Driskell Archive of African America
 
 ---
 
-*Generated: 2026-05-18T16:31:02.369927+00:00 | Source: david_driskell.json*
+*Generated: 2026-05-19T08:34:03.012312+00:00 | Source: david_driskell.json*

@@ -52,13 +52,13 @@ No archive information available. / 暂无档案信息。
 - [[gerald_ackerman]] — shared institution: Princeton University
 - [[hans_rookmaaker]] — shared institution: MIT
 - [[jacques_thuillier]] — shared institution: MIT
-- [[john_rewald]] — shared institution: Museum of Modern Art
+- [[john_rewald]] — shared institution: MIT
 - [[lee_johnson]] — shared institution: MIT
 - [[lorenz_eitner]] — shared institution: MIT
 - [[phoebe_pool]] — shared institution: MIT
-- [[roger_shattuck]] — shared institution: Museum of Modern Art
-- [[theodore_reff]] — shared institution: Museum of Modern Art
+- [[roger_shattuck]] — shared institution: Yale University
+- [[theodore_reff]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:26:49.198048+00:00 | Source: anne_hanson.json*
+*Generated: 2026-05-19T08:29:45.388147+00:00 | Source: anne_hanson.json*

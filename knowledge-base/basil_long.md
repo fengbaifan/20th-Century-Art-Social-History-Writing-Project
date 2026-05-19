@@ -51,4 +51,4 @@ Long, Basil Somerset (1881-1937), Keeper at Victoria and Albert Museum, expert o
 
 ---
 
-*Generated: 2026-05-18T16:28:10.628457+00:00 | Source: basil_long.json*
+*Generated: 2026-05-19T08:31:08.262678+00:00 | Source: basil_long.json*

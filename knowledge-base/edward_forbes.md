@@ -51,9 +51,9 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[paul_sachs]] — shared institution: Harvard University
+- [[paul_sachs]] — shared institution: MIT
 - [[aby_warburg]] — shared institution: MIT
-- [[adolph_goldschmidt]] — shared institution: Harvard University
+- [[adolph_goldschmidt]] — shared institution: MIT
 - [[albert_dresdner]] — shared institution: MIT
 - [[albert_lythgoe]] — shared institution: Harvard University
 - [[arnold_salis]] — shared institution: MIT
@@ -64,4 +64,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:32:10.723815+00:00 | Source: edward_forbes.json*
+*Generated: 2026-05-19T08:35:14.250365+00:00 | Source: edward_forbes.json*

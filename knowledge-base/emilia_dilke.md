@@ -62,4 +62,4 @@ Dilke, Emilia Frances (1840-1904), art historian and trade unionist [Collated], 
 
 ---
 
-*Generated: 2026-05-18T16:32:39.788151+00:00 | Source: emilia_dilke.json*
+*Generated: 2026-05-19T08:35:43.034416+00:00 | Source: emilia_dilke.json*

@@ -59,16 +59,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[dietrich_bothmer]] — shared institution: MIT
-- [[emily_vermeule]] — shared institution: Harvard University
+- [[emily_vermeule]] — shared institution: MIT
 - [[bernard_andreae]] — shared institution: MIT
 - [[blanche_brown]] — shared institution: Yale University
 - [[janie_smiles]] — shared institution: MIT
 - [[j_pollitt]] — shared institution: Yale University
 - [[phyllis_bober]] — shared institution: MIT
-- [[william_macdonald]] — shared institution: Harvard University
+- [[william_macdonald]] — shared institution: MIT
 - [[george_hanfmann]] — shared institution: Harvard University
 - [[arnold_salis]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:30:37.220096+00:00 | Source: cornelius_vermeule.json*
+*Generated: 2026-05-19T08:33:37.786519+00:00 | Source: cornelius_vermeule.json*

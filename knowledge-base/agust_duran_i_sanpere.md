@@ -85,4 +85,4 @@ Archives Casa Museu Duran Sanpere https://museudecervera.cat/en/c/museum-25
 
 ---
 
-*Generated: 2026-05-18T16:25:30.712990+00:00 | Source: agust_duran_i_sanpere.json*
+*Generated: 2026-05-19T08:28:24.727684+00:00 | Source: agust_duran_i_sanpere.json*

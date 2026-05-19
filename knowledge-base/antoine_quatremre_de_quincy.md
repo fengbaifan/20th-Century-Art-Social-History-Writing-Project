@@ -1,6 +1,6 @@
 ---
 full_name: "Antoine Quatremère de Quincy"
-title_zh: "卡特勒梅尔·德·坎西"
+title_zh: "Quatremère de Quincy, Antoine"
 birth: 1755
 death: 1849
 country: France
@@ -64,4 +64,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:26:54.078761+00:00 | Source: antoine_quatremre_de_quincy.json*
+*Generated: 2026-05-19T08:29:50.444528+00:00 | Source: antoine_quatremre_de_quincy.json*

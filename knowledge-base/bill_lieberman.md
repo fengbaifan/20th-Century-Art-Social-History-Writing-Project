@@ -47,15 +47,15 @@ No archive information available. / 暂无档案信息。
 
 - [[francis_oconnor]] — shared institution: Museum of Modern Art
 - [[hugo_tschudi]] — shared institution: Museum of Modern Art
-- [[adelyn_breeskin]] — shared institution: Metropolitan Museum
+- [[adelyn_breeskin]] — shared institution: Museum of Modern Art
 - [[albert_elsen]] — shared institution: Museum of Modern Art
-- [[alfred_barr]] — shared institution: Metropolitan Museum
+- [[alfred_barr]] — shared institution: Museum of Modern Art
 - [[ann_harris]] — shared institution: Metropolitan Museum
 - [[a_austin]] — shared institution: Museum of Modern Art
-- [[a_gallatin]] — shared institution: Metropolitan Museum
+- [[a_gallatin]] — shared institution: Museum of Modern Art
 - [[bates_lowry]] — shared institution: Museum of Modern Art
-- [[beaumont_newhall]] — shared institution: Metropolitan Museum
+- [[beaumont_newhall]] — shared institution: Museum of Modern Art
 
 ---
 
-*Generated: 2026-05-18T16:28:29.508180+00:00 | Source: bill_lieberman.json*
+*Generated: 2026-05-19T08:31:27.218538+00:00 | Source: bill_lieberman.json*

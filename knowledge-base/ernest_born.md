@@ -52,4 +52,4 @@ Ernest and Esther Born Collection, 1924-1985, UC Berkley, Environmental Design A
 
 ---
 
-*Generated: 2026-05-18T16:33:05.819625+00:00 | Source: ernest_born.json*
+*Generated: 2026-05-19T08:36:08.939121+00:00 | Source: ernest_born.json*

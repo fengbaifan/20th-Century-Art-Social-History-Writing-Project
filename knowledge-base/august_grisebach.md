@@ -1,6 +1,6 @@
 ---
 full_name: "August Grisebach"
-title_zh: "奧古斯特·格里瑟巴赫"
+title_zh: "Grisebach, August"
 birth: 1881
 death: 1950
 country: Germany
@@ -64,4 +64,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:27:35.676990+00:00 | Source: august_grisebach.json*
+*Generated: 2026-05-19T08:30:32.832695+00:00 | Source: august_grisebach.json*

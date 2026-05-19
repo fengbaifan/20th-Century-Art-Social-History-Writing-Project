@@ -1,6 +1,6 @@
 ---
 full_name: "Abram Lerner"
-title_zh: "搜索结果"
+title_zh: "Lerner, Abram"
 birth: 1913
 death: 2007
 country: United States
@@ -45,7 +45,7 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[andrew_ritchie]] — shared institution: MIT
-- [[bill_seitz]] — shared institution: National Gallery
+- [[bill_seitz]] — shared institution: MIT
 - [[carlo_ragghianti]] — shared institution: MIT
 - [[carl_condit]] — shared institution: MIT
 - [[charles_seymour]] — shared institution: National Gallery
@@ -57,4 +57,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:01.131944+00:00 | Source: abram_lerner.json*
+*Generated: 2026-05-19T08:27:56.102679+00:00 | Source: abram_lerner.json*

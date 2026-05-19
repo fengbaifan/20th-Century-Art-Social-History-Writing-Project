@@ -43,17 +43,17 @@ Paul Oppé Archive, Paul Mellon Centre. http://calmview.co.uk/PaulMellonCentre/C
 
 ## 相关学者 / Related Scholars
 
-- [[hugh_popham]] — shared institution: National Gallery
+- [[hugh_popham]] — shared institution: Oxford
 - [[agnes_mongan]] — shared institution: National Gallery
 - [[arthur_hind]] — shared institution: Oxford
 - [[campbell_dodgson]] — shared institution: Oxford
 - [[grete_ring]] — shared institution: Oxford
-- [[jim_shaw]] — shared institution: National Gallery
-- [[karl_parker]] — shared institution: National Gallery
+- [[jim_shaw]] — shared institution: Oxford
+- [[karl_parker]] — shared institution: Oxford
 - [[laurence_binyon]] — shared institution: Oxford
 - [[philip_pouncey]] — shared institution: National Gallery
 - [[ren_huyghe]] — shared institution: National Gallery
 
 ---
 
-*Generated: 2026-05-18T16:25:23.636411+00:00 | Source: adolph_opp.json*
+*Generated: 2026-05-19T08:28:18.025614+00:00 | Source: adolph_opp.json*

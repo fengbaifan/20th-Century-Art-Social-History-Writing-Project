@@ -1,6 +1,6 @@
 ---
 full_name: "Champfleury"
-title_zh: "尚弗勒里"
+title_zh: "Champfleury"
 birth: 1820
 death: 1889
 country: France
@@ -57,7 +57,7 @@ Jules Champfleury papers, 1853-1888, Columbia University. https://clio.columbia.
 - [[edmond_goncourt]] — shared institution: MIT
 - [[eugne_violletleduc]] — shared institution: MIT
 - [[gb_cavalcaselle]] — shared institution: National Gallery
-- [[john_ruskin]] — shared institution: National Gallery
+- [[john_ruskin]] — shared institution: MIT
 - [[jules_goncourt]] — shared institution: MIT
 - [[jules_helbig]] — shared institution: MIT
 - [[otto_mndler]] — shared institution: National Gallery
@@ -66,4 +66,4 @@ Jules Champfleury papers, 1853-1888, Columbia University. https://clio.columbia.
 
 ---
 
-*Generated: 2026-05-18T16:29:30.096791+00:00 | Source: champfleury.json*
+*Generated: 2026-05-19T08:32:29.514182+00:00 | Source: champfleury.json*

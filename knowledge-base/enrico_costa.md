@@ -1,6 +1,6 @@
 ---
 full_name: "Enrico Costa"
-title_zh: "恩里科·科斯塔 (天体物理学家)"
+title_zh: "Costa, Enrico"
 birth: 1867
 death: 1911
 country: Spain
@@ -48,4 +48,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:32:50.594494+00:00 | Source: enrico_costa.json*
+*Generated: 2026-05-19T08:35:53.963736+00:00 | Source: enrico_costa.json*

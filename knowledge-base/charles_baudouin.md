@@ -50,4 +50,4 @@ Papiers Charles Baudouin, Bibliothèque de Genève. http://w3public.ville-ge.ch/
 
 ---
 
-*Generated: 2026-05-18T16:29:33.381632+00:00 | Source: charles_baudouin.json*
+*Generated: 2026-05-19T08:32:32.760784+00:00 | Source: charles_baudouin.json*

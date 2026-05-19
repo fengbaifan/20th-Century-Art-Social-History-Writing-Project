@@ -58,10 +58,10 @@ No archive information available. / 暂无档案信息。
 - [[martin_hardie]] — shared institution: Cambridge
 - [[william_ivins]] — shared institution: Harvard University
 - [[campbell_dodgson]] — shared institution: British Museum
-- [[laurence_binyon]] — shared institution: Harvard University
+- [[laurence_binyon]] — shared institution: British Museum
 - [[max_lehrs]] — shared institution: British Museum
 - [[sidney_colvin]] — shared institution: British Museum
 
 ---
 
-*Generated: 2026-05-18T16:27:22.209145+00:00 | Source: arthur_hind.json*
+*Generated: 2026-05-19T08:30:19.170222+00:00 | Source: arthur_hind.json*

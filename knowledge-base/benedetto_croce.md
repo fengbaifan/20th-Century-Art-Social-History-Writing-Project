@@ -60,4 +60,4 @@ L’Archivio privato di Benedetto Croce, Fondazione Biblioteca Benedetto Croce. 
 
 ---
 
-*Generated: 2026-05-18T16:28:14.575952+00:00 | Source: benedetto_croce.json*
+*Generated: 2026-05-19T08:31:12.250847+00:00 | Source: benedetto_croce.json*

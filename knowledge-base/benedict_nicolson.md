@@ -50,16 +50,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[douglas_cooper]] — shared institution: Oxford
-- [[ellis_waterhouse]] — shared institution: National Gallery
+- [[ellis_waterhouse]] — shared institution: Oxford
 - [[george_leesmilne]] — shared institution: Oxford
-- [[john_popehennessy]] — shared institution: National Gallery
+- [[john_popehennessy]] — shared institution: Oxford
 - [[oliver_millar]] — shared institution: Oxford
 - [[terence_hodgkinson]] — shared institution: Oxford
 - [[abram_lerner]] — shared institution: National Gallery
-- [[agnes_mongan]] — shared institution: Harvard University
-- [[alfred_frankfurter]] — shared institution: Harvard University
+- [[agnes_mongan]] — shared institution: National Gallery
+- [[alfred_frankfurter]] — shared institution: National Gallery
 - [[alfred_moir]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:28:15.128877+00:00 | Source: benedict_nicolson.json*
+*Generated: 2026-05-19T08:31:12.792405+00:00 | Source: benedict_nicolson.json*

@@ -55,16 +55,16 @@ The Fahy Photo Archive, Fondazione Federio Zeri. http://www.fondazionezeri.unibo
 ## 相关学者 / Related Scholars
 
 - [[andrew_ladis]] — shared institution: Harvard University
-- [[burr_wallen]] — shared institution: National Gallery
-- [[carolyn_kolb]] — shared institution: Harvard University
-- [[donald_posner]] — shared institution: Harvard University
+- [[burr_wallen]] — shared institution: Princeton University
+- [[carolyn_kolb]] — shared institution: National Gallery
+- [[donald_posner]] — shared institution: Princeton University
 - [[edmund_pillsbury]] — shared institution: National Gallery
 - [[james_wood]] — shared institution: Metropolitan Museum
-- [[john_shearman]] — shared institution: Harvard University
+- [[john_shearman]] — shared institution: National Gallery
 - [[joseph_connors]] — shared institution: Harvard University
-- [[julian_gardner]] — shared institution: Harvard University
+- [[julian_gardner]] — shared institution: National Gallery
 - [[kathleen_weilgarris]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:33:59.869684+00:00 | Source: everett_fahy.json*
+*Generated: 2026-05-19T08:37:03.263134+00:00 | Source: everett_fahy.json*

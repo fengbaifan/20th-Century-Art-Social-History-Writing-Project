@@ -51,4 +51,4 @@ COLNAGHI PAPERS: letters of Dominic Ellis Colnaghi (b.1834, d.1908), of the Brit
 
 ---
 
-*Generated: 2026-05-18T16:31:19.729042+00:00 | Source: dominic_colnaghi.json*
+*Generated: 2026-05-19T08:34:20.933367+00:00 | Source: dominic_colnaghi.json*

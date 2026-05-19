@@ -58,4 +58,4 @@ Dore Ashton papers, 1849, circa 1928-2014, Archives of American Art. https://www
 
 ---
 
-*Generated: 2026-05-18T16:31:26.465922+00:00 | Source: dore_ashton.json*
+*Generated: 2026-05-19T08:34:28.058040+00:00 | Source: dore_ashton.json*

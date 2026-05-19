@@ -48,4 +48,4 @@ de Montor, Artaud [Collated], Institut national d'histoire de l'art. https://www
 
 ---
 
-*Generated: 2026-05-18T16:27:16.104759+00:00 | Source: artaud_de_montor.json*
+*Generated: 2026-05-19T08:30:12.974571+00:00 | Source: artaud_de_montor.json*

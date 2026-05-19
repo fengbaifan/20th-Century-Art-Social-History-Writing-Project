@@ -1,6 +1,6 @@
 ---
 full_name: "Ada Louise Landman Huxtable"
-title_zh: "搜索结果"
+title_zh: "Huxtable, Ada Louise Landman"
 birth: 1921
 death: 2013
 country: United States
@@ -60,4 +60,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:08.559726+00:00 | Source: ada_huxtable.json*
+*Generated: 2026-05-19T08:28:03.192017+00:00 | Source: ada_huxtable.json*

@@ -61,4 +61,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:28:25.254851+00:00 | Source: bernhard_degenhart.json*
+*Generated: 2026-05-19T08:31:22.883354+00:00 | Source: bernhard_degenhart.json*

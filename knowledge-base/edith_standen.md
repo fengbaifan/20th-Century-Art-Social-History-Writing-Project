@@ -54,14 +54,14 @@ No archive information available. / 暂无档案信息。
 - [[abram_lerner]] — shared institution: National Gallery
 - [[adelyn_breeskin]] — shared institution: Metropolitan Museum
 - [[adrian_stokes]] — shared institution: Oxford
-- [[agnes_mongan]] — shared institution: Harvard University
+- [[agnes_mongan]] — shared institution: National Gallery
 - [[alfred_barr]] — shared institution: Harvard University
-- [[alfred_frankfurter]] — shared institution: Harvard University
+- [[alfred_frankfurter]] — shared institution: National Gallery
 - [[alfred_neumeyer]] — shared institution: Harvard University
 - [[andr_grabar]] — shared institution: National Gallery
 - [[arnold_lawrence]] — shared institution: Oxford
-- [[arthur_mccomb]] — shared institution: Harvard University
+- [[arthur_mccomb]] — shared institution: Oxford
 
 ---
 
-*Generated: 2026-05-18T16:31:51.516852+00:00 | Source: edith_standen.json*
+*Generated: 2026-05-19T08:34:54.460830+00:00 | Source: edith_standen.json*

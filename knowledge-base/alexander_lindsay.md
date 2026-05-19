@@ -47,7 +47,7 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[james_fergusson]] — shared institution: MIT
-- [[t_boase]] — shared institution: National Gallery
+- [[t_boase]] — shared institution: MIT
 - [[james_jarves]] — shared institution: MIT
 - [[charlesjeanmelchior_vog]] — shared institution: MIT
 - [[e_smith]] — shared institution: MIT
@@ -59,4 +59,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:49.707195+00:00 | Source: alexander_lindsay.json*
+*Generated: 2026-05-19T08:28:43.758965+00:00 | Source: alexander_lindsay.json*

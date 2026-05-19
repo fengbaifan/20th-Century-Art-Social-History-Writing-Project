@@ -1,6 +1,6 @@
 ---
 full_name: "Adelbert Matthaeis"
-title_zh: "搜索结果"
+title_zh: "Matthaeis, Adelbert"
 birth: 1859
 death: 1924
 country: Germany
@@ -48,4 +48,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:09.328042+00:00 | Source: adelbert_matthaeis.json*
+*Generated: 2026-05-19T08:28:03.870009+00:00 | Source: adelbert_matthaeis.json*

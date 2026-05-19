@@ -1,6 +1,6 @@
 ---
 full_name: "Adolf Katzenellenbogen"
-title_zh: "沙特尔主教座堂"
+title_zh: "Katzenellenbogen, Adolf"
 birth: 1901
 death: 1964
 country: Germany
@@ -63,4 +63,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:17.043895+00:00 | Source: adolf_katzenellenbogen.json*
+*Generated: 2026-05-19T08:28:11.588156+00:00 | Source: adolf_katzenellenbogen.json*

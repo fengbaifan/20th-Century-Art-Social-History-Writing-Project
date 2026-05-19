@@ -46,11 +46,11 @@ E. Maurice Bloch papers, ca. 1925-1989., Getty Research Institute. https://primo
 ## 相关学者 / Related Scholars
 
 - [[harold_spencer]] — shared institution: Harvard University
-- [[irma_jaffe]] — shared institution: Harvard University
+- [[irma_jaffe]] — shared institution: Columbia University
 - [[james_flexner]] — shared institution: Harvard University
 - [[james_plaut]] — shared institution: Harvard University
 - [[lillian_miller]] — shared institution: Columbia University
-- [[richard_randall]] — shared institution: Harvard University
+- [[richard_randall]] — shared institution: Columbia University
 - [[william_jordy]] — shared institution: Columbia University
 - [[jean_bony]] — shared institution: Columbia University
 - [[alain_locke]] — shared institution: Harvard University
@@ -58,4 +58,4 @@ E. Maurice Bloch papers, ca. 1925-1989., Getty Research Institute. https://primo
 
 ---
 
-*Generated: 2026-05-18T16:34:02.196443+00:00 | Source: e_bloch.json*
+*Generated: 2026-05-19T08:37:05.605675+00:00 | Source: e_bloch.json*

@@ -1,6 +1,6 @@
 ---
 full_name: "Bruno Zevi"
-title_zh: "布鲁诺·赛维"
+title_zh: "Zevi, Bruno"
 birth: 1918
 death: null
 country: Italy
@@ -51,4 +51,4 @@ L'Archivio Bruno Zevi, Fondazione Bruno Zevi. https://www.fondazionebrunozevi.it
 
 ---
 
-*Generated: 2026-05-18T16:28:43.302824+00:00 | Source: bruno_zevi.json*
+*Generated: 2026-05-19T08:31:41.457881+00:00 | Source: bruno_zevi.json*

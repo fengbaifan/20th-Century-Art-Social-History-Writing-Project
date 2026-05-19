@@ -63,4 +63,4 @@ Carroll Greene Papers, circa 1900-1990. 2 July 2012, Emory University Special Co
 
 ---
 
-*Generated: 2026-05-18T16:29:21.082648+00:00 | Source: carroll_greene.json*
+*Generated: 2026-05-19T08:32:20.607203+00:00 | Source: carroll_greene.json*

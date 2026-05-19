@@ -1,6 +1,6 @@
 ---
 full_name: "Adolf Bayersdorfer"
-title_zh: "搜索结果"
+title_zh: "Bayersdorfer, Adolf"
 birth: 1842
 death: 1901
 country: Germany
@@ -53,4 +53,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:12.127668+00:00 | Source: adolf_bayersdorfer.json*
+*Generated: 2026-05-19T08:28:06.622130+00:00 | Source: adolf_bayersdorfer.json*

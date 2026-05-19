@@ -52,4 +52,4 @@ Archivio Edoardo Brizio, Biblioteca comunale dell'Archiginnasio di Bologna. http
 
 ---
 
-*Generated: 2026-05-18T16:32:00.441930+00:00 | Source: edoardo_brizio.json*
+*Generated: 2026-05-19T08:35:03.142473+00:00 | Source: edoardo_brizio.json*

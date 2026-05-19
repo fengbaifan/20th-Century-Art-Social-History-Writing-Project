@@ -46,7 +46,7 @@ No archive information available. / 暂无档案信息。
 - [[albert_boeckler]] — shared institution: MIT
 - [[alfred_scharf]] — shared institution: MIT
 - [[alphonsus_vorenkamp]] — shared institution: MIT
-- [[andr_grabar]] — shared institution: National Gallery
+- [[andr_grabar]] — shared institution: MIT
 - [[arnold_salis]] — shared institution: MIT
 - [[august_grisebach]] — shared institution: MIT
 - [[a_byvanck]] — shared institution: MIT
@@ -54,4 +54,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:31:03.019311+00:00 | Source: david_finley.json*
+*Generated: 2026-05-19T08:34:03.694261+00:00 | Source: david_finley.json*

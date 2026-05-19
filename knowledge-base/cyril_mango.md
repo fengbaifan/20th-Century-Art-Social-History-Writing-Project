@@ -1,6 +1,6 @@
 ---
 full_name: "Cyril A. Mango"
-title_zh: "西里尔·曼戈"
+title_zh: "Mango, Cyril A."
 birth: 1928
 death: null
 country: United Kingdom
@@ -49,4 +49,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:30:43.324299+00:00 | Source: cyril_mango.json*
+*Generated: 2026-05-19T08:33:43.992534+00:00 | Source: cyril_mango.json*

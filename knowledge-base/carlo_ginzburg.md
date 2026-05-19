@@ -1,6 +1,6 @@
 ---
 full_name: "Carlo Ginzburg"
-title_zh: "卡洛·金茨堡"
+title_zh: "Ginzburg, Carlo"
 birth: 1939
 death: null
 country: Italy
@@ -77,4 +77,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:28:52.196153+00:00 | Source: carlo_ginzburg.json*
+*Generated: 2026-05-19T08:31:50.335690+00:00 | Source: carlo_ginzburg.json*

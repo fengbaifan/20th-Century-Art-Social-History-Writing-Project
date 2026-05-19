@@ -70,4 +70,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:28:18.979284+00:00 | Source: bernard_andreae.json*
+*Generated: 2026-05-19T08:31:16.700393+00:00 | Source: bernard_andreae.json*

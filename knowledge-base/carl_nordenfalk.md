@@ -66,7 +66,7 @@ No archive information available. / 暂无档案信息。
 - [[adolf_katzenellenbogen]] — shared institution: Princeton University
 - [[alfred_barr]] — shared institution: Princeton University
 - [[andrew_keck]] — shared institution: Princeton University
-- [[bill_seitz]] — shared institution: National Gallery
+- [[bill_seitz]] — shared institution: Princeton University
 - [[christopher_hohler]] — shared institution: Oxford
 - [[clement_greenberg]] — shared institution: Princeton University
 - [[david_rice]] — shared institution: Oxford
@@ -76,4 +76,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:29:12.342945+00:00 | Source: carl_nordenfalk.json*
+*Generated: 2026-05-19T08:32:11.701516+00:00 | Source: carl_nordenfalk.json*

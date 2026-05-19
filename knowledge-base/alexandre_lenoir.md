@@ -49,13 +49,13 @@ No archive information available. / 暂无档案信息。
 - [[adolf_katzenellenbogen]] — shared institution: MIT
 - [[adolphe_braun]] — shared institution: Louvre
 - [[andr_flibien]] — shared institution: Yale University
-- [[andr_malraux]] — shared institution: MIT
+- [[andr_malraux]] — shared institution: Louvre
 - [[anita_brookner]] — shared institution: Louvre
 - [[anne_hanson]] — shared institution: MIT
-- [[anthony_blunt]] — shared institution: MIT
+- [[anthony_blunt]] — shared institution: Louvre
 - [[arcisse_caumont]] — shared institution: MIT
 - [[champfleury]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:25:53.028193+00:00 | Source: alexandre_lenoir.json*
+*Generated: 2026-05-19T08:28:47.005344+00:00 | Source: alexandre_lenoir.json*

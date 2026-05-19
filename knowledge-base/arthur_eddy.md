@@ -44,7 +44,7 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[albert_elsen]] — shared institution: Columbia University
-- [[alfred_barr]] — shared institution: Harvard University
+- [[alfred_barr]] — shared institution: Columbia University
 - [[ann_harris]] — shared institution: Columbia University
 - [[arlene_raven]] — shared institution: Columbia University
 - [[a_austin]] — shared institution: Harvard University
@@ -56,4 +56,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:27:18.021348+00:00 | Source: arthur_eddy.json*
+*Generated: 2026-05-19T08:30:14.864920+00:00 | Source: arthur_eddy.json*

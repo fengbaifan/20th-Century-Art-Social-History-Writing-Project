@@ -61,4 +61,4 @@ Carli Enzo, Biblioteca Umanistica dell’Università di Siena. http://siusa.arch
 
 ---
 
-*Generated: 2026-05-18T16:32:53.965709+00:00 | Source: enzo_carli.json*
+*Generated: 2026-05-19T08:35:57.300245+00:00 | Source: enzo_carli.json*

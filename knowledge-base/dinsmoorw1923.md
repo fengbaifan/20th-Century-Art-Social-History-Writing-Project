@@ -58,4 +58,4 @@ William Bell Dinsmoor, Jr. Papers (1923-1988), American School of Classical Stud
 
 ---
 
-*Generated: 2026-05-18T16:31:16.437725+00:00 | Source: dinsmoorw1923.json*
+*Generated: 2026-05-19T08:34:17.481757+00:00 | Source: dinsmoorw1923.json*

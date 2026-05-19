@@ -63,15 +63,15 @@ No archive information available. / 暂无档案信息。
 
 - [[roy_sieber]] — shared institution: MIT
 - [[walter_simon]] — shared institution: MIT
-- [[william_fagg]] — shared institution: Metropolitan Museum
-- [[john_russell]] — shared institution: Metropolitan Museum
+- [[william_fagg]] — shared institution: MIT
+- [[john_russell]] — shared institution: MIT
 - [[carl_einstein]] — shared institution: MIT
 - [[cornelius_adepegba]] — shared institution: MIT
 - [[franz_boas]] — shared institution: MIT
-- [[robert_goldwater]] — shared institution: Metropolitan Museum
+- [[robert_goldwater]] — shared institution: MIT
 - [[sylvia_williams]] — shared institution: MIT
 - [[abram_lerner]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:31:32.748083+00:00 | Source: douglas_newton.json*
+*Generated: 2026-05-19T08:34:34.409705+00:00 | Source: douglas_newton.json*

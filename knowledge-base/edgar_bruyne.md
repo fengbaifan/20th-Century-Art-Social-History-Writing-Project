@@ -52,4 +52,4 @@ Archive of Edgar de Bruyne, Letterenhuis. https://anet.be/record/isaarlh/au::313
 
 ---
 
-*Generated: 2026-05-18T16:31:46.113401+00:00 | Source: edgar_bruyne.json*
+*Generated: 2026-05-19T08:34:48.838386+00:00 | Source: edgar_bruyne.json*

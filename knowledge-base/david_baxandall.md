@@ -45,14 +45,14 @@ No archive information available. / 暂无档案信息。
 - [[ellis_waterhouse]] — shared institution: National Gallery
 - [[e_gombrich]] — shared institution: MIT
 - [[terence_hodgkinson]] — shared institution: MIT
-- [[abram_lerner]] — shared institution: National Gallery
+- [[abram_lerner]] — shared institution: MIT
 - [[adelyn_breeskin]] — shared institution: MIT
 - [[adolf_katzenellenbogen]] — shared institution: MIT
 - [[agnes_claflin]] — shared institution: MIT
-- [[agnes_mongan]] — shared institution: National Gallery
+- [[agnes_mongan]] — shared institution: MIT
 - [[alfred_barr]] — shared institution: MIT
-- [[alfred_frankfurter]] — shared institution: National Gallery
+- [[alfred_frankfurter]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:30:59.077053+00:00 | Source: david_baxandall.json*
+*Generated: 2026-05-19T08:33:59.782422+00:00 | Source: david_baxandall.json*

@@ -48,7 +48,7 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[albert_elsen]] — shared institution: National Gallery
+- [[albert_elsen]] — shared institution: Museum of Modern Art
 - [[barbara_rose]] — shared institution: MIT
 - [[bates_lowry]] — shared institution: MIT
 - [[carroll_greene]] — shared institution: MIT
@@ -57,8 +57,8 @@ No archive information available. / 暂无档案信息。
 - [[francis_oconnor]] — shared institution: MIT
 - [[henry_geldzahler]] — shared institution: Museum of Modern Art
 - [[henry_hopkins]] — shared institution: Museum of Modern Art
-- [[jean_boggs]] — shared institution: National Gallery
+- [[jean_boggs]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:32:27.584399+00:00 | Source: elizabeth_churcher.json*
+*Generated: 2026-05-19T08:35:30.914323+00:00 | Source: elizabeth_churcher.json*

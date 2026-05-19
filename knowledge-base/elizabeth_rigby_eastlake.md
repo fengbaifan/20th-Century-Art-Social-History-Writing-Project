@@ -63,7 +63,7 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[john_ruskin]] — shared institution: National Gallery
+- [[john_ruskin]] — shared institution: MIT
 - [[william_boxall]] — shared institution: National Gallery
 - [[campbell_dodgson]] — shared institution: British Museum
 - [[carl_einstein]] — shared institution: MIT
@@ -76,4 +76,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:32:32.627431+00:00 | Source: elizabeth_rigby_eastlake.json*
+*Generated: 2026-05-19T08:35:35.858159+00:00 | Source: elizabeth_rigby_eastlake.json*

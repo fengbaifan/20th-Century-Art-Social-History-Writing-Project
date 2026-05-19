@@ -48,12 +48,12 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[alfred_barr]] — shared institution: Harvard University
-- [[a_austin]] — shared institution: Harvard University
+- [[alfred_barr]] — shared institution: Metropolitan Museum
+- [[a_austin]] — shared institution: Museum of Modern Art
 - [[bill_seitz]] — shared institution: Museum of Modern Art
 - [[christopher_gray]] — shared institution: Harvard University
 - [[dorothy_miller]] — shared institution: Museum of Modern Art
-- [[edgard_kaufmann]] — shared institution: Metropolitan Museum
+- [[edgard_kaufmann]] — shared institution: Museum of Modern Art
 - [[francineclaire_legrand]] — shared institution: Museum of Modern Art
 - [[frederick_deknatel]] — shared institution: Harvard University
 - [[frederick_wight]] — shared institution: Harvard University
@@ -61,4 +61,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:28:12.592974+00:00 | Source: beaumont_newhall.json*
+*Generated: 2026-05-19T08:31:10.326391+00:00 | Source: beaumont_newhall.json*

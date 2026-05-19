@@ -62,4 +62,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:30:34.030161+00:00 | Source: cornelis_hofstede_de_groot.json*
+*Generated: 2026-05-19T08:33:34.513767+00:00 | Source: cornelis_hofstede_de_groot.json*

@@ -44,14 +44,14 @@ No archive information available. / 暂无档案信息。
 - [[kate_elderkin]] — shared institution: Harvard University
 - [[adolf_katzenellenbogen]] — shared institution: Princeton University
 - [[agnes_mongan]] — shared institution: Harvard University
-- [[albert_friend]] — shared institution: Harvard University
+- [[albert_friend]] — shared institution: Princeton University
 - [[alexander_dorner]] — shared institution: Harvard University
-- [[alfred_barr]] — shared institution: Harvard University
-- [[alfred_frankfurter]] — shared institution: Harvard University
+- [[alfred_barr]] — shared institution: Princeton University
+- [[alfred_frankfurter]] — shared institution: Princeton University
 - [[alfred_neumeyer]] — shared institution: Harvard University
 - [[andrew_keck]] — shared institution: Princeton University
-- [[arthur_mccomb]] — shared institution: Harvard University
+- [[arthur_mccomb]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:32:10.222509+00:00 | Source: edward_capps.json*
+*Generated: 2026-05-19T08:35:13.736943+00:00 | Source: edward_capps.json*

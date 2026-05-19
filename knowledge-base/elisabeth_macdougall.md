@@ -51,17 +51,17 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[james_ackerman]] — shared institution: Harvard University
+- [[james_ackerman]] — shared institution: Cambridge
 - [[colin_rowe]] — shared institution: Cambridge
 - [[dora_wiebenson]] — shared institution: Harvard University
 - [[george_henderson]] — shared institution: Cambridge
 - [[hank_millon]] — shared institution: Harvard University
-- [[henry_millon]] — shared institution: Harvard University
+- [[henry_millon]] — shared institution: Cambridge
 - [[howard_colvin]] — shared institution: Cambridge
 - [[howard_saalman]] — shared institution: Harvard University
-- [[irving_lavin]] — shared institution: Harvard University
+- [[irving_lavin]] — shared institution: Cambridge
 - [[james_acland]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:32:22.505061+00:00 | Source: elisabeth_macdougall.json*
+*Generated: 2026-05-19T08:35:25.911253+00:00 | Source: elisabeth_macdougall.json*

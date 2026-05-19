@@ -1,6 +1,6 @@
 ---
 full_name: "Edward Robinson"
-title_zh: "爱德华·罗宾逊 (圣经学者)"
+title_zh: "Robinson, Edward"
 birth: 1858
 death: 1931
 country: United States
@@ -54,4 +54,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:32:15.446324+00:00 | Source: edward_robinson.json*
+*Generated: 2026-05-19T08:35:19.041758+00:00 | Source: edward_robinson.json*

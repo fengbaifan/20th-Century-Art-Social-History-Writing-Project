@@ -44,7 +44,7 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[martin_soria]] — shared institution: Harvard University
+- [[martin_soria]] — shared institution: Yale University
 - [[robert_quinn]] — shared institution: Yale University
 - [[william_maxwell]] — shared institution: Cambridge
 - [[chandler_post]] — shared institution: Harvard University
@@ -57,4 +57,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:32:19.109449+00:00 | Source: eleanor_sayre.json*
+*Generated: 2026-05-19T08:35:22.733360+00:00 | Source: eleanor_sayre.json*

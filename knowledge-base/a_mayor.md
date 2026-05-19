@@ -59,11 +59,11 @@ No archive information available. / 暂无档案信息。
 - [[i_regteren_altena]] — shared institution: Harvard University
 - [[philip_hofer]] — shared institution: Harvard University
 - [[ursula_hoff]] — shared institution: British Museum
-- [[fitzroy_carrington]] — shared institution: Harvard University
-- [[william_ivins]] — shared institution: Harvard University
+- [[fitzroy_carrington]] — shared institution: British Museum
+- [[william_ivins]] — shared institution: Metropolitan Museum
 - [[charles_sterling]] — shared institution: Metropolitan Museum
 - [[percy_schramm]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:27:54.130286+00:00 | Source: a_mayor.json*
+*Generated: 2026-05-19T08:30:51.577800+00:00 | Source: a_mayor.json*

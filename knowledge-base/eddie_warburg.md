@@ -51,11 +51,11 @@ No archive information available. / 暂无档案信息。
 - [[bernard_smith]] — shared institution: MIT
 - [[edgar_wind]] — shared institution: MIT
 - [[elisabeth_rosenbaum]] — shared institution: Metropolitan Museum
-- [[e_gombrich]] — shared institution: Harvard University
+- [[e_gombrich]] — shared institution: MIT
 - [[francis_wormald]] — shared institution: MIT
 - [[f_klingender]] — shared institution: MIT
 - [[gertrude_coor]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:31:43.253322+00:00 | Source: eddie_warburg.json*
+*Generated: 2026-05-19T08:34:45.828798+00:00 | Source: eddie_warburg.json*

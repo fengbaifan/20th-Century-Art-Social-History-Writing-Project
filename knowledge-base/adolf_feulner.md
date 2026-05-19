@@ -1,6 +1,6 @@
 ---
 full_name: "Adolf Feulner"
-title_zh: "搜索结果"
+title_zh: "Feulner, Adolf"
 birth: 1884
 death: 1945
 country: Germany
@@ -50,4 +50,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:14.111021+00:00 | Source: adolf_feulner.json*
+*Generated: 2026-05-19T08:28:08.707851+00:00 | Source: adolf_feulner.json*

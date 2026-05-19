@@ -46,16 +46,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[andrew_ritchie]] — shared institution: MIT
-- [[craig_smyth]] — shared institution: National Gallery
-- [[abram_lerner]] — shared institution: National Gallery
-- [[agnes_mongan]] — shared institution: National Gallery
-- [[alfred_frankfurter]] — shared institution: National Gallery
-- [[anne_hanson]] — shared institution: National Gallery
+- [[craig_smyth]] — shared institution: MIT
+- [[abram_lerner]] — shared institution: MIT
+- [[agnes_mongan]] — shared institution: MIT
+- [[alfred_frankfurter]] — shared institution: MIT
+- [[anne_hanson]] — shared institution: MIT
 - [[anthony_blunt]] — shared institution: MIT
 - [[anthony_clark]] — shared institution: National Gallery
-- [[a_vries]] — shared institution: National Gallery
+- [[a_vries]] — shared institution: MIT
 - [[benedict_nicolson]] — shared institution: National Gallery
 
 ---
 
-*Generated: 2026-05-18T16:29:55.663068+00:00 | Source: charles_parkhurst.json*
+*Generated: 2026-05-19T08:32:54.665170+00:00 | Source: charles_parkhurst.json*

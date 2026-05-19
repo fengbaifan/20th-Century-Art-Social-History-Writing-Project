@@ -57,14 +57,14 @@ No archive information available. / 暂无档案信息。
 - [[louis_hautecoeur]] — shared institution: MIT
 - [[adolf_katzenellenbogen]] — shared institution: MIT
 - [[andr_malraux]] — shared institution: MIT
-- [[a_porter]] — shared institution: Harvard University
+- [[a_porter]] — shared institution: MIT
 - [[bernard_ashmole]] — shared institution: MIT
 - [[charles_sterling]] — shared institution: MIT
-- [[clarence_kennedy]] — shared institution: Harvard University
+- [[clarence_kennedy]] — shared institution: MIT
 - [[clarence_ward]] — shared institution: Princeton University
 - [[dorothy_thompson]] — shared institution: Princeton University
 - [[engelbert_ter_kuile]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:32:43.865661+00:00 | Source: emil_kaufmann.json*
+*Generated: 2026-05-19T08:35:47.253596+00:00 | Source: emil_kaufmann.json*

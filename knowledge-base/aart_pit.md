@@ -1,6 +1,6 @@
 ---
 full_name: "Aart Pit"
-title_zh: "搜索结果"
+title_zh: "Pit, Aart"
 birth: 1860
 death: 1944
 country: Netherlands
@@ -57,4 +57,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:24:56.586506+00:00 | Source: aart_pit.json*
+*Generated: 2026-05-19T08:27:51.840711+00:00 | Source: aart_pit.json*

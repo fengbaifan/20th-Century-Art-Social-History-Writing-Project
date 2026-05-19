@@ -56,4 +56,4 @@ Federico Zeri Archive in Bologna Cini Foundation Archive in San Giorgio Maggiore
 
 ---
 
-*Generated: 2026-05-18T16:33:58.892928+00:00 | Source: evelyn_sandbergvaval.json*
+*Generated: 2026-05-19T08:37:02.321621+00:00 | Source: evelyn_sandbergvaval.json*

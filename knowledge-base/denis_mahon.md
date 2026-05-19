@@ -52,17 +52,17 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[ellis_waterhouse]] — shared institution: National Gallery
+- [[ellis_waterhouse]] — shared institution: Oxford
 - [[julius_held]] — shared institution: National Gallery
 - [[nicolas_powell]] — shared institution: Cambridge
-- [[rudolf_wittkower]] — shared institution: National Gallery
+- [[rudolf_wittkower]] — shared institution: Cambridge
 - [[sacheverell_sitwell]] — shared institution: Oxford
 - [[walter_friedlnder]] — shared institution: National Gallery
-- [[anthony_blunt]] — shared institution: Cambridge
+- [[anthony_blunt]] — shared institution: Louvre
 - [[cesare_gnudi]] — shared institution: National Gallery
 - [[denys_sutton]] — shared institution: Oxford
 - [[neil_maclaren]] — shared institution: National Gallery
 
 ---
 
-*Generated: 2026-05-18T16:31:09.723005+00:00 | Source: denis_mahon.json*
+*Generated: 2026-05-19T08:34:10.521998+00:00 | Source: denis_mahon.json*

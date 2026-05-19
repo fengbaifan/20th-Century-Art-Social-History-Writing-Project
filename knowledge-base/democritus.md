@@ -1,6 +1,6 @@
 ---
 full_name: "Democritus"
-title_zh: "德谟克利特"
+title_zh: "Democritus"
 birth: 460 B.C.E.
 death: 370 B.C.E.
 country: Greece (ancient)
@@ -58,4 +58,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:31:09.065507+00:00 | Source: democritus.json*
+*Generated: 2026-05-19T08:34:09.831022+00:00 | Source: democritus.json*

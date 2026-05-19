@@ -63,4 +63,4 @@ Letters of French archaeologists, ca. 1822-1942., Getty Research Institute. http
 
 ---
 
-*Generated: 2026-05-18T16:25:20.657719+00:00 | Source: adolphe_didron.json*
+*Generated: 2026-05-19T08:28:15.129420+00:00 | Source: adolphe_didron.json*

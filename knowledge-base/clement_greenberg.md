@@ -1,6 +1,6 @@
 ---
 full_name: "Clement Greenberg"
-title_zh: "克莱门特·格林伯格"
+title_zh: "Greenberg, Clement"
 birth: 1909
 death: 1994
 country: United States
@@ -61,4 +61,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:30:25.439766+00:00 | Source: clement_greenberg.json*
+*Generated: 2026-05-19T08:33:25.871630+00:00 | Source: clement_greenberg.json*

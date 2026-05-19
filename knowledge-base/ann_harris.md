@@ -55,7 +55,7 @@ No archive information available. / 暂无档案信息。
 - [[albert_elsen]] — shared institution: Columbia University
 - [[arlene_raven]] — shared institution: Columbia University
 - [[barbara_rose]] — shared institution: Columbia University
-- [[bob_rosenblum]] — shared institution: Metropolitan Museum
+- [[bob_rosenblum]] — shared institution: Columbia University
 - [[carroll_greene]] — shared institution: Columbia University
 - [[christine_roussel]] — shared institution: Metropolitan Museum
 - [[david_carritt]] — shared institution: Metropolitan Museum
@@ -64,4 +64,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:26:50.193284+00:00 | Source: ann_harris.json*
+*Generated: 2026-05-19T08:29:46.527914+00:00 | Source: ann_harris.json*

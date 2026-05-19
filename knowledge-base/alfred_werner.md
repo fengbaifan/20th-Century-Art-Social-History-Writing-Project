@@ -1,6 +1,6 @@
 ---
 full_name: "Alfred Werner"
-title_zh: "阿尔弗雷德·维尔纳"
+title_zh: "Werner, Alfred"
 birth: 1911
 death: 1979
 country: United States
@@ -51,4 +51,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:26:07.474564+00:00 | Source: alfred_werner.json*
+*Generated: 2026-05-19T08:29:01.243266+00:00 | Source: alfred_werner.json*

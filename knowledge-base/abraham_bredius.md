@@ -1,6 +1,6 @@
 ---
 full_name: "Abraham Bredius"
-title_zh: "搜索结果"
+title_zh: "Bredius, Abraham"
 birth: 1855
 death: 1946
 country: Netherlands
@@ -58,4 +58,4 @@ Bredius, Abraham Fonds, Nederlands Instituut voor Kunstgeschiedenis. https://rkd
 
 ---
 
-*Generated: 2026-05-18T16:24:58.915651+00:00 | Source: abraham_bredius.json*
+*Generated: 2026-05-19T08:27:53.968547+00:00 | Source: abraham_bredius.json*

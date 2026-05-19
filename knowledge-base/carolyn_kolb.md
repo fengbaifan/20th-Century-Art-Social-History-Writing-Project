@@ -61,12 +61,12 @@ No archive information available. / 暂无档案信息。
 - [[burr_wallen]] — shared institution: National Gallery
 - [[cornelius_adepegba]] — shared institution: MIT
 - [[c_armi]] — shared institution: MIT
-- [[donald_preziosi]] — shared institution: Harvard University
+- [[donald_preziosi]] — shared institution: National Gallery
 - [[d_pepper]] — shared institution: MIT
-- [[everett_fahy]] — shared institution: Harvard University
+- [[everett_fahy]] — shared institution: National Gallery
 - [[george_henderson]] — shared institution: MIT
 - [[giovanni_previtali]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:29:19.779363+00:00 | Source: carolyn_kolb.json*
+*Generated: 2026-05-19T08:32:19.236011+00:00 | Source: carolyn_kolb.json*

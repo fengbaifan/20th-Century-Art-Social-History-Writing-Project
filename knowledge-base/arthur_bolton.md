@@ -55,4 +55,4 @@ papers (4 folders) incl reviews, notes and cuttings rel to the Wren Society, c19
 
 ---
 
-*Generated: 2026-05-18T16:27:16.658947+00:00 | Source: arthur_bolton.json*
+*Generated: 2026-05-19T08:30:13.517369+00:00 | Source: arthur_bolton.json*

@@ -55,4 +55,4 @@ Battisti, Eugenio , Archivio Eugenio Battisti (Rome). http://siusa.archivi.benic
 
 ---
 
-*Generated: 2026-05-18T16:33:43.062392+00:00 | Source: eugenio_battisti.json*
+*Generated: 2026-05-19T08:36:46.646680+00:00 | Source: eugenio_battisti.json*

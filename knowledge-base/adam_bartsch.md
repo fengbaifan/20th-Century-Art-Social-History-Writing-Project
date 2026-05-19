@@ -1,6 +1,6 @@
 ---
 full_name: "Adam von Bartsch"
-title_zh: "魯道夫星曆表"
+title_zh: "Bartsch, Adam von"
 birth: 1757
 death: 1821
 country: Austria
@@ -58,4 +58,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:07.018411+00:00 | Source: adam_bartsch.json*
+*Generated: 2026-05-19T08:28:01.607977+00:00 | Source: adam_bartsch.json*

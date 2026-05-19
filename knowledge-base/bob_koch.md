@@ -50,17 +50,17 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[james_snyder]] — shared institution: Harvard University
+- [[james_snyder]] — shared institution: Princeton University
 - [[leopold_ettlinger]] — shared institution: Princeton University
-- [[craig_smyth]] — shared institution: Harvard University
+- [[craig_smyth]] — shared institution: Princeton University
 - [[creighton_gilbert]] — shared institution: Harvard University
 - [[david_coffin]] — shared institution: Princeton University
 - [[earl_rosenthal]] — shared institution: Princeton University
 - [[elizabeth_mongan]] — shared institution: Harvard University
 - [[eve_borsook]] — shared institution: Harvard University
 - [[federico_zeri]] — shared institution: Harvard University
-- [[frederick_hartt]] — shared institution: Harvard University
+- [[frederick_hartt]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:28:34.143312+00:00 | Source: bob_koch.json*
+*Generated: 2026-05-19T08:31:31.806901+00:00 | Source: bob_koch.json*

@@ -58,4 +58,4 @@ Claes Oldenburg and Coosje van Bruggen Archives [In Process], Getty Research Ins
 
 ---
 
-*Generated: 2026-05-18T16:30:31.155815+00:00 | Source: coosje_bruggen.json*
+*Generated: 2026-05-19T08:33:31.668482+00:00 | Source: coosje_bruggen.json*

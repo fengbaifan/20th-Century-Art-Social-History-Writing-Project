@@ -62,8 +62,8 @@ No archive information available. / 暂无档案信息。
 - [[john_pope]] — shared institution: Harvard University
 - [[jules_leroy]] — shared institution: MIT
 - [[laurence_sickman]] — shared institution: Harvard University
-- [[martin_soria]] — shared institution: Harvard University
-- [[ernest_fenollosa]] — shared institution: Harvard University
+- [[martin_soria]] — shared institution: MIT
+- [[ernest_fenollosa]] — shared institution: MIT
 - [[james_fergusson]] — shared institution: MIT
 - [[john_ferguson]] — shared institution: MIT
 - [[langdon_warner]] — shared institution: Harvard University
@@ -72,4 +72,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:28:17.147218+00:00 | Source: benjamin_rowland.json*
+*Generated: 2026-05-19T08:31:14.786722+00:00 | Source: benjamin_rowland.json*

@@ -56,4 +56,4 @@ Agnes Rindge Claflin papers concerning Alexander Calder, 1936-circa 1970s, Archi
 
 ---
 
-*Generated: 2026-05-18T16:25:28.491287+00:00 | Source: agnes_claflin.json*
+*Generated: 2026-05-19T08:28:22.508848+00:00 | Source: agnes_claflin.json*

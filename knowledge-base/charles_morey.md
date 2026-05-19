@@ -51,8 +51,8 @@ No archive information available. / 暂无档案信息。
 - [[adolf_katzenellenbogen]] — shared institution: Princeton University
 - [[andrew_keck]] — shared institution: Princeton University
 - [[david_robb]] — shared institution: Princeton University
-- [[donald_egbert]] — shared institution: Museum of Modern Art
+- [[donald_egbert]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:29:51.343667+00:00 | Source: charles_morey.json*
+*Generated: 2026-05-19T08:32:50.518634+00:00 | Source: charles_morey.json*

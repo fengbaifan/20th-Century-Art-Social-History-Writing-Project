@@ -50,12 +50,12 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[ren_huyghe]] — shared institution: MIT
-- [[adelyn_breeskin]] — shared institution: Metropolitan Museum
+- [[ren_huyghe]] — shared institution: Louvre
+- [[adelyn_breeskin]] — shared institution: MIT
 - [[adolf_katzenellenbogen]] — shared institution: MIT
 - [[andrew_ritchie]] — shared institution: MIT
-- [[andr_malraux]] — shared institution: MIT
-- [[anthony_blunt]] — shared institution: MIT
+- [[andr_malraux]] — shared institution: Louvre
+- [[anthony_blunt]] — shared institution: Louvre
 - [[a_vries]] — shared institution: MIT
 - [[carl_winter]] — shared institution: MIT
 - [[cesare_gnudi]] — shared institution: MIT
@@ -63,4 +63,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:30:00.198884+00:00 | Source: charles_sterling.json*
+*Generated: 2026-05-19T08:32:59.237008+00:00 | Source: charles_sterling.json*

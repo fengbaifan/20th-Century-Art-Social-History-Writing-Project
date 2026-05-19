@@ -1,6 +1,6 @@
 ---
 full_name: "Adolphe Braun"
-title_zh: "羅丹美術館"
+title_zh: "Braun, Adolphe"
 birth: 1811
 death: 1877
 country: France
@@ -60,4 +60,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:19.322603+00:00 | Source: adolphe_braun.json*
+*Generated: 2026-05-19T08:28:13.913478+00:00 | Source: adolphe_braun.json*

@@ -48,7 +48,7 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[david_rice]] — shared institution: Oxford
-- [[edith_standen]] — shared institution: Metropolitan Museum
+- [[edith_standen]] — shared institution: Oxford
 - [[giles_robertson]] — shared institution: Cambridge
 - [[james_rorimer]] — shared institution: Metropolitan Museum
 - [[charles_cornelius]] — shared institution: Metropolitan Museum
@@ -60,4 +60,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:34:42.076178+00:00 | Source: francis_watson.json*
+*Generated: 2026-05-19T08:37:45.429074+00:00 | Source: francis_watson.json*

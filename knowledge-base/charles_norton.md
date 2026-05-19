@@ -1,6 +1,6 @@
 ---
 full_name: "Charles Eliot Norton"
-title_zh: "查尔斯·艾略特·诺顿"
+title_zh: "Norton, Charles Eliot"
 birth: 1827
 death: 1908
 country: United States
@@ -59,12 +59,12 @@ No archive information available. / 暂无档案信息。
 - [[matthew_wyatt]] — shared institution: Oxford
 - [[william_weale]] — shared institution: Oxford
 - [[charles_moore]] — shared institution: Harvard University
-- [[eric_maclagan]] — shared institution: Harvard University
+- [[eric_maclagan]] — shared institution: Oxford
 - [[johnny_roosval]] — shared institution: Harvard University
-- [[meyer_schapiro]] — shared institution: Harvard University
-- [[john_ruskin]] — shared institution: Harvard University
+- [[meyer_schapiro]] — shared institution: Oxford
+- [[john_ruskin]] — shared institution: Oxford
 - [[william_maxwell]] — shared institution: Cambridge
 
 ---
 
-*Generated: 2026-05-18T16:29:54.292531+00:00 | Source: charles_norton.json*
+*Generated: 2026-05-19T08:32:53.378229+00:00 | Source: charles_norton.json*

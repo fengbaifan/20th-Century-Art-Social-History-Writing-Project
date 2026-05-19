@@ -1,6 +1,6 @@
 ---
 full_name: "Alice Christiana Gertrude Meynell"
-title_zh: "爱丽丝·梅内尔"
+title_zh: "Meynell, Alice Christiana Gertrude"
 birth: 1847
 death: 1922
 country: United Kingdom
@@ -58,4 +58,4 @@ Boston College Collection of Alice Meynell, Boston College.
 
 ---
 
-*Generated: 2026-05-18T16:26:11.716323+00:00 | Source: alice_meynell.json*
+*Generated: 2026-05-19T08:29:05.695716+00:00 | Source: alice_meynell.json*

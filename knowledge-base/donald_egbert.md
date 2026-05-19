@@ -71,4 +71,4 @@ Record of 1937 Trip Taken by Donald Drew Egbert and Andrew Saeger Keck, Princeto
 
 ---
 
-*Generated: 2026-05-18T16:31:21.149775+00:00 | Source: donald_egbert.json*
+*Generated: 2026-05-19T08:34:22.714359+00:00 | Source: donald_egbert.json*

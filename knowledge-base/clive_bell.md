@@ -1,6 +1,6 @@
 ---
 full_name: "Clive Bell"
-title_zh: "克莱夫·贝尔"
+title_zh: "Bell, Clive"
 birth: 1881
 death: 1964
 country: United Kingdom
@@ -69,4 +69,4 @@ Clive Bell [collated], Modern Archives Publishing Project. https://www.modernist
 
 ---
 
-*Generated: 2026-05-18T16:30:26.832514+00:00 | Source: clive_bell.json*
+*Generated: 2026-05-19T08:33:27.322665+00:00 | Source: clive_bell.json*

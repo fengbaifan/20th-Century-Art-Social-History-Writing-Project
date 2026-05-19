@@ -46,16 +46,16 @@ Carl Zigrosser Collection, Philadelphia Museum of Art. https://pmalibrary.librar
 ## 相关学者 / Related Scholars
 
 - [[a_mayor]] — shared institution: Metropolitan Museum
-- [[william_ivins]] — shared institution: Metropolitan Museum
+- [[william_ivins]] — shared institution: Columbia University
 - [[george_story]] — shared institution: Metropolitan Museum
 - [[adelyn_breeskin]] — shared institution: Metropolitan Museum
 - [[alice_mhsam]] — shared institution: Columbia University
 - [[anneliese_bulling]] — shared institution: Columbia University
 - [[arthur_mccomb]] — shared institution: Metropolitan Museum
 - [[a_gallatin]] — shared institution: Metropolitan Museum
-- [[a_porter]] — shared institution: Metropolitan Museum
+- [[a_porter]] — shared institution: Columbia University
 - [[carl_bluemel]] — shared institution: Metropolitan Museum
 
 ---
 
-*Generated: 2026-05-18T16:29:17.285760+00:00 | Source: carl_zigrosser.json*
+*Generated: 2026-05-19T08:32:16.761741+00:00 | Source: carl_zigrosser.json*

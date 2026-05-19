@@ -49,13 +49,13 @@ Alexander Dorner papers, 1938-1955, Archives of American Art. https://www.aaa.si
 - [[agnes_claflin]] — shared institution: Museum of Modern Art
 - [[alain_locke]] — shared institution: Harvard University
 - [[albert_friend]] — shared institution: Harvard University
-- [[alfred_barr]] — shared institution: Harvard University
+- [[alfred_barr]] — shared institution: Museum of Modern Art
 - [[alfred_neumeyer]] — shared institution: Harvard University
 - [[arthur_mccomb]] — shared institution: Harvard University
-- [[a_austin]] — shared institution: Harvard University
+- [[a_austin]] — shared institution: Museum of Modern Art
 - [[a_mayor]] — shared institution: Harvard University
 - [[a_porter]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:25:48.250388+00:00 | Source: alexander_dorner.json*
+*Generated: 2026-05-19T08:28:42.243302+00:00 | Source: alexander_dorner.json*

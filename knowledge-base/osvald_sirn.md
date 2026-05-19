@@ -1,6 +1,6 @@
 ---
 full_name: "Osvald Sirén"
-title_zh: "Sirén, Osvald"
+title_zh: "喜龍仁"
 birth: 1879
 death: 1966
 country: Finland

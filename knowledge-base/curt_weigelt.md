@@ -54,4 +54,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:30:42.369824+00:00 | Source: curt_weigelt.json*
+*Generated: 2026-05-19T08:33:43.024859+00:00 | Source: curt_weigelt.json*

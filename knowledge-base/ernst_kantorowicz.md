@@ -1,6 +1,6 @@
 ---
 full_name: "Ernst Hartwig Kantorowicz"
-title_zh: "恩斯特·康托洛维茨"
+title_zh: "Kantorowicz, Ernst Hartwig"
 birth: 1895
 death: 1963
 country: Germany
@@ -58,4 +58,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:33:23.407649+00:00 | Source: ernst_kantorowicz.json*
+*Generated: 2026-05-19T08:36:27.435410+00:00 | Source: ernst_kantorowicz.json*

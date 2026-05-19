@@ -49,16 +49,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[adolf_katzenellenbogen]] — shared institution: MIT
-- [[a_porter]] — shared institution: Harvard University
+- [[a_porter]] — shared institution: MIT
 - [[bernard_ashmole]] — shared institution: MIT
-- [[emil_kaufmann]] — shared institution: Harvard University
+- [[emil_kaufmann]] — shared institution: MIT
 - [[engelbert_ter_kuile]] — shared institution: MIT
 - [[ernst_gall]] — shared institution: MIT
 - [[ernst_lvy]] — shared institution: MIT
-- [[fiske_kimball]] — shared institution: Harvard University
+- [[fiske_kimball]] — shared institution: MIT
 - [[geoffrey_webb]] — shared institution: MIT
 - [[hans_sedlmayr]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:30:17.802202+00:00 | Source: clarence_kennedy.json*
+*Generated: 2026-05-19T08:33:18.317970+00:00 | Source: clarence_kennedy.json*

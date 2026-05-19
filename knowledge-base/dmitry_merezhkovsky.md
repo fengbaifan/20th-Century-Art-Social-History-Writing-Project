@@ -1,6 +1,6 @@
 ---
 full_name: "Dmitry Sergeyevich Merezhkovsky"
-title_zh: "德米特里·梅列日科夫斯基"
+title_zh: "Merezhkovsky, Dmitry Sergeyevich"
 birth: 1865
 death: 1941
 country: Russia
@@ -52,4 +52,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:31:17.907853+00:00 | Source: dmitry_merezhkovsky.json*
+*Generated: 2026-05-19T08:34:19.019035+00:00 | Source: dmitry_merezhkovsky.json*

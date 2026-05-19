@@ -1,6 +1,6 @@
 ---
 full_name: "Alain LeRoy Locke"
-title_zh: "阿兰·勒罗伊·洛克"
+title_zh: "Locke, Alain LeRoy"
 birth: 1885
 death: 1954
 country: United States
@@ -65,9 +65,9 @@ Alain Locke Papers Coll. 164, Moorland-Spingarn Research Center, Howard Universi
 - [[alessandra_comini]] — shared institution: Oxford
 - [[alfred_frankfurter]] — shared institution: Harvard University
 - [[a_austin]] — shared institution: Harvard University
-- [[bernard_berenson]] — shared institution: Harvard University
+- [[bernard_berenson]] — shared institution: Oxford
 - [[campbell_dodgson]] — shared institution: Oxford
 
 ---
 
-*Generated: 2026-05-18T16:25:33.095971+00:00 | Source: alain_locke.json*
+*Generated: 2026-05-19T08:28:26.891293+00:00 | Source: alain_locke.json*

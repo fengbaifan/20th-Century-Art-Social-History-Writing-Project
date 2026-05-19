@@ -62,4 +62,4 @@ Archive of Francis Bond and other Ecclesiologists, Bodleian Library, University 
 
 ---
 
-*Generated: 2026-05-18T16:34:36.911483+00:00 | Source: francis_bond.json*
+*Generated: 2026-05-19T08:37:39.890937+00:00 | Source: francis_bond.json*

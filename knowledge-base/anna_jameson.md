@@ -59,7 +59,7 @@ No archive information available. / 暂无档案信息。
 - [[alexisfranois_rio]] — shared institution: MIT
 - [[mary_merrifield]] — shared institution: Cambridge
 - [[julia_ady]] — shared institution: MIT
-- [[gustav_waagen]] — shared institution: National Gallery
+- [[gustav_waagen]] — shared institution: MIT
 - [[adolphe_didron]] — shared institution: MIT
 - [[alfred_scharf]] — shared institution: MIT
 - [[angiola_romanini]] — shared institution: MIT
@@ -69,4 +69,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:26:44.895383+00:00 | Source: anna_jameson.json*
+*Generated: 2026-05-19T08:29:40.697493+00:00 | Source: anna_jameson.json*

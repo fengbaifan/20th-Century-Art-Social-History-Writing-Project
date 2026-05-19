@@ -48,16 +48,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[george_forsyth]] — shared institution: Princeton University
-- [[kurt_weitzmann]] — shared institution: Harvard University
-- [[paul_underwood]] — shared institution: Harvard University
+- [[kurt_weitzmann]] — shared institution: Princeton University
+- [[paul_underwood]] — shared institution: Princeton University
 - [[royall_tyler]] — shared institution: Harvard University
-- [[john_shapley]] — shared institution: Harvard University
+- [[john_shapley]] — shared institution: Princeton University
 - [[otto_demus]] — shared institution: Harvard University
 - [[eric_maclagan]] — shared institution: Harvard University
 - [[john_beckwith]] — shared institution: Harvard University
 - [[thomas_whittemore]] — shared institution: Harvard University
-- [[alfred_barr]] — shared institution: Harvard University
+- [[alfred_barr]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:25:39.980269+00:00 | Source: albert_friend.json*
+*Generated: 2026-05-19T08:28:33.938366+00:00 | Source: albert_friend.json*

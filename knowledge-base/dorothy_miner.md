@@ -47,7 +47,7 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[jean_bony]] — shared institution: Columbia University
-- [[meyer_schapiro]] — shared institution: Pierpont Morgan Library
+- [[meyer_schapiro]] — shared institution: MIT
 - [[sirarpie_der_nersessian]] — shared institution: Pierpont Morgan Library
 - [[adolf_katzenellenbogen]] — shared institution: MIT
 - [[andr_grabar]] — shared institution: MIT
@@ -59,4 +59,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:31:28.144836+00:00 | Source: dorothy_miner.json*
+*Generated: 2026-05-19T08:34:29.794836+00:00 | Source: dorothy_miner.json*

@@ -1,6 +1,6 @@
 ---
 full_name: "Adolf Furtwängler"
-title_zh: "阿法埃娅"
+title_zh: "Furtwängler, Adolf"
 birth: 1853
 death: 1907
 country: Germany
@@ -70,4 +70,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:15.740133+00:00 | Source: adolf_furtwngler.json*
+*Generated: 2026-05-19T08:28:10.345461+00:00 | Source: adolf_furtwngler.json*

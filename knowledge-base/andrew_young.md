@@ -55,4 +55,4 @@ Andrew McLaren Young Papers [In Process], University of Glasgow Archives and Spe
 
 ---
 
-*Generated: 2026-05-18T16:26:29.997371+00:00 | Source: andrew_young.json*
+*Generated: 2026-05-19T08:29:24.357718+00:00 | Source: andrew_young.json*

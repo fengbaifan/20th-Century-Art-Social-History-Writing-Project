@@ -54,13 +54,13 @@ David Robbins Coffin Papers, 1918-2003, Dumbarton Oaks. http://atom.doaks.org/at
 - [[abram_lerner]] — shared institution: National Gallery
 - [[albert_elsen]] — shared institution: National Gallery
 - [[andr_chastel]] — shared institution: Yale University
-- [[bill_seitz]] — shared institution: National Gallery
+- [[bill_seitz]] — shared institution: Princeton University
 - [[bob_koch]] — shared institution: Princeton University
 - [[cecil_gould]] — shared institution: National Gallery
-- [[charles_seymour]] — shared institution: National Gallery
+- [[charles_seymour]] — shared institution: Yale University
 - [[colin_rowe]] — shared institution: Yale University
-- [[craig_smyth]] — shared institution: National Gallery
+- [[craig_smyth]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:31:00.919932+00:00 | Source: david_coffin.json*
+*Generated: 2026-05-19T08:34:01.566308+00:00 | Source: david_coffin.json*

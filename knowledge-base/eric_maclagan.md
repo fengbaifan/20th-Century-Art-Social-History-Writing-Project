@@ -52,7 +52,7 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[a_porter]] — shared institution: Harvard University
+- [[a_porter]] — shared institution: MIT
 - [[chandler_post]] — shared institution: Harvard University
 - [[christian_rauch]] — shared institution: MIT
 - [[dagobert_frey]] — shared institution: MIT
@@ -65,4 +65,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:32:59.798336+00:00 | Source: eric_maclagan.json*
+*Generated: 2026-05-19T08:36:02.957074+00:00 | Source: eric_maclagan.json*

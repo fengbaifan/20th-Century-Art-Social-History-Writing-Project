@@ -48,16 +48,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[albert_elsen]] — shared institution: Columbia University
-- [[ann_harris]] — shared institution: Metropolitan Museum
+- [[ann_harris]] — shared institution: Columbia University
 - [[barbara_rose]] — shared institution: Columbia University
 - [[carroll_greene]] — shared institution: Columbia University
 - [[david_carritt]] — shared institution: Metropolitan Museum
 - [[donald_gordon]] — shared institution: Columbia University
 - [[franois_bucher]] — shared institution: Princeton University
-- [[henry_geldzahler]] — shared institution: Metropolitan Museum
+- [[henry_geldzahler]] — shared institution: Yale University
 - [[jean_boggs]] — shared institution: Metropolitan Museum
 - [[leo_steinberg]] — shared institution: Columbia University
 
 ---
 
-*Generated: 2026-05-18T16:28:35.419771+00:00 | Source: bob_rosenblum.json*
+*Generated: 2026-05-19T08:31:33.141904+00:00 | Source: bob_rosenblum.json*

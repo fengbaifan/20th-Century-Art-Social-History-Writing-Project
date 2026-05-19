@@ -47,8 +47,8 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[bernard_berenson]] — shared institution: National Gallery
-- [[charles_holroyd]] — shared institution: National Gallery
+- [[bernard_berenson]] — shared institution: MIT
+- [[charles_holroyd]] — shared institution: MIT
 - [[clive_bell]] — shared institution: MIT
 - [[c_baker]] — shared institution: National Gallery
 - [[edward_forbes]] — shared institution: MIT
@@ -60,4 +60,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:29:34.445739+00:00 | Source: charles_bell.json*
+*Generated: 2026-05-19T08:32:33.801706+00:00 | Source: charles_bell.json*

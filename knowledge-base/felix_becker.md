@@ -1,6 +1,6 @@
 ---
 full_name: "Felix Becker"
-title_zh: "费利克斯·贝克尔"
+title_zh: "Becker, Felix"
 birth: 1864
 death: 1928
 country: Germany
@@ -49,4 +49,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:34:11.413004+00:00 | Source: felix_becker.json*
+*Generated: 2026-05-19T08:37:15.036626+00:00 | Source: felix_becker.json*

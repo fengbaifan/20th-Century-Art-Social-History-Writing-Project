@@ -1,6 +1,6 @@
 ---
 full_name: "Aaron de Lacerda"
-title_zh: "搜索结果"
+title_zh: "Lacerda, Aaron de"
 birth: 1890
 death: 1947
 country: Portugal
@@ -49,4 +49,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:24:54.880828+00:00 | Source: aaron_lacerda.json*
+*Generated: 2026-05-19T08:27:50.133415+00:00 | Source: aaron_lacerda.json*

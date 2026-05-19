@@ -63,4 +63,4 @@ Douglas Cooper papers, 1900-1985, bulk 1933-1985., Getty Research Institute. htt
 
 ---
 
-*Generated: 2026-05-18T16:31:32.221182+00:00 | Source: douglas_cooper.json*
+*Generated: 2026-05-19T08:34:33.880509+00:00 | Source: douglas_cooper.json*

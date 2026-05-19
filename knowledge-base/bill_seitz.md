@@ -58,16 +58,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[milton_fox]] — shared institution: MIT
-- [[abram_lerner]] — shared institution: National Gallery
+- [[abram_lerner]] — shared institution: MIT
 - [[ada_huxtable]] — shared institution: Museum of Modern Art
 - [[andrew_ritchie]] — shared institution: MIT
-- [[a_vries]] — shared institution: National Gallery
+- [[a_vries]] — shared institution: MIT
 - [[beaumont_newhall]] — shared institution: Museum of Modern Art
 - [[carlo_ragghianti]] — shared institution: MIT
 - [[carl_condit]] — shared institution: MIT
-- [[carl_nordenfalk]] — shared institution: National Gallery
+- [[carl_nordenfalk]] — shared institution: Princeton University
 - [[carl_winter]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:28:30.074997+00:00 | Source: bill_seitz.json*
+*Generated: 2026-05-19T08:31:27.762177+00:00 | Source: bill_seitz.json*

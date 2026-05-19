@@ -1,6 +1,6 @@
 ---
 full_name: "Adolfo Venturi"
-title_zh: "博尔索·德·埃斯特圣经"
+title_zh: "Venturi, Adolfo"
 birth: 1856
 death: 1941
 country: Italy
@@ -62,4 +62,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:10.937590+00:00 | Source: adolfo_venturi.json*
+*Generated: 2026-05-19T08:28:05.498551+00:00 | Source: adolfo_venturi.json*

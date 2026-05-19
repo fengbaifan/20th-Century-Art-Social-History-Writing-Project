@@ -45,11 +45,11 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[henryrussell_hitchcock]] — shared institution: Harvard University
+- [[henryrussell_hitchcock]] — shared institution: Museum of Modern Art
 - [[ren_dharnoncourt]] — shared institution: Museum of Modern Art
 - [[adelyn_breeskin]] — shared institution: Museum of Modern Art
-- [[alfred_barr]] — shared institution: Harvard University
-- [[beaumont_newhall]] — shared institution: Harvard University
+- [[alfred_barr]] — shared institution: Museum of Modern Art
+- [[beaumont_newhall]] — shared institution: Museum of Modern Art
 - [[donald_egbert]] — shared institution: Museum of Modern Art
 - [[dorothy_miller]] — shared institution: Museum of Modern Art
 - [[edgard_kaufmann]] — shared institution: Museum of Modern Art
@@ -58,4 +58,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:27:46.605552+00:00 | Source: a_austin.json*
+*Generated: 2026-05-19T08:30:43.743886+00:00 | Source: a_austin.json*

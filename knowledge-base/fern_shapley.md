@@ -51,7 +51,7 @@ No archive information available. / 暂无档案信息。
 
 - [[charles_tolnay]] — shared institution: Columbia University
 - [[george_boas]] — shared institution: Columbia University
-- [[hans_tietze]] — shared institution: National Gallery
+- [[hans_tietze]] — shared institution: Columbia University
 - [[hugh_popham]] — shared institution: National Gallery
 - [[johannes_wilde]] — shared institution: National Gallery
 - [[lionello_venturi]] — shared institution: Columbia University
@@ -62,4 +62,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:34:16.453033+00:00 | Source: fern_shapley.json*
+*Generated: 2026-05-19T08:37:19.973313+00:00 | Source: fern_shapley.json*

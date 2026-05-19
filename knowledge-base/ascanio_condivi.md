@@ -55,4 +55,4 @@ Fondo Ascanio Condivi , Archivio Storico di Ripatransone. http://www.comune.ripa
 
 ---
 
-*Generated: 2026-05-18T16:27:28.404909+00:00 | Source: ascanio_condivi.json*
+*Generated: 2026-05-19T08:30:25.415229+00:00 | Source: ascanio_condivi.json*

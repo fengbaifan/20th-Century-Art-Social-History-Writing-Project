@@ -1,6 +1,6 @@
 ---
 full_name: "Adolf Behne"
-title_zh: "功能主義建築"
+title_zh: "Behne, Adolf"
 birth: 1885
 death: 1948
 country: Germany
@@ -56,4 +56,4 @@ Adolf-Behne-Archiv, Akademie der Künste. https://archiv.adk.de/bigobjekt/36991.
 
 ---
 
-*Generated: 2026-05-18T16:25:13.567597+00:00 | Source: adolf_behne.json*
+*Generated: 2026-05-19T08:28:08.138495+00:00 | Source: adolf_behne.json*

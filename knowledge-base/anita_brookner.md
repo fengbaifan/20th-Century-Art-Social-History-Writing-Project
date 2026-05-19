@@ -1,6 +1,6 @@
 ---
 full_name: "Anita Brookner"
-title_zh: "安妮塔·布鲁克纳"
+title_zh: "Brookner, Anita"
 birth: 1936
 death: 2016
 country: United Kingdom
@@ -61,7 +61,7 @@ Anita Brookner Notebooks, The University of Texas at Austin, Harry Ransom Center
 - [[adolphe_braun]] — shared institution: Louvre
 - [[alexandre_lenoir]] — shared institution: Louvre
 - [[andr_malraux]] — shared institution: Louvre
-- [[anthony_blunt]] — shared institution: Cambridge
+- [[anthony_blunt]] — shared institution: Louvre
 - [[carl_winter]] — shared institution: Cambridge
 - [[charles_eastlake]] — shared institution: Louvre
 - [[charles_sterling]] — shared institution: Louvre
@@ -69,4 +69,4 @@ Anita Brookner Notebooks, The University of Texas at Austin, Harry Ransom Center
 
 ---
 
-*Generated: 2026-05-18T16:26:40.771170+00:00 | Source: anita_brookner.json*
+*Generated: 2026-05-19T08:29:36.299184+00:00 | Source: anita_brookner.json*

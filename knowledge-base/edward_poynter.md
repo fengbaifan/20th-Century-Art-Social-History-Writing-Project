@@ -1,6 +1,6 @@
 ---
 full_name: "Edward John Poynter"
-title_zh: "爱德华·波因特"
+title_zh: "Poynter, Edward John, Sir"
 birth: 1836
 death: 1919
 country: United Kingdom
@@ -59,4 +59,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:32:14.467072+00:00 | Source: edward_poynter.json*
+*Generated: 2026-05-19T08:35:18.012789+00:00 | Source: edward_poynter.json*

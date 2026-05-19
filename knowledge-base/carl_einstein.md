@@ -64,4 +64,4 @@ Archiv der Carl-Einstein-Gesellschaft e.V. (Société Carl Einstein), Universit�
 
 ---
 
-*Generated: 2026-05-18T16:29:00.270024+00:00 | Source: carl_einstein.json*
+*Generated: 2026-05-19T08:31:58.638686+00:00 | Source: carl_einstein.json*

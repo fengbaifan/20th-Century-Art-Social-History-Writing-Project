@@ -49,17 +49,17 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[cornelius_vermeule]] — shared institution: Harvard University
+- [[cornelius_vermeule]] — shared institution: MIT
 - [[dietrich_bothmer]] — shared institution: MIT
 - [[bernard_andreae]] — shared institution: MIT
 - [[janie_smiles]] — shared institution: MIT
 - [[john_boardman]] — shared institution: Oxford
 - [[neil_stratford]] — shared institution: MIT
-- [[oleg_grabar]] — shared institution: Harvard University
+- [[oleg_grabar]] — shared institution: MIT
 - [[phyllis_bober]] — shared institution: MIT
 - [[p_corbett]] — shared institution: Oxford
-- [[william_macdonald]] — shared institution: Harvard University
+- [[william_macdonald]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:32:41.715725+00:00 | Source: emily_vermeule.json*
+*Generated: 2026-05-19T08:35:45.088827+00:00 | Source: emily_vermeule.json*

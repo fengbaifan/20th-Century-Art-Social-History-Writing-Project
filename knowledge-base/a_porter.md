@@ -55,17 +55,17 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[clarence_kennedy]] — shared institution: Harvard University
-- [[walter_cook]] — shared institution: Harvard University
+- [[clarence_kennedy]] — shared institution: MIT
+- [[walter_cook]] — shared institution: Metropolitan Museum
 - [[wilhelm_koehler]] — shared institution: Harvard University
-- [[william_milliken]] — shared institution: Metropolitan Museum
+- [[william_milliken]] — shared institution: Yale University
 - [[albert_boeckler]] — shared institution: MIT
 - [[a_richardson]] — shared institution: Cambridge
 - [[bernard_rackham]] — shared institution: Cambridge
 - [[christian_rauch]] — shared institution: MIT
 - [[emerson_swift]] — shared institution: Columbia University
-- [[emil_kaufmann]] — shared institution: Harvard University
+- [[emil_kaufmann]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:27:56.599305+00:00 | Source: a_porter.json*
+*Generated: 2026-05-19T08:30:54.493993+00:00 | Source: a_porter.json*

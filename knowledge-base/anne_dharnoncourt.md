@@ -59,4 +59,4 @@ Anne d'Harnoncourt Records, Philadelphia Museum of Art. http://hdl.library.upenn
 
 ---
 
-*Generated: 2026-05-18T16:26:48.074409+00:00 | Source: anne_dharnoncourt.json*
+*Generated: 2026-05-19T08:29:43.950868+00:00 | Source: anne_dharnoncourt.json*

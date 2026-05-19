@@ -48,15 +48,15 @@ Bryson Burroughs papers, 1915-1922 and [undated], Archives of American Art. http
 
 - [[mary_berenson]] — shared institution: Harvard University
 - [[wilhelm_vge]] — shared institution: Harvard University
-- [[adelyn_breeskin]] — shared institution: Metropolitan Museum
+- [[adelyn_breeskin]] — shared institution: Museum of Modern Art
 - [[alfred_moir]] — shared institution: Harvard University
 - [[andrew_ritchie]] — shared institution: Museum of Modern Art
 - [[bill_seitz]] — shared institution: Museum of Modern Art
 - [[charles_sterling]] — shared institution: Metropolitan Museum
 - [[colin_eisler]] — shared institution: Harvard University
 - [[fred_licht]] — shared institution: Museum of Modern Art
-- [[gary_schwartz]] — shared institution: Harvard University
+- [[gary_schwartz]] — shared institution: Metropolitan Museum
 
 ---
 
-*Generated: 2026-05-18T16:28:44.131289+00:00 | Source: bryson_burroughs.json*
+*Generated: 2026-05-19T08:31:42.279542+00:00 | Source: bryson_burroughs.json*

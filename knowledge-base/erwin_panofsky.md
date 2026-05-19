@@ -1,6 +1,6 @@
 ---
 full_name: "Erwin Panofsky"
-title_zh: "歐文·潘諾夫斯基"
+title_zh: "Panofsky, Erwin"
 birth: 1892
 death: 1968
 country: Germany
@@ -68,16 +68,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[edgar_wind]] — shared institution: MIT
-- [[ernst_kantorowicz]] — shared institution: Harvard University
+- [[ernst_kantorowicz]] — shared institution: Princeton University
 - [[g_hoogewerff]] — shared institution: MIT
 - [[viktor_lazarev]] — shared institution: MIT
 - [[isa_ragusa]] — shared institution: Princeton University
 - [[mile_mle]] — shared institution: MIT
 - [[adolf_katzenellenbogen]] — shared institution: MIT
 - [[alexander_dorner]] — shared institution: Harvard University
-- [[alfred_barr]] — shared institution: Harvard University
+- [[alfred_barr]] — shared institution: MIT
 - [[carl_heise]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:33:39.660270+00:00 | Source: erwin_panofsky.json*
+*Generated: 2026-05-19T08:36:43.368709+00:00 | Source: erwin_panofsky.json*

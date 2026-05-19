@@ -53,13 +53,13 @@ No archive information available. / 暂无档案信息。
 - [[burr_wallen]] — shared institution: Princeton University
 - [[fred_licht]] — shared institution: Princeton University
 - [[gary_schwartz]] — shared institution: Harvard University
-- [[james_snyder]] — shared institution: Harvard University
-- [[john_shearman]] — shared institution: Harvard University
-- [[julian_gardner]] — shared institution: Harvard University
+- [[james_snyder]] — shared institution: Princeton University
+- [[john_shearman]] — shared institution: Princeton University
+- [[julian_gardner]] — shared institution: Oxford
 - [[juliet_wilsonbareau]] — shared institution: Oxford
-- [[kermit_champa]] — shared institution: Harvard University
-- [[marilyn_lavin]] — shared institution: Harvard University
+- [[kermit_champa]] — shared institution: Yale University
+- [[marilyn_lavin]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:30:28.289270+00:00 | Source: colin_eisler.json*
+*Generated: 2026-05-19T08:33:28.715506+00:00 | Source: colin_eisler.json*

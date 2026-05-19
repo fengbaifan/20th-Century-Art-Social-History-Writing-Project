@@ -68,10 +68,10 @@ No archive information available. / 暂无档案信息。
 - [[karel_boon]] — shared institution: MIT
 - [[karl_parker]] — shared institution: National Gallery
 - [[philip_pouncey]] — shared institution: National Gallery
-- [[ren_huyghe]] — shared institution: National Gallery
-- [[alfred_frankfurter]] — shared institution: Harvard University
-- [[elizabeth_mongan]] — shared institution: Harvard University
+- [[ren_huyghe]] — shared institution: MIT
+- [[alfred_frankfurter]] — shared institution: National Gallery
+- [[elizabeth_mongan]] — shared institution: National Gallery
 
 ---
 
-*Generated: 2026-05-18T16:25:29.035953+00:00 | Source: agnes_mongan.json*
+*Generated: 2026-05-19T08:28:23.088621+00:00 | Source: agnes_mongan.json*

@@ -72,4 +72,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:28:20.717986+00:00 | Source: bernard_ashmole.json*
+*Generated: 2026-05-19T08:31:18.403573+00:00 | Source: bernard_ashmole.json*

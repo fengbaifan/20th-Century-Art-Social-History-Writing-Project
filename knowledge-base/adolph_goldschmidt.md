@@ -56,7 +56,7 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[mile_mle]] — shared institution: MIT
-- [[wilhelm_vge]] — shared institution: Harvard University
+- [[wilhelm_vge]] — shared institution: MIT
 - [[alos_riegl]] — shared institution: MIT
 - [[charles_diehl]] — shared institution: MIT
 - [[iakov_smirnov]] — shared institution: MIT
@@ -68,4 +68,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:22.533528+00:00 | Source: adolph_goldschmidt.json*
+*Generated: 2026-05-19T08:28:16.976865+00:00 | Source: adolph_goldschmidt.json*

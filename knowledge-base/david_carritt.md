@@ -51,7 +51,7 @@ No archive information available. / 暂无档案信息。
 - [[bob_rosenblum]] — shared institution: Metropolitan Museum
 - [[elizabeth_churcher]] — shared institution: National Gallery
 - [[henry_geldzahler]] — shared institution: Metropolitan Museum
-- [[jean_boggs]] — shared institution: Metropolitan Museum
+- [[jean_boggs]] — shared institution: National Gallery
 - [[lawrence_alloway]] — shared institution: National Gallery
 - [[leo_steinberg]] — shared institution: National Gallery
 - [[mark_roskill]] — shared institution: National Gallery
@@ -59,4 +59,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:30:59.976021+00:00 | Source: david_carritt.json*
+*Generated: 2026-05-19T08:34:00.673612+00:00 | Source: david_carritt.json*

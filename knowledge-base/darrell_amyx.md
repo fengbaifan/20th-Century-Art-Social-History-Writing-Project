@@ -66,4 +66,4 @@ Darrell Amyx papers, Getty Research Institute. https://primo.getty.edu/permalink
 
 ---
 
-*Generated: 2026-05-18T16:30:57.651150+00:00 | Source: darrell_amyx.json*
+*Generated: 2026-05-19T08:33:58.340645+00:00 | Source: darrell_amyx.json*

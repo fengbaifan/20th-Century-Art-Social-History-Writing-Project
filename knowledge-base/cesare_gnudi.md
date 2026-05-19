@@ -53,8 +53,8 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[andrew_ritchie]] — shared institution: MIT
-- [[a_vries]] — shared institution: National Gallery
-- [[bill_seitz]] — shared institution: National Gallery
+- [[a_vries]] — shared institution: MIT
+- [[bill_seitz]] — shared institution: MIT
 - [[carl_winter]] — shared institution: MIT
 - [[charles_sterling]] — shared institution: MIT
 - [[clement_greenberg]] — shared institution: MIT
@@ -65,4 +65,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:29:28.102198+00:00 | Source: cesare_gnudi.json*
+*Generated: 2026-05-19T08:32:27.544006+00:00 | Source: cesare_gnudi.json*

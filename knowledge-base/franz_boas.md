@@ -1,6 +1,6 @@
 ---
 full_name: "Franz Boas"
-title_zh: "法蘭茲·鮑亞士"
+title_zh: "Boas, Franz"
 birth: 1858
 death: 1942
 country: Germany
@@ -59,4 +59,4 @@ Franz Boas Papers, American Philosophical Society. https://search.amphilsoc.org/
 
 ---
 
-*Generated: 2026-05-18T16:34:53.611251+00:00 | Source: franz_boas.json*
+*Generated: 2026-05-19T08:37:57.142920+00:00 | Source: franz_boas.json*

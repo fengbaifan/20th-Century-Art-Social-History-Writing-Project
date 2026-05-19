@@ -48,4 +48,4 @@ Nachlass Dinkler, Erich, Deutsches Archäologisches Institut. http://134.95.80.1
 
 ---
 
-*Generated: 2026-05-18T16:32:56.913231+00:00 | Source: erich_dinkler.json*
+*Generated: 2026-05-19T08:36:00.217954+00:00 | Source: erich_dinkler.json*

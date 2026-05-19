@@ -1,6 +1,6 @@
 ---
 full_name: "Charles H. Moore"
-title_zh: "查理斯·摩爾 (程式設計師)"
+title_zh: "Moore, Charles H."
 birth: 1840
 death: 1930
 country: United States
@@ -51,12 +51,12 @@ No archive information available. / 暂无档案信息。
 - [[russell_sturgis]] — shared institution: Princeton University
 - [[william_goodyear]] — shared institution: Harvard University
 - [[eric_maclagan]] — shared institution: Harvard University
-- [[hanns_swarzenski]] — shared institution: Harvard University
-- [[vincent_scully]] — shared institution: Harvard University
+- [[hanns_swarzenski]] — shared institution: Princeton University
+- [[vincent_scully]] — shared institution: Princeton University
 - [[adolf_katzenellenbogen]] — shared institution: Princeton University
-- [[adolph_goldschmidt]] — shared institution: Harvard University
+- [[adolph_goldschmidt]] — shared institution: Princeton University
 - [[alfred_hamlin]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:29:49.736641+00:00 | Source: charles_moore.json*
+*Generated: 2026-05-19T08:32:48.932811+00:00 | Source: charles_moore.json*

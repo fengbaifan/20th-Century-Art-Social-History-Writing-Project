@@ -65,12 +65,12 @@ No archive information available. / 暂无档案信息。
 - [[d_pepper]] — shared institution: MIT
 - [[frances_huemer]] — shared institution: MIT
 - [[frans_baudouin]] — shared institution: MIT
-- [[hank_millon]] — shared institution: National Gallery
-- [[howard_hibbard]] — shared institution: National Gallery
+- [[hank_millon]] — shared institution: MIT
+- [[howard_hibbard]] — shared institution: Oxford
 - [[jan_biaostocki]] — shared institution: MIT
 - [[josua_bruyn]] — shared institution: MIT
 - [[luigi_salerno]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:30:14.551480+00:00 | Source: christopher_white.json*
+*Generated: 2026-05-19T08:33:15.080190+00:00 | Source: christopher_white.json*

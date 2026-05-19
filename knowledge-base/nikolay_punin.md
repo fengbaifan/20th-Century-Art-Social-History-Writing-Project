@@ -1,6 +1,6 @@
 ---
 full_name: "Nikolay Punin"
-title_zh: "Punin, Nikolay"
+title_zh: "尼古拉·普宁"
 birth: 1888
 death: 1953
 country: Russia

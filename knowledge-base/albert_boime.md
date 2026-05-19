@@ -62,4 +62,4 @@ Boime (Albert) papers, UCLA, Charles E. Young Research Library. https://oac.cdli
 
 ---
 
-*Generated: 2026-05-18T16:25:35.567636+00:00 | Source: albert_boime.json*
+*Generated: 2026-05-19T08:28:29.474402+00:00 | Source: albert_boime.json*

@@ -47,16 +47,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[anthony_clark]] — shared institution: Harvard University
-- [[everett_fahy]] — shared institution: Harvard University
+- [[everett_fahy]] — shared institution: Princeton University
 - [[fred_licht]] — shared institution: Princeton University
 - [[michael_jaff]] — shared institution: Harvard University
 - [[philippe_de_montebello]] — shared institution: Harvard University
 - [[federico_zeri]] — shared institution: Harvard University
 - [[kathleen_weilgarris]] — shared institution: Harvard University
-- [[alfred_barr]] — shared institution: Harvard University
+- [[alfred_barr]] — shared institution: Princeton University
 - [[daniel_rich]] — shared institution: Harvard University
 - [[eric_maclagan]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:31:24.110084+00:00 | Source: donald_posner.json*
+*Generated: 2026-05-19T08:34:25.772450+00:00 | Source: donald_posner.json*

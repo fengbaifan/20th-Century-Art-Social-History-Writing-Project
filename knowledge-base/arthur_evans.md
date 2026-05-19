@@ -1,6 +1,6 @@
 ---
 full_name: "Arthur J. Evans"
-title_zh: "阿瑟·埃文斯"
+title_zh: "Evans, Arthur J., Sir"
 birth: 1851
 death: 1941
 country: United Kingdom
@@ -66,4 +66,4 @@ Personal Papers of Sir John Evans, Oxford University: Ashmolean Museum, Departme
 
 ---
 
-*Generated: 2026-05-18T16:27:19.438876+00:00 | Source: arthur_evans.json*
+*Generated: 2026-05-19T08:30:16.330028+00:00 | Source: arthur_evans.json*

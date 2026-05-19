@@ -60,4 +60,4 @@ Ernst Cassirer papers, Yale University. http://hdl.handle.net/10079/fa/beinecke.
 
 ---
 
-*Generated: 2026-05-18T16:33:13.560762+00:00 | Source: ernst_cassirer.json*
+*Generated: 2026-05-19T08:36:16.716127+00:00 | Source: ernst_cassirer.json*

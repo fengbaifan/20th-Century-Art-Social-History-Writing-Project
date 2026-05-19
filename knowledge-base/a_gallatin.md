@@ -48,17 +48,17 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[juliana_force]] — shared institution: Metropolitan Museum
+- [[juliana_force]] — shared institution: Museum of Modern Art
 - [[fiske_kimball]] — shared institution: Metropolitan Museum
 - [[albert_elsen]] — shared institution: Museum of Modern Art
-- [[alfred_barr]] — shared institution: Metropolitan Museum
+- [[alfred_barr]] — shared institution: Museum of Modern Art
 - [[ann_harris]] — shared institution: Metropolitan Museum
 - [[a_austin]] — shared institution: Museum of Modern Art
 - [[bates_lowry]] — shared institution: Museum of Modern Art
-- [[beaumont_newhall]] — shared institution: Metropolitan Museum
-- [[bill_lieberman]] — shared institution: Metropolitan Museum
+- [[beaumont_newhall]] — shared institution: Museum of Modern Art
+- [[bill_lieberman]] — shared institution: Museum of Modern Art
 - [[bill_seitz]] — shared institution: Museum of Modern Art
 
 ---
 
-*Generated: 2026-05-18T16:27:50.948350+00:00 | Source: a_gallatin.json*
+*Generated: 2026-05-19T08:30:48.293426+00:00 | Source: a_gallatin.json*

@@ -1,6 +1,6 @@
 ---
 full_name: "Carl Neumann"
-title_zh: "卡尔·诺伊曼"
+title_zh: "Neumann, Carl"
 birth: 1905
 death: 1960
 country: Germany
@@ -69,4 +69,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:29:11.152421+00:00 | Source: carl_neumann.json*
+*Generated: 2026-05-19T08:32:10.324634+00:00 | Source: carl_neumann.json*

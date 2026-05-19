@@ -62,13 +62,13 @@ No archive information available. / 暂无档案信息。
 - [[creighton_gilbert]] — shared institution: Harvard University
 - [[federico_zeri]] — shared institution: Harvard University
 - [[george_hersey]] — shared institution: Harvard University
-- [[hank_millon]] — shared institution: Harvard University
-- [[howard_hibbard]] — shared institution: Harvard University
+- [[hank_millon]] — shared institution: National Gallery
+- [[howard_hibbard]] — shared institution: National Gallery
 - [[howard_saalman]] — shared institution: Harvard University
-- [[irving_lavin]] — shared institution: Harvard University
-- [[james_beck]] — shared institution: Metropolitan Museum
+- [[irving_lavin]] — shared institution: National Gallery
+- [[james_beck]] — shared institution: National Gallery
 - [[james_stubblebine]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:34:00.854986+00:00 | Source: eve_borsook.json*
+*Generated: 2026-05-19T08:37:04.314419+00:00 | Source: eve_borsook.json*

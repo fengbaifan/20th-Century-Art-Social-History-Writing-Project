@@ -46,10 +46,10 @@ No archive information available. / 暂无档案信息。
 
 - [[adelyn_breeskin]] — shared institution: MIT
 - [[andrew_ritchie]] — shared institution: MIT
-- [[bill_seitz]] — shared institution: National Gallery
+- [[bill_seitz]] — shared institution: MIT
 - [[carl_neumann]] — shared institution: MIT
 - [[carl_winter]] — shared institution: MIT
-- [[cesare_gnudi]] — shared institution: National Gallery
+- [[cesare_gnudi]] — shared institution: MIT
 - [[charles_sterling]] — shared institution: MIT
 - [[clement_greenberg]] — shared institution: MIT
 - [[engelbert_ter_kuile]] — shared institution: MIT
@@ -57,4 +57,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:28:00.415218+00:00 | Source: a_vries.json*
+*Generated: 2026-05-19T08:30:58.717926+00:00 | Source: a_vries.json*

@@ -54,4 +54,4 @@ Fonds Albert Châtelet, Archives départementales du Pas-de-Calais. http://eklad
 
 ---
 
-*Generated: 2026-05-18T16:25:36.957048+00:00 | Source: albert_chtelet.json*
+*Generated: 2026-05-19T08:28:30.871238+00:00 | Source: albert_chtelet.json*

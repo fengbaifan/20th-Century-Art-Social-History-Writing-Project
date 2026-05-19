@@ -1,6 +1,6 @@
 ---
 full_name: "Aby M. Warburg"
-title_zh: "阿比·瓦尔堡"
+title_zh: "Warburg, Aby M."
 birth: 1866
 death: 1929
 country: Germany
@@ -54,7 +54,7 @@ No archive information available. / 暂无档案信息。
 
 - [[albert_dresdner]] — shared institution: MIT
 - [[hermann_muthesius]] — shared institution: MIT
-- [[john_dana]] — shared institution: Metropolitan Museum
+- [[john_dana]] — shared institution: MIT
 - [[e_gombrich]] — shared institution: MIT
 - [[herbert_einem]] — shared institution: MIT
 - [[kurt_badt]] — shared institution: MIT
@@ -65,4 +65,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:25:03.191338+00:00 | Source: aby_warburg.json*
+*Generated: 2026-05-19T08:27:58.133474+00:00 | Source: aby_warburg.json*

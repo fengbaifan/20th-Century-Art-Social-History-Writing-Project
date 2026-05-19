@@ -52,12 +52,12 @@ No archive information available. / 暂无档案信息。
 - [[robert_dell]] — shared institution: National Gallery
 - [[albert_lythgoe]] — shared institution: Oxford
 - [[arthur_bolton]] — shared institution: Oxford
-- [[bernard_berenson]] — shared institution: National Gallery
+- [[bernard_berenson]] — shared institution: Oxford
 - [[campbell_dodgson]] — shared institution: Oxford
-- [[charles_bell]] — shared institution: National Gallery
+- [[charles_bell]] — shared institution: Oxford
 - [[christian_hlsen]] — shared institution: Oxford
-- [[david_lindsay]] — shared institution: National Gallery
+- [[david_lindsay]] — shared institution: Oxford
 
 ---
 
-*Generated: 2026-05-18T16:30:49.741467+00:00 | Source: c_holmes.json*
+*Generated: 2026-05-19T08:33:50.455337+00:00 | Source: c_holmes.json*

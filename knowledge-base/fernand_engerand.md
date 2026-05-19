@@ -59,4 +59,4 @@ Bibliothèque nationale de France, Département des manuscrits, Nouvelles acquis
 
 ---
 
-*Generated: 2026-05-18T16:34:15.645336+00:00 | Source: fernand_engerand.json*
+*Generated: 2026-05-19T08:37:19.196059+00:00 | Source: fernand_engerand.json*

@@ -51,17 +51,17 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[jonathan_brown]] — shared institution: National Gallery
-- [[marilyn_lavin]] — shared institution: Metropolitan Museum
+- [[jonathan_brown]] — shared institution: Princeton University
+- [[marilyn_lavin]] — shared institution: Yale University
 - [[albert_elsen]] — shared institution: National Gallery
 - [[alessandra_comini]] — shared institution: Princeton University
 - [[alfred_moir]] — shared institution: Harvard University
 - [[ann_harris]] — shared institution: Metropolitan Museum
-- [[anthony_clark]] — shared institution: Harvard University
+- [[anthony_clark]] — shared institution: National Gallery
 - [[barbara_rose]] — shared institution: Yale University
-- [[bob_rosenblum]] — shared institution: Metropolitan Museum
+- [[bob_rosenblum]] — shared institution: Princeton University
 - [[bruni_ridgway]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:30:55.750935+00:00 | Source: daniel_robbins.json*
+*Generated: 2026-05-19T08:33:56.454528+00:00 | Source: daniel_robbins.json*

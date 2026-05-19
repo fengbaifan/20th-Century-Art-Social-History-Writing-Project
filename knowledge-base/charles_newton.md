@@ -1,6 +1,6 @@
 ---
 full_name: "Charles T. Newton"
-title_zh: "查爾斯·托馬斯·牛頓"
+title_zh: "Newton, Charles T., Sir"
 birth: 1816
 death: 1894
 country: United Kingdom
@@ -60,4 +60,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:29:52.851572+00:00 | Source: charles_newton.json*
+*Generated: 2026-05-19T08:32:51.978280+00:00 | Source: charles_newton.json*

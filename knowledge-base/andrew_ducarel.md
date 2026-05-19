@@ -52,4 +52,4 @@ Ducarel, Andrew Coltee (1713-1785), Antiquary and Lambeth Palace Librarian [Coll
 
 ---
 
-*Generated: 2026-05-18T16:26:26.285295+00:00 | Source: andrew_ducarel.json*
+*Generated: 2026-05-19T08:29:20.322228+00:00 | Source: andrew_ducarel.json*

@@ -57,17 +57,17 @@ Alfred H. Barr, Jr. Papers, Museum of Modern Art. https://www.moma.org/research-
 
 ## 相关学者 / Related Scholars
 
-- [[beaumont_newhall]] — shared institution: Harvard University
+- [[beaumont_newhall]] — shared institution: Metropolitan Museum
 - [[dorothy_miller]] — shared institution: MIT
-- [[edgard_kaufmann]] — shared institution: Metropolitan Museum
+- [[edgard_kaufmann]] — shared institution: Columbia University
 - [[edward_king]] — shared institution: Museum of Modern Art
 - [[helen_franc]] — shared institution: Museum of Modern Art
-- [[henryrussell_hitchcock]] — shared institution: Harvard University
+- [[henryrussell_hitchcock]] — shared institution: MIT
 - [[james_soby]] — shared institution: Museum of Modern Art
 - [[james_sweeney]] — shared institution: MIT
-- [[jere_abbott]] — shared institution: Harvard University
+- [[jere_abbott]] — shared institution: MIT
 - [[katharine_kuh]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:25:58.226038+00:00 | Source: alfred_barr.json*
+*Generated: 2026-05-19T08:28:52.135240+00:00 | Source: alfred_barr.json*

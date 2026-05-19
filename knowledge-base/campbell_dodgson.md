@@ -58,4 +58,4 @@ Dodgson, Campbell (1867-1948) Art Historian and Critic [Collated], National Arch
 
 ---
 
-*Generated: 2026-05-18T16:28:48.024915+00:00 | Source: campbell_dodgson.json*
+*Generated: 2026-05-19T08:31:46.221647+00:00 | Source: campbell_dodgson.json*

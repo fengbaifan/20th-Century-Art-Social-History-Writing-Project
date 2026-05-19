@@ -44,16 +44,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[campbell_dodgson]] — shared institution: British Museum
-- [[laurence_binyon]] — shared institution: Harvard University
+- [[laurence_binyon]] — shared institution: British Museum
 - [[henry_rossiter]] — shared institution: Harvard University
 - [[thomas_whittemore]] — shared institution: Harvard University
-- [[arthur_hind]] — shared institution: Harvard University
+- [[arthur_hind]] — shared institution: British Museum
 - [[arthur_waley]] — shared institution: British Museum
-- [[a_mayor]] — shared institution: Harvard University
+- [[a_mayor]] — shared institution: British Museum
 - [[bob_koch]] — shared institution: Harvard University
 - [[elizabeth_mongan]] — shared institution: Harvard University
 - [[e_bloch]] — shared institution: Harvard University
 
 ---
 
-*Generated: 2026-05-18T16:34:23.228231+00:00 | Source: fitzroy_carrington.json*
+*Generated: 2026-05-19T08:37:26.681256+00:00 | Source: fitzroy_carrington.json*

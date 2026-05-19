@@ -55,4 +55,4 @@ Bruno Adler Papers, German Literature Archive (Deutsches Literaturarchiv). http:
 
 ---
 
-*Generated: 2026-05-18T16:28:40.838440+00:00 | Source: bruno_adler.json*
+*Generated: 2026-05-19T08:31:38.734282+00:00 | Source: bruno_adler.json*

@@ -1,6 +1,6 @@
 ---
 full_name: "Adelyn Dohme Breeskin"
-title_zh: "搜索结果"
+title_zh: "Breeskin, Adelyn Dohme"
 birth: 1896
 death: 1986
 country: United States
@@ -56,7 +56,7 @@ Adelyn Dohme Breeskin papers, 1934-1986, Archives of American Art. https://www.a
 - [[a_austin]] — shared institution: Museum of Modern Art
 - [[a_vries]] — shared institution: MIT
 - [[carl_winter]] — shared institution: MIT
-- [[charles_sterling]] — shared institution: Metropolitan Museum
+- [[charles_sterling]] — shared institution: MIT
 - [[donald_egbert]] — shared institution: Museum of Modern Art
 - [[francis_wormald]] — shared institution: MIT
 - [[harry_wehle]] — shared institution: Metropolitan Museum
@@ -66,4 +66,4 @@ Adelyn Dohme Breeskin papers, 1934-1986, Archives of American Art. https://www.a
 
 ---
 
-*Generated: 2026-05-18T16:25:10.380548+00:00 | Source: adelyn_breeskin.json*
+*Generated: 2026-05-19T08:28:04.958378+00:00 | Source: adelyn_breeskin.json*

@@ -48,7 +48,7 @@ No archive information available. / 暂无档案信息。
 
 ## 相关学者 / Related Scholars
 
-- [[john_popehennessy]] — shared institution: National Gallery
+- [[john_popehennessy]] — shared institution: Yale University
 - [[abram_lerner]] — shared institution: National Gallery
 - [[andrew_ritchie]] — shared institution: Yale University
 - [[andr_chastel]] — shared institution: Yale University
@@ -57,8 +57,8 @@ No archive information available. / 暂无档案信息。
 - [[cecil_gould]] — shared institution: National Gallery
 - [[colin_rowe]] — shared institution: Cambridge
 - [[craig_smyth]] — shared institution: National Gallery
-- [[david_coffin]] — shared institution: National Gallery
+- [[david_coffin]] — shared institution: Yale University
 
 ---
 
-*Generated: 2026-05-18T16:29:58.748641+00:00 | Source: charles_seymour.json*
+*Generated: 2026-05-19T08:32:57.756351+00:00 | Source: charles_seymour.json*

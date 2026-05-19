@@ -59,16 +59,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[adolf_katzenellenbogen]] — shared institution: MIT
-- [[anthony_blunt]] — shared institution: MIT
-- [[charles_sterling]] — shared institution: MIT
+- [[anthony_blunt]] — shared institution: Louvre
+- [[charles_sterling]] — shared institution: Louvre
 - [[colette_lamylassalle]] — shared institution: Louvre
 - [[emil_kaufmann]] — shared institution: MIT
 - [[germain_bazin]] — shared institution: Louvre
-- [[louis_grodecki]] — shared institution: MIT
+- [[louis_grodecki]] — shared institution: Louvre
 - [[rose_valland]] — shared institution: Louvre
 - [[georges_salles]] — shared institution: Louvre
 - [[alfred_frankfurter]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:26:37.473154+00:00 | Source: andr_malraux.json*
+*Generated: 2026-05-19T08:29:32.560765+00:00 | Source: andr_malraux.json*

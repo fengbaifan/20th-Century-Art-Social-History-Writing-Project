@@ -65,4 +65,4 @@ Ananda K. Coomaraswamy Papers, Princeton University. https://findingaids.princet
 
 ---
 
-*Generated: 2026-05-18T16:26:22.252345+00:00 | Source: ananda_coomaraswamy.json*
+*Generated: 2026-05-19T08:29:16.130372+00:00 | Source: ananda_coomaraswamy.json*

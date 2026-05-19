@@ -56,4 +56,4 @@ Judith K. Brodsky collection papers, Rutgers University
 
 ---
 
-*Generated: 2026-05-18T16:32:35.714958+00:00 | Source: elsa_fine.json*
+*Generated: 2026-05-19T08:35:38.934983+00:00 | Source: elsa_fine.json*

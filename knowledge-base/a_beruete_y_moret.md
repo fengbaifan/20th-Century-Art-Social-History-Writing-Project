@@ -1,6 +1,6 @@
 ---
 full_name: "A. Beruete y Moret"
-title_zh: "奥雷利亚诺·德·贝鲁埃特"
+title_zh: "Beruete y Moret, A., de"
 birth: 1876
 death: 1922
 country: Spain
@@ -49,4 +49,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:27:47.035563+00:00 | Source: a_beruete_y_moret.json*
+*Generated: 2026-05-19T08:30:44.177363+00:00 | Source: a_beruete_y_moret.json*

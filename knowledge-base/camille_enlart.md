@@ -64,4 +64,4 @@ ENLART, Camille [Collated], Institut national d'histoire de l'art. https://www.i
 
 ---
 
-*Generated: 2026-05-18T16:28:46.114760+00:00 | Source: camille_enlart.json*
+*Generated: 2026-05-19T08:31:44.233848+00:00 | Source: camille_enlart.json*

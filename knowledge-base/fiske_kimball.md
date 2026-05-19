@@ -56,16 +56,16 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[henri_marceau]] — shared institution: Columbia University
-- [[a_porter]] — shared institution: Harvard University
+- [[a_porter]] — shared institution: MIT
 - [[bernard_ashmole]] — shared institution: MIT
-- [[clarence_kennedy]] — shared institution: Harvard University
-- [[emil_kaufmann]] — shared institution: Harvard University
+- [[clarence_kennedy]] — shared institution: MIT
+- [[emil_kaufmann]] — shared institution: MIT
 - [[ernst_gall]] — shared institution: MIT
 - [[ernst_lvy]] — shared institution: MIT
 - [[geoffrey_webb]] — shared institution: MIT
 - [[hans_sedlmayr]] — shared institution: MIT
-- [[henri_focillon]] — shared institution: Harvard University
+- [[henri_focillon]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:34:22.065120+00:00 | Source: fiske_kimball.json*
+*Generated: 2026-05-19T08:37:25.598704+00:00 | Source: fiske_kimball.json*

@@ -58,4 +58,4 @@ Albert Dresdner letters received, 1904-1927., Getty Research Institute. https://
 
 ---
 
-*Generated: 2026-05-18T16:25:37.951625+00:00 | Source: albert_dresdner.json*
+*Generated: 2026-05-19T08:28:31.891796+00:00 | Source: albert_dresdner.json*

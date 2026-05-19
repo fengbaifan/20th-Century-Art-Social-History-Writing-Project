@@ -57,15 +57,15 @@ No archive information available. / 暂无档案信息。
 
 - [[bernhard_bothmer]] — shared institution: Metropolitan Museum
 - [[w_smith]] — shared institution: MIT
-- [[albert_lythgoe]] — shared institution: Metropolitan Museum
+- [[albert_lythgoe]] — shared institution: Oxford
 - [[charles_wilkinson]] — shared institution: Metropolitan Museum
 - [[gaston_maspero]] — shared institution: MIT
-- [[george_reisner]] — shared institution: Metropolitan Museum
+- [[george_reisner]] — shared institution: MIT
 - [[hedwig_fechheimer]] — shared institution: MIT
-- [[herbert_winlock]] — shared institution: Metropolitan Museum
+- [[herbert_winlock]] — shared institution: MIT
 - [[jean_capart]] — shared institution: MIT
 - [[jules_leroy]] — shared institution: MIT
 
 ---
 
-*Generated: 2026-05-18T16:30:42.921541+00:00 | Source: cyril_aldred.json*
+*Generated: 2026-05-19T08:33:43.549362+00:00 | Source: cyril_aldred.json*

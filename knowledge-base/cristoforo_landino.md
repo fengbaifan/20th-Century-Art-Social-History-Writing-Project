@@ -1,6 +1,6 @@
 ---
 full_name: "Cristoforo Landino"
-title_zh: "克里斯托弗罗·兰迪诺"
+title_zh: "Landino, Cristoforo"
 birth: 1424
 death: 1498
 country: Italy
@@ -51,4 +51,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:30:40.880878+00:00 | Source: cristoforo_landino.json*
+*Generated: 2026-05-19T08:33:41.452864+00:00 | Source: cristoforo_landino.json*

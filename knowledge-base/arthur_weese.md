@@ -58,4 +58,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:27:27.442446+00:00 | Source: arthur_weese.json*
+*Generated: 2026-05-19T08:30:24.412885+00:00 | Source: arthur_weese.json*

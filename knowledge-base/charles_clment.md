@@ -53,4 +53,4 @@ Charles Clément papers, 1838-1887, Getty Research Institute. https://primo.get
 
 ---
 
-*Generated: 2026-05-18T16:29:37.267531+00:00 | Source: charles_clment.json*
+*Generated: 2026-05-19T08:32:36.574282+00:00 | Source: charles_clment.json*

@@ -52,7 +52,7 @@ No archive information available. / 暂无档案信息。
 ## 相关学者 / Related Scholars
 
 - [[peter_fergusson]] — shared institution: Harvard University
-- [[rudolf_wittkower]] — shared institution: Harvard University
+- [[rudolf_wittkower]] — shared institution: MIT
 - [[sigfried_giedion]] — shared institution: Harvard University
 - [[aart_pit]] — shared institution: MIT
 - [[abraham_bredius]] — shared institution: MIT
@@ -64,4 +64,4 @@ No archive information available. / 暂无档案信息。
 
 ---
 
-*Generated: 2026-05-18T16:32:07.703476+00:00 | Source: eduard_sekler.json*
+*Generated: 2026-05-19T08:35:11.016438+00:00 | Source: eduard_sekler.json*

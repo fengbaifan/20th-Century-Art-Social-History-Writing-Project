@@ -74,9 +74,9 @@ No archive information available. / 暂无档案信息。
 - [[maria_caturla]] — shared institution: Columbia University
 - [[walter_friedlnder]] — shared institution: National Gallery
 - [[anna_jameson]] — shared institution: National Gallery
-- [[ann_harris]] — shared institution: Metropolitan Museum
-- [[arthur_mccomb]] — shared institution: Metropolitan Museum
+- [[ann_harris]] — shared institution: Columbia University
+- [[arthur_mccomb]] — shared institution: Princeton University
 
 ---
 
-*Generated: 2026-05-18T16:32:55.493251+00:00 | Source: erica_tietzeconrat.json*
+*Generated: 2026-05-19T08:35:58.745327+00:00 | Source: erica_tietzeconrat.json*

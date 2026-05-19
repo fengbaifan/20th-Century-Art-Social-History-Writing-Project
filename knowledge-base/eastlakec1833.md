@@ -64,4 +64,4 @@ Correspondence of Sir Charles Lock Eastlake and family, 1833-1896., Getty Resear
 
 ---
 
-*Generated: 2026-05-18T16:31:40.299698+00:00 | Source: eastlakec1833.json*
+*Generated: 2026-05-19T08:34:42.889336+00:00 | Source: eastlakec1833.json*
