@@ -1,6 +1,6 @@
 ---
 full_name: "René Schneider"
-title_zh: "Schneider, René"
+title_zh: "勒内·施奈德"
 birth: 1867
 death: 1938
 country: France

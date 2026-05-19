@@ -1,6 +1,6 @@
 ---
 full_name: "Russell Sturgis"
-title_zh: "Sturgis, Russell"
+title_zh: "罗素·斯特吉斯"
 birth: 1836
 death: 1909
 country: United States

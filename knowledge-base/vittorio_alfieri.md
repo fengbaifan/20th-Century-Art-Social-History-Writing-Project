@@ -1,6 +1,6 @@
 ---
 full_name: "Vittorio Alfieri"
-title_zh: "Alfieri, Vittorio"
+title_zh: "维托里奥·阿尔菲耶里"
 birth: 1749
 death: 1803
 country: Italy

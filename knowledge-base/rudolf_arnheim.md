@@ -1,6 +1,6 @@
 ---
 full_name: "Rudolf Arnheim"
-title_zh: "Arnheim, Rudolf"
+title_zh: "鲁道夫·阿恩海姆"
 birth: 1904
 death: 2007
 country: Germany

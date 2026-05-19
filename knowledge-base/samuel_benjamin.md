@@ -1,6 +1,6 @@
 ---
 full_name: "Samuel Greene Wheeler Benjamin"
-title_zh: "Benjamin, Samuel Greene Wheeler"
+title_zh: "塞缪尔·G·W·本杰明"
 birth: 1837
 death: 1914
 country: United States

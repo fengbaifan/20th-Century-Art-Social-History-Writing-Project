@@ -1,6 +1,6 @@
 ---
 full_name: "Thomas Rickman"
-title_zh: "Rickman, Thomas"
+title_zh: "托马斯·里克曼"
 birth: 1776
 death: 1841
 country: United Kingdom

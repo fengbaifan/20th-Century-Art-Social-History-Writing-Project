@@ -1,6 +1,6 @@
 ---
 full_name: "Thomas Hoving"
-title_zh: "Hoving, Thomas"
+title_zh: "托马斯·霍文"
 birth: 1931
 death: 2009
 country: United States

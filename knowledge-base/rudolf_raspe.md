@@ -1,6 +1,6 @@
 ---
 full_name: "Rudolf Erich Raspe"
-title_zh: "Raspe, Rudolf Erich"
+title_zh: "鲁道尔夫·埃里希·拉斯伯"
 birth: 1737
 death: 1794
 country: Germany

@@ -1,6 +1,6 @@
 ---
 full_name: "Wilhelm Worringer"
-title_zh: "Worringer, Wilhelm"
+title_zh: "威廉·沃林格"
 birth: 1881
 death: 1965
 country: Germany

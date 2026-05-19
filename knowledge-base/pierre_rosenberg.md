@@ -1,6 +1,6 @@
 ---
 full_name: "Pierre Rosenberg"
-title_zh: "Rosenberg, Pierre"
+title_zh: "皮埃尔·罗森贝格"
 birth: unknown
 death: unknown
 country: France

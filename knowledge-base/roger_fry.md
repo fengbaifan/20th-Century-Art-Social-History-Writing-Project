@@ -1,6 +1,6 @@
 ---
 full_name: "Roger Eliot Fry"
-title_zh: "Fry, Roger Eliot"
+title_zh: "罗杰·弗赖"
 birth: 1866
 death: 1934
 country: United Kingdom

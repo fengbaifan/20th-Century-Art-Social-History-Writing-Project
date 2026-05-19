@@ -1,6 +1,6 @@
 ---
 full_name: "Robert Koldewey"
-title_zh: "Koldewey, Robert"
+title_zh: "罗伯特·科尔德威"
 birth: 1855
 death: 1925
 country: Germany

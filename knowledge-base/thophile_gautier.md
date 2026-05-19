@@ -1,6 +1,6 @@
 ---
 full_name: "Théophile Gautier"
-title_zh: "Gautier, Théophile"
+title_zh: "泰奥菲尔·戈蒂耶"
 birth: 1811
 death: 1872
 country: France

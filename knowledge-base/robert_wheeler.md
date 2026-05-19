@@ -1,6 +1,6 @@
 ---
 full_name: "Robert Eric Mortimer Wheeler"
-title_zh: "Wheeler, Robert Eric Mortimer, Sir"
+title_zh: "莫蒂默·惠勒"
 birth: 1890
 death: 1976
 country: United Kingdom

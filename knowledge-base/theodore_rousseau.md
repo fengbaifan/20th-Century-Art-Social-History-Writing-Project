@@ -1,6 +1,6 @@
 ---
 full_name: "Theodore Rousseau"
-title_zh: "Rousseau, Theodore, Jr."
+title_zh: "泰奧多爾·盧梭"
 birth: 1912
 death: 1973
 country: United States

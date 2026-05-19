@@ -1,6 +1,6 @@
 ---
 full_name: "Tenshin Okakura"
-title_zh: "Okakura, Tenshin"
+title_zh: "冈仓天心"
 birth: 1863
 death: 1913
 country: Japan

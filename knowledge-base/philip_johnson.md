@@ -1,6 +1,6 @@
 ---
 full_name: "Philip Johnson"
-title_zh: "Johnson, Philip"
+title_zh: "菲力普·強生"
 birth: 1906
 death: 2005
 country: United States

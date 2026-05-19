@@ -1,6 +1,6 @@
 ---
 full_name: "Wolfgang Lotz"
-title_zh: "Lotz, Wolfgang"
+title_zh: "沃爾夫岡·洛茨"
 birth: 1912
 death: 1981
 country: Germany

@@ -1,6 +1,6 @@
 ---
 full_name: "Yves Bonnefoy"
-title_zh: "Bonnefoy, Yves"
+title_zh: "伊夫·博纳富瓦"
 birth: 1923
 death: null
 country: France
