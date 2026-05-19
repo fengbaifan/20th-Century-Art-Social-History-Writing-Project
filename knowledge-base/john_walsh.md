@@ -1,6 +1,6 @@
 ---
 full_name: "John Walsh"
-title_zh: "約翰·沃爾什"
+title_zh: "约翰·沃尔什"
 birth: 1937
 death: null
 country: United States

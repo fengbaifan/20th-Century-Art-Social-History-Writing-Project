@@ -1,6 +1,6 @@
 ---
 full_name: "Jules de Goncourt"
-title_zh: "朱爾·德·龔固爾"
+title_zh: "朱尔·德·龚古尔"
 birth: 1830
 death: 1870
 country: France

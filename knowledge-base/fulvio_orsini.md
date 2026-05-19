@@ -1,6 +1,6 @@
 ---
 full_name: "Fulvio Orsini"
-title_zh: "富爾維奧·奧爾西尼"
+title_zh: "富尔维奥·奥尔西尼"
 birth: 1529
 death: 1600
 country: Italy

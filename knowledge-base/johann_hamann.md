@@ -1,6 +1,6 @@
 ---
 full_name: "Johann Georg Hamann"
-title_zh: "約翰·格奧爾格·哈曼"
+title_zh: "约翰·格奥尔格·哈曼"
 birth: 1730
 death: 1788
 country: Germany

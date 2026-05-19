@@ -1,6 +1,6 @@
 ---
 full_name: "Martin Robertson"
-title_zh: "馬丁·羅伯森"
+title_zh: "马丁·罗伯森"
 birth: 1911
 death: 2004
 country: United Kingdom

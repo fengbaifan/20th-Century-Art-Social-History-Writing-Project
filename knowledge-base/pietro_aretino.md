@@ -1,6 +1,6 @@
 ---
 full_name: "Pietro Aretino"
-title_zh: "皮埃特羅·阿雷蒂諾"
+title_zh: "皮埃特罗·阿雷蒂諾"
 birth: 1492
 death: 1556
 country: Italy

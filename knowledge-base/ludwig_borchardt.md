@@ -1,6 +1,6 @@
 ---
 full_name: "Ludwig Borchardt"
-title_zh: "路德維希·波爾哈特"
+title_zh: "路德维希·波尔哈特"
 birth: 1863
 death: 1938
 country: Germany

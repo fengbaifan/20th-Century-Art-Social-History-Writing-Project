@@ -1,6 +1,6 @@
 ---
 full_name: "Wollaston Franks"
-title_zh: "奥古斯塔斯·沃拉斯顿·弗兰克斯"
+title_zh: "奥古斯都·沃拉斯顿·弗兰克斯"
 birth: 1826
 death: 1897
 country: United Kingdom

@@ -1,6 +1,6 @@
 ---
 full_name: "James Rorimer"
-title_zh: "詹姆斯·羅里默"
+title_zh: "詹姆斯·罗里默"
 birth: 1905
 death: 1966
 country: United States

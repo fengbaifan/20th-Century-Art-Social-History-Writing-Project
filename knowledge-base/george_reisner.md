@@ -1,6 +1,6 @@
 ---
 full_name: "George Andrew Reisner"
-title_zh: "喬治·安德魯·賴斯納"
+title_zh: "乔治·安德鲁·赖斯纳"
 birth: 1867
 death: 1942
 country: United States

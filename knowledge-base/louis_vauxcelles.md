@@ -1,6 +1,6 @@
 ---
 full_name: "Louis Vauxcelles"
-title_zh: "路易·沃塞勒"
+title_zh: "路易·沃克塞勒"
 birth: 1870
 death: 1943
 country: France

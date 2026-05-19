@@ -1,6 +1,6 @@
 ---
 full_name: "M.-M. Davy"
-title_zh: "M28/29「大衛·克羅克特」無後座力炮"
+title_zh: "MM·戴维"
 birth: 1903
 death: null
 country: France

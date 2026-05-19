@@ -1,6 +1,6 @@
 ---
 full_name: "Henry Breasted"
-title_zh: "詹姆斯·亨利·布雷斯特德"
+title_zh: "亨利·布雷斯特德"
 birth: 1908
 death: 1983
 country: United States

@@ -1,6 +1,6 @@
 ---
 full_name: "Georg Karo"
-title_zh: "格奧爾格·卡羅"
+title_zh: "格奥尔格·卡罗"
 birth: 1872
 death: 1963
 country: Germany

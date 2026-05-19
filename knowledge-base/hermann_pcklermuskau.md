@@ -1,6 +1,6 @@
 ---
 full_name: "Hermann Pückler-Muskau"
-title_zh: "普克勒-穆斯考的赫爾曼"
+title_zh: "普克勒-穆斯考的赫尔曼"
 birth: 1785
 death: 1871
 country: Germany

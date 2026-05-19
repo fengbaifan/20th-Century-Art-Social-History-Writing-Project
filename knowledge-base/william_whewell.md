@@ -1,6 +1,6 @@
 ---
 full_name: "William Whewell"
-title_zh: "威廉·惠威爾"
+title_zh: "威廉·惠威尔"
 birth: 1794
 death: unknown
 country: United Kingdom

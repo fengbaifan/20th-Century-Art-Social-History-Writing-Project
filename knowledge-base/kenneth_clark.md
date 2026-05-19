@@ -1,6 +1,6 @@
 ---
 full_name: "Kenneth Clark"
-title_zh: "肯尼斯·克拉克 (艺术史学家)"
+title_zh: "肯尼思·克拉克"
 birth: 1903
 death: 1983
 country: United Kingdom

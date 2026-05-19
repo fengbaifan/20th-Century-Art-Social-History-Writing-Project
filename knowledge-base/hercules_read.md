@@ -1,6 +1,6 @@
 ---
 full_name: "Hercules Read"
-title_zh: "查尔斯·赫拉克勒斯·里德"
+title_zh: "赫拉克勒斯·里德"
 birth: 1857
 death: 1929
 country: United Kingdom

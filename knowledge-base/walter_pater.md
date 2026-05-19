@@ -1,6 +1,6 @@
 ---
 full_name: "Walter Pater"
-title_zh: "華特·佩特"
+title_zh: "沃尔特·佩特"
 birth: 1839
 death: 1894
 country: United Kingdom

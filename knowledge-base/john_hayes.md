@@ -1,6 +1,6 @@
 ---
 full_name: "John Hayes"
-title_zh: "約翰·海斯"
+title_zh: "约翰·海斯"
 birth: 1929
 death: 2005
 country: United Kingdom

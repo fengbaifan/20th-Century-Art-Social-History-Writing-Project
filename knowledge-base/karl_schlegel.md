@@ -1,6 +1,6 @@
 ---
 full_name: "Karl Wilhelm Friedrich Schlegel"
-title_zh: "卡爾·威廉·施勒格爾"
+title_zh: "卡尔·威廉·施勒格尔"
 birth: 1767
 death: 1845
 country: Germany

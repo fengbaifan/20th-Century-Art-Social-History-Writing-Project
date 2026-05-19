@@ -1,6 +1,6 @@
 ---
 full_name: "Gaston C. C. Maspero"
-title_zh: "加斯頓·馬伯樂"
+title_zh: "加斯顿·马伯罗"
 birth: 1846
 death: 1916
 country: France

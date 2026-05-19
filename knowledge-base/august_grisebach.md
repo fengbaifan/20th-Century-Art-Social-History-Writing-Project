@@ -1,6 +1,6 @@
 ---
 full_name: "August Grisebach"
-title_zh: "奧古斯特·格里瑟巴赫"
+title_zh: "奥古斯特·格里塞巴赫"
 birth: 1881
 death: 1950
 country: Germany

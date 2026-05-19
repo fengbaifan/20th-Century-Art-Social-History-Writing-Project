@@ -1,6 +1,6 @@
 ---
 full_name: "John Richardson"
-title_zh: "約翰·理查森 (博物學家)"
+title_zh: "约翰·理查森"
 birth: 1924
 death: null
 country: United Kingdom

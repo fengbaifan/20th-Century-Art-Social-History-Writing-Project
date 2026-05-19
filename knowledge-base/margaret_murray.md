@@ -1,6 +1,6 @@
 ---
 full_name: "Margaret Alice Murray"
-title_zh: "瑪格麗特·穆瑞"
+title_zh: "玛格丽特·穆雷"
 birth: 1863
 death: 1963
 country: null

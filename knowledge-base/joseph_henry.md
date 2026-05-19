@@ -1,6 +1,6 @@
 ---
 full_name: "Joseph Henry"
-title_zh: "約瑟·亨利"
+title_zh: "约瑟·亨利"
 birth: 1797
 death: 1878
 country: United States

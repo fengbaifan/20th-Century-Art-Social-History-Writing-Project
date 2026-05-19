@@ -1,6 +1,6 @@
 ---
 full_name: "J. B. Ward-Perkins"
-title_zh: "约翰·布赖恩·沃德-珀金斯"
+title_zh: "约翰·沃德-珀金斯"
 birth: 1912
 death: 1981
 country: United Kingdom

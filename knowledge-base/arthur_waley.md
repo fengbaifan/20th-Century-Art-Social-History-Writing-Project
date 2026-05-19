@@ -1,6 +1,6 @@
 ---
 full_name: "Arthur Waley"
-title_zh: "亞瑟·偉利"
+title_zh: "亚瑟·韦利"
 birth: unknown
 death: unknown
 country: United Kingdom

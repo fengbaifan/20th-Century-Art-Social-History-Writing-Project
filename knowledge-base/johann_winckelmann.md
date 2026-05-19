@@ -1,6 +1,6 @@
 ---
 full_name: "Johann Joachim Winckelmann"
-title_zh: "約翰·約阿希姆·溫克爾曼"
+title_zh: "约翰·温克尔曼"
 birth: 1717
 death: 1768
 country: Germany

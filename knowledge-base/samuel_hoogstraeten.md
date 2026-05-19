@@ -1,6 +1,6 @@
 ---
 full_name: "Samuel van Hoogstraeten"
-title_zh: "薩米埃爾·范霍赫斯特拉滕"
+title_zh: "萨米埃尔·范霍赫斯特拉滕"
 birth: unknown
 death: unknown
 country: Netherlands

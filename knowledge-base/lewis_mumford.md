@@ -1,6 +1,6 @@
 ---
 full_name: "Lewis Mumford"
-title_zh: "劉易斯·芒福德"
+title_zh: "刘易斯·芒福德"
 birth: 1895
 death: 1990
 country: United States
