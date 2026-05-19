@@ -1,0 +1,57 @@
+---
+full_name: "Henry Stuart Jones"
+title_zh: "Jones, Henry Stuart"
+birth: 1867
+death: 1939
+country: United Kingdom
+country_zh: 英国
+gender: male
+field: art_history
+field_zh: 艺术史
+
+subjects:
+  - Classical
+  - sculpture (visual works)
+  - 雕塑（视觉作品）
+
+institutions:
+  - name: Oxford
+    name_zh: Oxford
+
+# 著作清单 / Personal Bibliography
+
+暂无 / None available
+
+# 相关研究 / Related Research
+
+- edited. A Catalogue of the Ancient Sculptures Preserved in the Municipal Collections of Rome: the Sculptures of the Palazzo dei Conservatori. 2 vols. Oxford: The Claredon Press, 1926; edited, A Catalogue of the Ancient Sculptures Preserved in the Municipal Collections of Rome: the Sculptures of the Museo Capitolino. 2 vols. Oxford: Clarendon Press, 1912; Classical Rome. London: Grant Richards Ltd., 1910; "The Historical Interpretation of the Reliefs of Trajan's Column." Papers of the British School at Rome 5 no. 7 (1910): 433-459; "Notes on Roman Historical Sculptures." Papers of the British School at Rome 3, no. 2 (1905): 213-271; Select Passages from Ancient Writers Illustrative of the History of Greek Sculpture. London: Macmillan and Co., 1895. (1926)
+---
+
+# Henry Stuart Jones
+
+**1867**–**1939** | United Kingdom 英国
+
+## 传记 / Biography
+
+Classical scholar; author books on sculpture. Jones was the son of Henry William Jones, a minister, and Margaret Lawrence Baker (Jones). After attending the Rossall School, he entered Balilol College, Oxford, in 1886 where he studied under Benjamin Jowett (1817-1893). He was awarded Craven and Derby scholarships to study in Greece in 1890. He returned to Trinity College as a tutor under Henry Francis Pelham (1846-1907). In 1894 he married Ileen Vaughn (d. 1931). The following year he published Select Passages from Ancient Writers Illustrative of the History of Greek Sculpture. In 1903 he suffered a breakdown because of overwork. As a change of pace and venue, Jones accepted the director position of the British School in Rome, which he held until 1905. After his return to England, Jones retired permanently to a country home near Tenby, Wales, though he remained an examiner for Trinity degrees. He published several Roman histories between 1908-1912. In 1911 Charles Cannan (1858-1919) of the Clarendon Press approached Jones about revising the Greek Lexicon written by Henry George Liddell (1811-1898) and Robert Scott (1811-1887). The following year Jones also began the general editorship for the catalogs of ancient sculpture in the municipal museums in Rome. When World War I was declared, Jones worked for the Foreign Office on the continent. After the war's conclusion, Francis John Haverfield (1860-1919), the Camden Professor of Ancient History at Brasenose College, died and Jones succeeded him. In 1927 he was appointed Principal of the University College of Wales, Aberystwyth and in 1929 vice chancellor. He resigned his post on the orders of his physician in 1934. A festschrift number in the Journal of Society for the Promotion of Roman Studies in 1937 was presented in his honor.
+
+## 档案 / Archives
+
+No archive information available. / 暂无档案信息。
+
+## 相关学者 / Related Scholars
+
+- [[arthur_bolton]] — shared institution: Oxford
+- [[christian_hlsen]] — shared institution: Oxford
+- [[david_lindsay]] — shared institution: Oxford
+- [[bernard_ashmole]] — shared institution: Oxford
+- [[george_leesmilne]] — shared institution: Oxford
+- [[giles_worsley]] — shared institution: Oxford
+- [[john_ruskin]] — shared institution: Oxford
+- [[margaret_whinney]] — shared institution: Oxford
+- [[charles_bell]] — shared institution: Oxford
+- [[edward_bell]] — shared institution: Oxford
+
+---
+
+*Generated: 2026-05-18T16:39:50.547579+00:00 | Source: henry_jones.json*

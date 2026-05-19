@@ -1,6 +1,5 @@
 # Large generated files
-graph/*.json
-graph/*.html
+graph/
 .processing/all_records.json
 .processing/enrichment-cache/
 
@@ -20,8 +19,13 @@ plug-ins/opencli-local/node_modules/
 Thumbs.db
 
 # IDE
-.vscode/settings.json
+.vscode/
 .specstory/
+.trae/
+.playwright-mcp/
 
 # Logs
 *.log
+
+# Redundant data (use RwaFiles/mid-data instead)
+art_historians_json/

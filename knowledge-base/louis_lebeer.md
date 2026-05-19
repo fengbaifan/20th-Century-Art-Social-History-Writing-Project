@@ -1,0 +1,58 @@
+---
+full_name: "Louis I. J. J. Lebeer"
+title_zh: "Lebeer, Louis I. J. J."
+birth: 1895
+death: 1986
+country: Belgium
+country_zh: 比利时
+gender: male
+field: art_history
+field_zh: 艺术史
+
+subjects:
+  []
+
+institutions:
+  - name: Yale University
+    name_zh: 耶鲁大学
+
+# 著作清单 / Personal Bibliography
+
+暂无 / None available
+
+# 相关研究 / Related Research
+
+- De Vlaamsche houtsnede. Brugge:
+- Davidsfonds, 1927; Spirituale Pomerium (Bibliothèque royale de Belgique, manuscript 12070): etude critique. Brussels: Société des bibliophiles et iconophiles de Belgique, 1939; L'Esprit de la gravure au XVe siècle. Brussels: Éditions du cercle d'art, 1943 ; Frans Masereel. Antwerp: De Sikkel, 1950 ; James Ensor, acquafortiste. Antwerp: De Sikkel, 1952; (1927)
+- Lismonde. Brussels:
+- Elsevier, 1956; Le Cabinet des estampes: trente années d'acquisitions, 1930-1960. Brussels: Bibliothèque royale de Belgique, 1961; and Boon, K. G., and Dippel, Reniga M. Kunstgeschiedenis der Nederlanden. 12. Negentiende en twintigste eeuw. Zeist: De Haan, 4th revised edition, 1965; Catalogue raisonné des estampes de Pierre Bruegel l'ancien. Brussels: Bibliothèque royale Albert Ier, 1969; Orientations de la gravure contemporaine en Belgique. Institut Belge d'Information et de Documentation, 1971; " Introduction" The Prints of James Ensor from the collection of H. Shickman (Formerly Franck Collection, Antwerp). New York: Da Capo Press, 1971, pp. vii-xv; "De prenten van Pieter Bruegel de Oude" in [Exhibition catalog:] Bruegel. Een dynastie van schilders. Brussels: Paleis voor Schone Kunsten, 18 september - 18 november 1980, pp. 102-136. (1956)
+---
+
+# Louis I. J. J. Lebeer
+
+**1895**–**1986** | Belgium 比利时
+
+## 传记 / Biography
+
+Curator of the Cabinet des Estampes in the Bibliothèque royale de Belgique at Brussels; professor. Lebeer attended primary school and high school at the Saint-Rombouts College in Mechelen. In 1914 he received his BA in medicine at the University of Louvain. At the outbreak of World War I he fled to England where he joined the army of the Allied Forces. After the war he returned to his Alma Mater to study Germanic philology, instead of continuing his medicine studies. In 1922 Lebeer received the degree of doctor in philosophy and letters from the University of Louvain. After his marriage he obtained in the same year an internship at the Bibliothèque royale de Belgique. Encouraged by René van Bastelaer, curator of the Cabinet des Estampes (Print Room) of the Bibliothèque royale, he developed a special interest in engraving. In 1924, he was appointed librarian, and one year later he obtained the position of librarian at the Cabinet des Estampes. Lebeer's first publication on Flemish wood engraving appeared in 1927, De Vlaamsche Houtsnede. Following the retirement of Van Bastelaer, in 1930, Lebeer was appointed adjunct curator of the Print Room. In addition, he obtained a teaching position in the history of engraving at the Brussels Institut Supérieur d'Histoire de l'Art et d'Archéologie, as the successor of Van Bastelaer. Lebeer rose to curator in 1932. In 1937 he obtained a teaching position in the history of the printed book and engraving at the University of Ghent. His special interest in early engraving in wood led to his critical study, in 1939, on the Spirituale Pomerium, a fifteenth-century manuscript decorated with block prints, preserved in the Bibliothèque royale de Belgique. L'Esprit de la gravure au XVe siècle followed in 1943, a study of fifteenth-century engravings on wood and copper. In 1948 Lebeer obtained a teaching position in the history of engraving at the University of Liège. In addition to his interest in early engraving, Lebeer was involved in contemporary art, in particular the twentieth-century renewal of xylography and other engraving techniques. His monograph on the xylographer Frans Masereel (1889-1972) appeared in 1950. In 1952 Lebeer paid tribute to the etchings of James Ensor, who had died three years earlier, James Ensor, acquafortiste. A monograph on the Belgian draughtsman and engraver Jules Lismonde (1908-2001) followed in 1956. At the occasion of his retirement, in 1960, Lebeer was honored with an exhibition of acquisitions during his thirty-year long curatorship, Le Cabinet des Estampes: trente années d'acquisitions, 1930-1960. His successor was Marie Mauquoy-Hendrickx. Lebeer was among the contributors to the fourth edition (1965) of Kunstgeschiedenis der Nederlanden. In his position as honorary curator, Lebeer published, in 1969, his critical catalog of the prints of Bruegel the Elder, Catalogue raisonné des estampes de Pierre Bruegel l'ancien. The prints were exhibited in the same year by the Bibliothèque royale as a commemoration of the 400th anniversary of Bruegel's death. Lebeer's insightful essay on contemporary engraving in Belgium, Orientations de la gravure contemporaine en Belgique, appeared in 1971. His Ensor monograph was republished in English as introduction to the 1971 catalog of The Prints of James Ensor from the collection of H. Shickman (Formerly Franck Collection, Antwerp). During many years, beginning in 1950, Lebeer was a member of the Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten. In 1959 he was the president of the Classe des Beaux-Arts, and in 1961 he was elected Secrétaire perpétuel of this institution. Lebeer's magnum opus, the 1969 catalogue raisonné, replaces the 1908 pioneering catalog of Bruegel's prints by Van Bastelaer. The commentaries include critical evaluations of the prints written by various authors since the beginning of the 20th century.
+
+## 档案 / Archives
+
+No archive information available. / 暂无档案信息。
+
+## 相关学者 / Related Scholars
+
+- [[bernard_ashmole]] — shared institution: Yale University
+- [[ellis_waterhouse]] — shared institution: Yale University
+- [[emil_kaufmann]] — shared institution: Yale University
+- [[ernst_kris]] — shared institution: Yale University
+- [[hans_huth]] — shared institution: Yale University
+- [[henryrussell_hitchcock]] — shared institution: Yale University
+- [[jacques_lavalleye]] — shared institution: Yale University
+- [[jean_helbig]] — shared institution: Yale University
+- [[john_fitchen]] — shared institution: Yale University
+- [[john_phillips]] — shared institution: Yale University
+
+---
+
+*Generated: 2026-05-18T16:47:06.579338+00:00 | Source: louis_lebeer.json*

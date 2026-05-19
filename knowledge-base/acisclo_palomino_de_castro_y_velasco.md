@@ -1,0 +1,58 @@
+---
+full_name: "Acisclo Antonio Palomino de Castro y Velasco"
+title_zh: "搜索结果"
+birth: 1655
+death: 1726
+country: Spain
+country_zh: 西班牙
+gender: male
+field: art_history
+field_zh: 艺术史
+
+subjects:
+  - biography (general genre)
+  - painting (visual works)
+  - Spanish (culture or style)
+
+# 著作清单 / Personal Bibliography
+
+暂无 / None available
+
+# 相关研究 / Related Research
+
+- El Museo pictorico y escala optica. 3 vols in 2. Madrid: L.A. de Bedmar, 1715, 1724, (1715)
+- English, "The Pictorial Museum and Optical Scale." in,
+- Veliz,
+- Zahira, ed. Artists' Techniques in Golden Age Spain: Six Treatises in Translation. New York: Cambridge University Press, 1986; [vol. 3 of El Museo, issued as] El Parnaso español pintoresco laureado ... Con las vidas de los pintores, y estatuarios eminentes españoles [etc.] Madrid: L.A. de Bedmar,1724, (1986)
+- English, An Account of the Lives and Works of the Most Eminent Spanish Painters, Sculptors and Architects; and Where their Several Performances are to be Seen. Translated from the Musaeum pictorium of Palomino Velasco. London: Printed for S.
+- Harding, 1739; [Velázquez biography translated in] Lives of Velázquez. London: Pallas Athene, 2006. (1739)
+---
+
+# Acisclo Antonio Palomino de Castro y Velasco
+
+**1655**–**1726** | Spain 西班牙
+
+## 传记 / Biography
+
+Wrote El Parnaso español pintoresco laureado, an early biographical account of Spanish painters. Palomino's family moved to Córdoba when he was ten. He was prepared for the priesthood and taught drawing and painting. Under the guidance of Juan de Valdés Leal and Juan de Alfaro y Gómez, a former pupil of Diego Velázquez, he was recommend to Madrid in 1678 to work under Juan Carreño de Miranda and Claudio Coello. He also studied mathematics at the Jesuit Colegio Imperial by Fray Jacob Kresa. Palomino's participation on the ceiling of the Galería del Cierzo in the Alcázar, Madrid, in 1686 resulted in the title of honorary royal painter. Other painting commissions included the ceiling of the Salón de Sesiones, Ayuntamiento, Madrid, 1690, work in the church of the Santos Juanes, and the chapel of the Virgen de los Desamparados,Valencia. In 1696 he became a paid court painter. In 1712 he moved to Granada, where he painted altarpieces and saints in a Baroque manner. The first volume of his El museo pictórico y escala óptica, dealing with painting theory, Teórica de la pintura, was published in 1715. Volume two, Práctica de la pintura (1724), outlines painting techniques, composition, human proportion and rules of decorum. The third volume of the series, issued in the second volume, El Parnaso español pintoresco laureado, (Spanish Parnassus of Laureate Painters) emerged as an early art history, a biographical account of 226 eminent artists largely from Spain. Palomino included foreign artists of note who had worked in Spain. Following the tradition of early artistic biography, he wrote from his personal knowledge, respectful, appreciative and impartial populated with anecdotes. Material he did not know first-hand was borrowed from other biographies, specifically the Le vite de' pittori, scultori & architetti, 1642, of Giovanni Baglione. Palomino wrote a long biography of Velázquez, an early encomium to the genius of that artist, from which much of modern knowledge of the artist's personal life is based. While working in the dome of the sacrarium of the Carthusian monastery at El Paular, 1725, he suffered a series of illnesses, exacerbated by his wife's death the same year. He took religious vows shortly thereafter and died the following year. His El Parnaso español pintoresco laureado was translated into English just fourteen years later, giving Palomino and Spanish artists a comparatively early and wide reputation in the English-speaking world, particularly since many Velázquez remained in private Spanish collections. Palomino lacked first-hand knowledge of many of the painters about whom he wrote and relied on earlier though much poorer accounts, principally L'Arte de la pintura, 1649, by Francisco Pacheco. He traveled across Spain for his sources, though a great deal was drawn from a noted biographical manuscript of Madrid painters by Don Lázaro Díaz del Valle. Juan Agustin Ceán Bermudez, wrote that the faults in Palomino's book were because of the "generosity of his character and the bad taste of his day." He lacked the prose style and ability to be truly critical of Vasari (Jacobs).
+
+## 档案 / Archives
+
+No archive information available. / 暂无档案信息。
+
+## 相关学者 / Related Scholars
+
+- [[pellegrino_orlandi]] — temporal proximity (1655s vs 1660s)
+- [[francisco_pacheco]] — shared subject area
+- [[giovanni_baglione]] — shared subject area
+- [[lzaro_daz_del_valle]] — shared subject area
+- [[achille_bertini_calosso]] — shared subject area
+- [[adelyn_breeskin]] — shared subject area
+- [[albert_chtelet]] — shared subject area
+- [[albert_zahn]] — shared subject area
+- [[alexandre_pinchart]] — shared subject area
+- [[alfred_michiels]] — shared subject area
+
+---
+
+*Generated: 2026-05-18T16:25:05.562211+00:00 | Source: acisclo_palomino_de_castro_y_velasco.json*

@@ -1,0 +1,64 @@
+---
+full_name: "Carola Giedion-Welcker"
+title_zh: "Giedion-Welcker, Carola"
+birth: 1893
+death: 1979
+country: Germany
+country_zh: 德国
+gender: female
+field: art_history
+field_zh: 艺术史
+
+subjects:
+  []
+
+# 著作清单 / Personal Bibliography
+
+暂无 / None available
+
+# 相关研究 / Related Research
+
+- [dissertation] Bayrische Rokokoplastik: J. B. Straub und seine Stellung in Landschaft und Zeit.&nbsp; University of Bonn, 1922, published, Munich: O.C. (1922)
+- Recht, 1922; Moderne Plastik: Elemente der Wirklichkeit – Masse und Auflockerung 1937; (1922)
+- English, expanded, Contemporary Sculpture: an Evolution in Volume and Space.&nbsp; New York, NY: G.
+- Wittenborn, 1961; Paul Klee. London: Faber and Faber Limited, 1952; Modern Plastic Art, Elements of Reality, Volume and Disintegration. Zürich: H. (1961)
+- Girsberger, 1937, later English versions titled Contemporary Sculpture: an Evolution in Volume and Space (1963), original German, Plastik des xx. Jahrhunderts: Volumen- und Raumgestaltung.&nbsp; Stuttgart: G. (1937)
+- Hatje, 1955; and Hagenbach, (1955)
+- Marguerite. Hans Arp. Stuttgart:&nbsp; G.
+- Hatje, 1957, (1957)
+- English, Jean Arp.&nbsp;New York, H.N. Abrams 1957;&nbsp; Constantin Brancusi. (1957)
+- Basel, B.
+- Schwabe, 1958, (1958)
+- English, Constantin Brancusi. New York : George Braziller,
+- Inc., 1959; and Raabe, (1959)
+- Paul.&nbsp; Paul Klee in Selbstzeugnissen und Bilddokumenten. Reinbek b. Hamburg: Rowohlt [-Taschenbuch]-Verlag, 1967; (1967)
+---
+
+# Carola Giedion-Welcker
+
+**1893**–**1979** | Germany 德国
+
+## 传记 / Biography
+
+Collector, historian, and scholar of Modernist art and literature, particularly of sculpture. Carola Welcker was born in Cologne in 1893 to German banker Carl Welcker (1848-1928) and his American wife, Mary Legien (1865-1919). Welcker began studying art history at the University of Munich in 1915 under Heinrich Wölfflin. While studying at Munich, she met fellow student Sigfried Giedion, a prominent architectural historian, whom she married in 1919, adopting the surname Giedion-Welcker. Shortly thereafter, she pursued her doctorate at the University of Bonn under the direction of Paul Clemen, writing her thesis on rococo sculpture in Bavaria. In 1922, both she and her husband completed their degrees. The couple quickly developed a large web of social connections within the art world after becoming friends with László Moholy-Nagy in 1923. The following year Moholy-Nagy introduced the couple to Dadaist Hans (Jean) Arp who further connected them to the Surrealist scene. Arp and Giedion-Welcker were close friends, with Arp further inspiring her interest in literature and taking her to the Surrealist exhibition in Paris in 1925. This friendship with Arp allowed Giedion-Welcker and her husband to enter the exclusive artistic social circle of artists such as Piet Mondrian, Constantin Brâncuși, Paul Klee, and Max Ernst. During this time both Giedion-Welcker and her husband collaborated on exhibitions for Modernists and Surrealists. Often called “the power pair of Modernism,” the couple moved to the Giedion family villa in Doldertal, Zurich in 1925, where they then created a community and important meeting-place for Modernist artists through frequent parties and social gatherings. Gideon-Welcker was the primary facilitator of their social web, bringing a myriad of artists to the villa, some of which were Kurt Schwitters, Aldo Van Eyck, Fernand Léger, Antoine Pevsner, Franz Roh, Theo van Doesburg, Wassily Kadinsky, Alberto Giacometti, Jan Tschichold, Alvar Aalto, and Marcel Breuer. They were also close with eminent art historians of the time such as Albert Brinkmann, Alexander Dorner, and Christian Zervos. Her husband’s time at the Bauhaus also expanded their circle. Notably, both Giedion-Welcker and her husband were quite close with Walter Gropius and Le Corbusier; her husband co-founded the Congrès internationaux d'architecture moderne (International Congresses of Modern Architecture) with Le Corbusier and collector Hélène de Mandrot in 1928. She discussed this concept in detail in her 1937 manuscript and later book on modern sculpture, Moderne Plastik: Elemente der Wirklichkeit, first published in English as Modern Plastic Art, Elements of Reality, Volume and Disintegration. Her husband worked as a professor in the United States beginning in 1938. When war broke out, her husband was stranded in the United States and she in Switzerland. Giedion-Welker used the couple’s villa in Switzerland as a safe space for artists and scholars who were fleeing persecution. She befriended Paul Klee and his family in Bern. After Klee’s untimely death in 1940, Klee’s wife selected Giedion-Welcker to manage his artistic estate. After the War, she published a monograph on Klee in 1952. The 1937 version of her sculpture survey appeared in 1955 as, Plastik des xx. Jahrhunderts. A monograph on Constantin Brâncuși followed in 1958, the first full-length study written on the sculptor. She died on February 21, 1979 at the age of 85 after a brief illness in the Zurich villa. She and her husband kept thousands of photographs, documents, and artworks from their work. The Swiss Institute for Art Research (SIK-ISEA) houses their personal archive. In 2016, over a thousand letters and other items were discovered at their villa. The Institute for the History and Theory of Architecture at ETH Zurich and International Congress for New Building (CIAM) holds material. Their son, Andres Giedion (1925-2013) was a pioneer of pediatrics and pediatric radiology in Switzerland. Giedion-Welcker wrote 280 articles in her lifetime. Methodologically she viewed changes in art forms as evolutionary, a further development of art, adopting a linear theory of art history. Modernist forms of the time— Dadaism, Cubism, Constructivism, Surrealism—were described as a “new reality . . . a new synthesis of the concealed energies of existence.” She notably connected prehistoric’s art simplicity with Modern sculpture’s idea of the essential. Giedion-Welcker was also an accomplished and influential literary critic. Her written defenses and praise for Ulysses by James Joyce, also a friend, contributed to the novel and the author’s continued success.
+
+## 档案 / Archives
+
+No archive information available. / 暂无档案信息。
+
+## 相关学者 / Related Scholars
+
+- [[hans_curjel]] — temporal proximity (1893s vs 1896s)
+- [[hertha_wescher]] — temporal proximity (1893s vs 1899s)
+- [[sigfried_giedion]] — temporal proximity (1893s vs 1888s)
+- [[aaron_lacerda]] — temporal proximity (1893s vs 1890s)
+- [[abraham_hammacher]] — temporal proximity (1893s vs 1897s)
+- [[achille_carlier]] — temporal proximity (1893s vs 1903s)
+- [[adelyn_breeskin]] — temporal proximity (1893s vs 1896s)
+- [[adolf_behne]] — temporal proximity (1893s vs 1885s)
+- [[adolf_feulner]] — temporal proximity (1893s vs 1884s)
+- [[adolf_katzenellenbogen]] — temporal proximity (1893s vs 1901s)
+
+---
+
+*Generated: 2026-05-18T16:29:18.665135+00:00 | Source: carola_giedionwelcker.json*

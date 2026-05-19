@@ -1,0 +1,59 @@
+---
+full_name: "Guy Philippe Henri Lannes de Montebello"
+title_zh: "de Montebello, Guy Philippe Henri Lannes"
+birth: 1936
+death: null
+country: France
+country_zh: 法国
+gender: male
+field: art_history
+field_zh: 艺术史
+
+subjects:
+  - museums (institutions)
+
+institutions:
+  - name: Harvard University
+    name_zh: 哈佛大学
+  - name: Metropolitan Museum
+    name_zh: 大都会艺术博物馆
+
+# 著作清单 / Personal Bibliography
+
+暂无 / None available
+
+# 相关研究 / Related Research
+
+- The Metropolitan Museum of Art Guide: Works of Art Selected by Philippe de Montebello. New York: The Museum, 1983; “The Met and the New Millennium: A Chronicle of the Past and a Blueprint for the Future.” The Metropolitan Museum of Art Bulletin, New Series 52, (1983)
+- No. 1, (Summer, 1994): 1, 4-90; “The Richard A. F. Penrose Lecture: The Changing Landscape of Museums.” Journal of the Proceedings of the American Philosophical Society 147, (1994)
+- No. 3 (September 2003): 259-272; (2003)
+---
+
+# Guy Philippe Henri Lannes de Montebello
+
+**1936**–**?** | France 法国
+
+## 传记 / Biography
+
+Metropolitan Museum of Art director, 1977-2008. Montebello was born to Count André Roger Lannes de Montebello (1908-1986) and Germaine Wiener de Croisset (de Montebello) (1913-1975). His family traced its roots back to Jean Lannes, Duc de Montebello, (1769-1809), a Marshall of France under Napoleon. Other relatives are thought to have been models for characters in Proust’s À la recherche du temps perdu, for example the Duchesse de Guermantes and the playwright Bloch. As a boy, his aunt, the Surrealism patron Marie-Laures Noailles (1902-1970) introduced him to Picasso. During World War II, the family lived in Grasse, France, where his father was part of the Resistance. The Montebellos immigrated to the United States in 1950 when Philippe was age 14. He attended the exclusive Lycée Français de New York (LFNY). At graduation, De Montebello became an American citizen in 1955, serving in the U.S. Army, serving 1956-1958 rising to second lieutenant. Montebello entered Harvard University, graduating magna cum laude (thesis on Delacroix) with a B.A. in 1961, marrying Edith Bradford Myles (b. 1939) the same year. He continued graduate study at New York University in 1961 on a Woodrow Wilson fellowship where he focused on French painting under the scholar Charles Sterling. In 1963, before completing any degree at NYU, he interviewed for a curatorial assistant position with Theodore Rousseau, Jr., at the Metropolitan Museum of Art in the Department of European Paintings. Rousseau hired him immediately. At Rousseau's advancement to Assistant Director in 1969, Montebello had had enough experience to be appointed to the directorship of the Museum of Fine Arts, Houston, TX, though he still lacked any graduate degree. In Houston, Montebello gained the reputation for disapproving of modern art, something that particularly rankled Houston's major collectors, John and Domnique de Menil. At Rousseau's death in 1973 he was recalled to the Met to succeed him as assistant to Director Thomas Hoving in 1974. He completed his M.A. from NYU in 1976. Hoving's relationship with the Met board and staff grew stormier. At Hoving's departure, Montebello became acting director in 1977 and Director the following year. The museum's board reformed the bylaws after the Hoving experience, making Montebello's new director position report to the President of the Trustees. Montebello defined much of his tenure to contrast his predecessor. He refrained from splashy acquisitions or appearing in print on controversial issues. One exception was during the 1999 Brooklyn Museum's art exhibition "Sensation" which included excrement art. City officials denounced the show and Montebello wrote a letter to the New York Times. Though he claimed it to be a plea for quality in art, the statement was largely taken as yet again an attack on modern art. The same year the Board made the director and president positions equal. In 2002, de Montebello signed on the Met's behalf the Declaration on the Importance and Value of Universal Museums, a document affirming museum's right to hold world art against claims of national patrimony. Duccio's "Madonna and Child" was acquired by the Met under his aegis for $45 million. Montebello oversaw the dramatic growth of many collections, as well as the completion of the Master Plan that had begun under Hoving, ultimately doubling the Museum’s size. He retired from the Metropolitan in 2008. In retirement, he was named the first Fiske Kimball Professor in the History and Culture of Museums at the Institute of Fine Arts, New York University. Montebello was not a scholar; he published little outside the introductions to exhibition catalogs. Hired in part to consolidate the building and acquisition strides the Hoving era had made, he helped redefine the nature of the Met's blockbuster exhibitions program (now a staple of large museums) and heal lingering animosity toward the curatorial staff. His connoisseurship approach as a principal art criteria added to his anti-modernist reputation. He nevertheless presided over the large addition of the Met's modern art (Lila Wallace) wing.
+
+## 档案 / Archives
+
+No archive information available. / 暂无档案信息。
+
+## 相关学者 / Related Scholars
+
+- [[donald_posner]] — shared institution: Harvard University
+- [[everett_fahy]] — shared institution: Harvard University
+- [[james_wood]] — shared institution: Metropolitan Museum
+- [[thomas_hoving]] — shared institution: Metropolitan Museum
+- [[alfred_barr]] — shared institution: Harvard University
+- [[anthony_clark]] — shared institution: Harvard University
+- [[arthur_van_schendel]] — shared institution: Metropolitan Museum
+- [[bernhard_bothmer]] — shared institution: Metropolitan Museum
+- [[daniel_rich]] — shared institution: Harvard University
+- [[eric_maclagan]] — shared institution: Harvard University
+
+---
+
+*Generated: 2026-05-18T16:51:46.294454+00:00 | Source: philippe_de_montebello.json*

@@ -1,0 +1,59 @@
+---
+full_name: "André Félibien"
+title_zh: "Félibien, André"
+birth: 1619
+death: 1695
+country: France
+country_zh: 法国
+gender: male
+field: art_history
+field_zh: 艺术史
+
+subjects:
+  - French (culture or style)
+  - Italian (culture or style)
+  - 意大利（文化或风格）
+
+institutions:
+  - name: Yale University
+    name_zh: 耶鲁大学
+
+# 著作清单 / Personal Bibliography
+
+暂无 / None available
+
+# 相关研究 / Related Research
+
+- Lettres familieres de mr Conrad, a mr Felibien. Paris: Chez Claude Barbin, 1681; Des principes de l'architecture, de la sculpture, de la peinture, et des autres arts qui en dependent. Avec vn dictionnaire des termes propres à chacun de ces arts. Paris: J. B. (1681)
+- Coignard, 1676; Noms des peintres les plus célèbres et les plus connus anciens et modernes. Paris: 1679; Entretiens sur les vies et sur les ouvrages des plus excellens paintres anciens et modernes .... 5 pts. Paris: Simon Bernard, 1666, 1672,1679, 1685,1688; Recueil de descriptions de peintures et dáutres ouvrages faits pour le roy. Paris: Chez Florentin & P. (1676)
+- Delaulne, 1689. (1689)
+---
+
+# André Félibien
+
+**1619**–**1695** | France 法国
+
+## 传记 / Biography
+
+Critic and historian of Italian and French art and royal art collections. Félibien was educated primarily in Paris. In 1647 he was appointed secretary to Marquis de Fontenay-Mareuil (1594-1655), the ambassador to the Holy See, Rome, under Louis XIV. During his service to the ambassador, Félibien spent two years in Rome, where he studied ancient monuments and the works of living artists such as Claude Lorrain, Pietro da Cortona, and Nicolas Poussin, whom he personally met. He returned to France in 1649 and married. Nicolas Fouquet, marquis de Belle-Isle, (1615-1680), the Superintendent of Finances in France, was impressed by his ability and Félibien dedicated his de L'origine de la peinture, 1660, a historical analysis of painting modeled after the writings of Giorgio Vasari to Fouquet. However, when Fouquet became the target of a financial scandal, Félibien was forced to flee Paris as well. He was recalled by the Fouquet's successor, Jean-Baptiste Colbert (1619-1683). He became a founding member of the Académie des Inscriptions et Belles-lettres in 1663, and wrote several articles documenting works in royal collections. Through his position, he exerted great influence on the policies of the Académie Royale de peinture et de sculpture. His appointment by Colbert as historiographer of the Bâtiments du Roi in 1666 expanded his role as a critic and an arts administrator. Félibien began immediately to publish a ten-volume history of painting from antiquity to the17th century, entitled Entretiens sur la vie et les ouvrages des plus excellences peintres anciens et modernes,1666-1668. The work was intended to be a history of art from the antique to Poussin, but Félibien added two final parts containing more contemporary artists. He was named secretary to the newly-founded Academy of Architecture in 1671 and in 1673 keeper of the cabinet of antiques in the palace of Brion. In 1679, Félibien published his Noms des peintres les plus célèbres a dictionary of of artists. His two sons, Michel Félibien, a monk, and Jean-François Félibien, an architect, also became scholars of French art and architecture. Félibien, owing to his position, was the orthodox voice of France, yet succeeded in original judgments on artists. Even his earliest work, Des principes was less about theoretics (principles) than it was a description of working methods. From this first, Félibien shows himself interested in facts--the bits of history--as much as postulation. Entretiens shows Félibien to be seriously concerned with establishing an approach to art history (Pace). His writings on art history are credited (by Bazin) to have rekindled art criticism in France.
+
+## 档案 / Archives
+
+No archive information available. / 暂无档案信息。
+
+## 相关学者 / Related Scholars
+
+- [[carlo_malvasia]] — shared institution: Yale University
+- [[raphal_trichet_du_fresne]] — shared institution: Yale University
+- [[alexandre_lenoir]] — shared institution: Yale University
+- [[anne_hanson]] — shared institution: Yale University
+- [[antoine_quatremre_de_quincy]] — shared institution: Yale University
+- [[creighton_gilbert]] — shared institution: Yale University
+- [[dorothy_shorr]] — shared institution: Yale University
+- [[ellis_waterhouse]] — shared institution: Yale University
+- [[emil_kaufmann]] — shared institution: Yale University
+- [[frederick_hartt]] — shared institution: Yale University
+
+---
+
+*Generated: 2026-05-18T16:26:34.109651+00:00 | Source: andr_flibien.json*
