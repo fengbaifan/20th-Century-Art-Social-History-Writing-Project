@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+# Pre-commit hook for art historian knowledge base pipeline
+# Triggered when JSON files in 01-RwaFiles/ are modified
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+PROJECT_ROOT="$(cd "${SCRIPT_DIR}/.." && pwd)"
+
+# Check for staged JSON files
+STAGED_JSONS=$(git diff --cached --name-only --diff-filter=ACM | grep '\.json$' || true)
+
+if [ -z "$STAGED_JSONS" ]; then
+    echo "No JSON files staged, skipping art-historian-kb pipeline"
+    exit 0
+fi
+
+# Count files
+FILE_COUNT=$(echo "$STAGED_JSONS" | wc -l)
+echo "Found $FILE_COUNT staged JSON file(s) for art-historian-kb pipeline"
+
+# Process each staged JSON file
+for JSON_FILE in $STAGED_JSONS; do
+    # Extract shortcode from filename
+    SHORTCODE=$(basename "$JSON_FILE" .json)
+    echo "[pipeline] Processing: $SHORTCODE"
+
+    # Run pipeline stage (placeholder - actual implementation in scripts/)
+    # For now, just verify file exists
+    if [ -f "${PROJECT_ROOT}/01-RwaFiles/art_historians_json/${SHORTCODE}.json" ]; then
+        echo "[pipeline] ✓ $SHORTCODE validated"
+    else
+        echo "[pipeline] ✗ $SHORTCODE not found in art_historians_json/"
+    fi
+done
+
+echo "[pipeline] Pre-commit hook complete"
+exit 0

@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Bash(python .processing/scripts/health.py:*)",
+      "Bash(python .processing/scripts/heal.py:*)",
+      "Bash(python .processing/scripts/verify_opencli.py:*)",
+      "Bash(python .processing/scripts/ingest.py:*)",
+      "Bash(python .processing/scripts/build_graph.py:*)",
+      "Bash(opencli doctor:*)",
+      "Bash(opencli list:*)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write.*knowledge-base/.*\\.md$",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .processing/scripts/health.py --quick",
+            "async": true
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write.*RwaFiles/.*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'RwaFiles is immutable source data - edits not allowed' && exit 1",
+            "async": false
+          }
+        ]
+      }
+    ]
+  }
+}

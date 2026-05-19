@@ -1,0 +1,27 @@
+# Large generated files
+graph/*.json
+graph/*.html
+.processing/all_records.json
+.processing/enrichment-cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.processing/scripts/__pycache__/
+
+# Node
+node_modules/
+plug-ins/opencli-local/node_modules/
+*.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.specstory/
+
+# Logs
+*.log

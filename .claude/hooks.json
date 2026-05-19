@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write.*\\.json$",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash hooks/run-hook.cmd pre-commit",
+            "async": false
+          }
+        ]
+      }
+    ]
+  }
+}
