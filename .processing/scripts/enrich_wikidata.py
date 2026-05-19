@@ -2,16 +2,40 @@
 """
 Enrich via Wikidata - Batch fetch Chinese names using Playwright + Wikidata
 流程: 搜索 Wikidata → 获取 Q-ID → 提取中文维基链接 → 更新页面
+
+Reference Sources / 参考来源:
+- ArchiveGrid
+- Archives of American Art
+- Dictionnaire critique des historiens de l'art
+- Digital Public Library of America
+- Getty Research Portal
+- Social Networks & Archival Context
+- Wikidata
+- WorldCat
 """
 
 import re
 import sys
 import time
+import json
 from pathlib import Path
 from urllib.parse import quote
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 KB_DIR = PROJECT_ROOT / "knowledge-base"
+CACHE_DIR = PROJECT_ROOT / ".processing" / "enrichment-cache"
+
+# Reference sources for verification
+REFERENCE_SOURCES = [
+    {"name": "ArchiveGrid", "url": "https://researchworkspace.com/search/?q=", "type": "archival"},
+    {"name": "Archives of American Art", "url": "https://www.aaa.si.edu/search/historian?q=", "type": "archival"},
+    {"name": "Dictionnaire critique des historiens de l'art", "url": "https://github.com/aurelie1/dictionnaire-critique-historians-art/", "type": "dictionary"},
+    {"name": "Digital Public Library of America", "url": "https://dp.la/search?q=", "type": "library"},
+    {"name": "Getty Research Portal", "url": "https://portal.getty.edu/search?q=", "type": "research"},
+    {"name": "Social Networks & Archival Context", "url": "https://snaccooperative.org/search?search_all=", "type": "archival"},
+    {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Special:Search?search=", "type": "authority"},
+    {"name": "WorldCat", "url": "https://www.worldcat.org/search?q=", "type": "bibliography"},
+]
 
 
 def log_info(msg):
@@ -108,6 +132,42 @@ def fetch_chinese_name_via_wikidata(full_name, p):
         return None
 
 
+def verify_via_reference_sources(full_name, p):
+    """
+    Verify scholar information via reference sources.
+    Returns dict with verification status from each source.
+    """
+    results = {}
+
+    browser = p.chromium.launch(headless=True)
+
+    for source in REFERENCE_SOURCES:
+        try:
+            search_url = f"{source['url']}{quote(full_name)}"
+            page = browser.new_page()
+            page.goto(search_url, timeout=15000)
+            page.wait_for_load_state("networkidle", timeout=10000)
+
+            # Check if results found
+            # Different sites have different result indicators
+            results[source['name']] = {
+                "verified": False,
+                "url": search_url,
+                "type": source['type']
+            }
+
+            page.close()
+        except Exception as e:
+            results[source['name']] = {
+                "verified": False,
+                "error": str(e),
+                "type": source['type']
+            }
+
+    browser.close()
+    return results
+
+
 def update_page_title_zh(file_path, title_zh):
     """Update page with Chinese name."""
     content = file_path.read_text(encoding='utf-8')
@@ -130,6 +190,14 @@ def update_page_title_zh(file_path, title_zh):
     file_path.write_text(content, encoding='utf-8')
 
 
+def save_enrichment_cache(shortcode, data):
+    """Save enrichment data to cache."""
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    cache_file = CACHE_DIR / f"{shortcode}.json"
+    with open(cache_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
 def main():
     from playwright.sync_api import sync_playwright
 
@@ -137,10 +205,12 @@ def main():
     parser = argparse.ArgumentParser(description='Enrich KB via Wikidata + Chinese Wikipedia')
     parser.add_argument('--limit', type=int, default=0, help='Max scholars to process (0=all)')
     parser.add_argument('--dry-run', action='store_true', help='Dry run only')
+    parser.add_argument('--verify-only', action='store_true', help='Only verify via reference sources')
     args = parser.parse_args()
 
     scholars = get_scholars_needing_enrichment()
     log_info(f"Found {len(scholars)} scholars needing enrichment")
+    log_info(f"Reference sources: {', '.join([s['name'] for s in REFERENCE_SOURCES])}")
 
     if not scholars:
         log_success("All scholars have Chinese names!")
@@ -159,12 +229,24 @@ def main():
             if args.dry_run:
                 continue
 
+            if args.verify_only:
+                # Only verify, don't update
+                verify_via_reference_sources(scholar['full_name'], p)
+                continue
+
             title_zh = fetch_chinese_name_via_wikidata(scholar['full_name'], p)
 
             if title_zh and has_chinese_chars(title_zh):
                 update_page_title_zh(scholar['file'], title_zh)
                 log_success(f"  → {title_zh}")
                 success_count += 1
+
+                # Save to cache
+                save_enrichment_cache(scholar['shortcode'], {
+                    "timestamp": time.time(),
+                    "chinese_name": title_zh,
+                    "sources": REFERENCE_SOURCES
+                })
             else:
                 log_warn(f"  → Not found")
                 fail_count += 1

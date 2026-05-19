@@ -1,6 +1,6 @@
 ---
 full_name: "Peter Collins"
-title_zh: "Collins, Peter"
+title_zh: "彼得·柯林斯"
 birth: 1920
 death: null
 country: United Kingdom

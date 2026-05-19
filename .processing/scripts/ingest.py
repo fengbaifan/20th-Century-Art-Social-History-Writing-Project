@@ -132,6 +132,12 @@ PINYIN_NAME_MAP = {
     "cunningham": "坎宁安", "banks": "班克斯", "fowler": "福勒", "murray": "默里",
     "mitchell": "米切尔", "palmer": "帕尔默", "cahill": "卡希尔", "marsh": "马什",
     "burch": "伯奇", "fletcher": "弗莱彻", "floyd": "弗洛伊德", "hammond": "哈蒙德",
+    "everett": "埃弗雷特", "emmett": "埃米特", "edmund": "埃德蒙", "edgar": "埃德加",
+    "edmond": "埃德蒙", "edward": "爱德华", "edwin": "埃德温", "elliot": "埃利奥特",
+    "elliott": "埃利奥特", "elmer": "埃尔默", "eliot": "艾略特",
+    "emil": "埃米尔", "emile": "埃米尔", "emilio": "埃米利奥",
+    "eric": "埃里克", "erik": "埃里克", "ernest": "欧内斯特",
+    "eugene": "尤金",
     "harrison": "哈里森", "harmon": "哈蒙", "hayes": "海斯", "holt": "霍尔特",
     "hood": "胡德", "hooker": "胡克", "horn": "霍恩", "huber": "胡贝尔",
     "huffman": "赫夫曼", "hughes": "休斯", "keller": "凯勒", "kelley": "凯利",
@@ -157,57 +163,78 @@ def transliterate_name_to_pinyin(full_name):
     """
     Transliterate a Western name to Chinese pinyin.
     Handles "Last, First" and "First Last" formats.
-    Returns (surname_pinyin, given_name_pinyin) or None if unable.
+    Returns Chinese name string or None if unable.
     """
     if not full_name:
         return None
 
-    # Clean the name
-    name = full_name.strip()
-    name = re.sub(r'\s+', ' ', name)
-    name = re.sub(r'[.,]', ' ', name)
-    name = name.strip()
-
-    # Determine format
-    if ',' in name:
+    # Clean the name but preserve format detection
+    original_name = full_name.strip()
+    original_name = re.sub(r'\s+', ' ', original_name)
+    
+    # Detect format BEFORE removing commas
+    if ',' in original_name:
         # "Last, First" format
-        parts = name.split(',')
-        surname = parts[0].strip()
+        parts = original_name.split(',')
+        surname_raw = parts[0].strip()
         given_name = parts[1].strip() if len(parts) > 1 else ""
+        # Remove suffixes like Jr, Sr from surname for lookup
+        surname_for_lookup = re.sub(r'\s*(Jr|Sr|Jr\.|Sr\.)\s*$', '', surname_raw, flags=re.IGNORECASE).strip()
     else:
         # "First Last" format
-        parts = name.split()
-        surname = parts[-1].strip() if parts else ""
+        parts = original_name.split()
+        surname_raw = parts[-1].strip() if parts else ""
         given_name = ' '.join(parts[:-1]) if len(parts) > 1 else ""
-
-    surname_lower = surname.lower()
-    given_lower = given_name.lower()
-
+        surname_for_lookup = surname_raw
+    
+    # Clean surname for lookup
+    surname_for_lookup = re.sub(r'[.,]', '', surname_for_lookup).strip().lower()
+    surname_lower = surname_raw.lower()
+    
     # Check if surname is in our map
     surname_zh = None
     for key, value in PINYIN_NAME_MAP.items():
-        if surname_lower == key.lower():
+        if surname_for_lookup == key.lower():
             surname_zh = value
             break
+    
+    # If not found by exact match, try without suffixes
+    if not surname_zh:
+        for key, value in PINYIN_NAME_MAP.items():
+            if surname_lower == key.lower():
+                surname_zh = value
+                break
 
     # Transliterate given name parts
     given_parts = given_name.split()
     given_zh_parts = []
+    initials = []
+    
     for part in given_parts:
         part_clean = re.sub(r'[^a-zA-Z]', '', part).lower()
+        # Check if it's a single letter (initial)
+        if len(part_clean) == 1 and part_clean.isalpha():
+            initials.append(part)
+            continue
         for key, value in PINYIN_NAME_MAP.items():
             if part_clean == key.lower():
                 given_zh_parts.append(value)
                 break
 
-    if surname_zh and given_zh_parts:
-        # Chinese name order: surname + given name
-        return f"{surname_zh}{''.join(given_zh_parts)}"
-    elif surname_zh:
-        return surname_zh
-    elif given_zh_parts:
-        return ''.join(given_zh_parts)
-
+    # Build Chinese name with proper format
+    # Format: "A. 埃弗雷特·奥斯汀" (initials + Chinese given name · Chinese surname)
+    chinese_given_name = ''.join(given_zh_parts) if given_zh_parts else ''
+    chinese_surname = surname_zh if surname_zh else ''
+    
+    if initials and chinese_given_name and chinese_surname:
+        return f"{' '.join(initials)} {chinese_given_name}·{chinese_surname}"
+    elif chinese_given_name and chinese_surname:
+        return f"{chinese_given_name}·{chinese_surname}"
+    elif chinese_surname:
+        return chinese_surname
+    elif chinese_given_name:
+        return chinese_given_name
+    
     return None
 
 
@@ -379,7 +406,7 @@ def load_all_records():
     log_info("Loading from source directory...")
     records = {}
     for json_file in SOURCE_DIR.glob("*.json"):
-        if json_file.name == "README.md":
+        if json_file.name in ["README.md", "index.json"]:
             continue
         with open(json_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -424,9 +451,16 @@ def compute_links(shortcode, all_records):
     record = all_records[shortcode]
     subjects = set(s.strip().lower() for s in record.get('Subject Area', '').split('|') if s.strip())
     institutions = set()
-    for inst_list in record.get('Institutions', '').values():
-        for inst in inst_list:
-            inst = inst.strip().lower()
+    inst_data = record.get('Institutions', '')
+    if isinstance(inst_data, dict):
+        for inst_list in inst_data.values():
+            for inst in inst_list:
+                inst = inst.strip().lower()
+                if inst:
+                    institutions.add(inst)
+    elif isinstance(inst_data, list):
+        for inst in inst_data:
+            inst = inst.strip().lower() if isinstance(inst, str) else ''
             if inst:
                 institutions.add(inst)
 
@@ -446,9 +480,16 @@ def compute_links(shortcode, all_records):
 
         # Institutional connection (weight: 0.8)
         other_institutions = set()
-        for inst_list in other.get('Institutions', '').values():
-            for inst in inst_list:
-                inst = inst.strip().lower()
+        other_inst_data = other.get('Institutions', '')
+        if isinstance(other_inst_data, dict):
+            for inst_list in other_inst_data.values():
+                for inst in inst_list:
+                    inst = inst.strip().lower()
+                    if inst:
+                        other_institutions.add(inst)
+        elif isinstance(other_inst_data, list):
+            for inst in other_inst_data:
+                inst = inst.strip().lower() if isinstance(inst, str) else ''
                 if inst:
                     other_institutions.add(inst)
         shared_inst = institutions & other_institutions
